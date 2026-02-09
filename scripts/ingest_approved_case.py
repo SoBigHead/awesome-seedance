@@ -128,7 +128,7 @@ def main():
     # For now, we only process image/gif links.
     if preview_url and preview_ok and preview_kind in {'image', 'gif'}:
         import tempfile
-        tmp = Path(tempfile.mkdtemp(prefix='seedance_preview_'))
+        tmp = pathlib.Path(tempfile.mkdtemp(prefix='seedance_preview_'))
         raw_path = tmp / (item_id + '_raw')
         download(preview_url, raw_path)
 
