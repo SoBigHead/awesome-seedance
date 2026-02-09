@@ -16,6 +16,12 @@
       "action"
     ],
     "prompt_full": "",
+    "preview": {
+      "ok": false,
+      "kind": "image",
+      "url": null,
+      "note": "set ok=true only if embed is allowed"
+    },
     "media": [],
     "credit": {
       "how_to_credit": "link-back"
