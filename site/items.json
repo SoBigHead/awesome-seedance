@@ -29,5 +29,39 @@
     "removal": {
       "policy": "fast-remove-on-request"
     }
+  },
+  {
+    "id": "seedance2-6434233ce210",
+    "type": "case",
+    "title": "Seedance 2.0 Just Changed AI Video Forever",
+    "url": "https://www.youtube.com/watch?v=28zPAhxwbzw",
+    "author": "TopviewAI",
+    "platform": "unknown",
+    "lang": "unknown",
+    "published_at": null,
+    "summary_zh": "Overview of Seedance 2.0 features and impact.",
+    "summary_en": "Overview of Seedance 2.0 features and impact.",
+    "metrics": {},
+    "tags": [
+      "video",
+      "review",
+      "commentary"
+    ],
+    "prompt_full": "",
+    "preview": {
+      "ok": true,
+      "kind": "image",
+      "url": "assets/thumbs/seedance2-6434233ce210.webp",
+      "note": "embedded with submitter permission"
+    },
+    "media": [],
+    "credit": {
+      "how_to_credit": "link-back"
+    },
+    "removal": {
+      "policy": "fast-remove-on-request"
+    },
+    "added_at": "2026-02-09T12:53:52.881071+00:00",
+    "source_issue": "https://github.com/SoBigHead/awesome-seedance/issues/5"
   }
 ]
