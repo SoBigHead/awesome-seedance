@@ -127,8 +127,8 @@ def main():
     # If a preview is provided AND permission checked, we try to store a local thumbnail for stability.
     # For now, we only process image/gif links.
     if preview_url and preview_ok and preview_kind in {'image', 'gif'}:
-        tmp = ROOT / 'tmp_preview'
-        tmp.mkdir(exist_ok=True)
+        import tempfile
+        tmp = Path(tempfile.mkdtemp(prefix='seedance_preview_'))
         raw_path = tmp / (item_id + '_raw')
         download(preview_url, raw_path)
 
