@@ -59,6 +59,12 @@ def download(url: str, out_path: pathlib.Path, max_mb: int = 10) -> None:
         out_path.write_bytes(data)
 
 
+
+
+def is_youtube_thumb(url: str) -> bool:
+    if not url: return False
+    u = url.lower()
+    return ('img.youtube.com/vi/' in u) or ('i.ytimg.com/vi' in u)
 def make_thumbnail(in_path: pathlib.Path, out_path: pathlib.Path, width: int = 480) -> None:
     if Image is None:
         raise RuntimeError('Pillow not available. Ensure pillow is installed.')
@@ -107,7 +113,11 @@ def main():
     preview_url = (fields.get('Preview Media URL (预览链接)') or '').strip()
 
     # Permission checkbox text fragment (as in issue template)
-    preview_ok = checkbox_checked(body, 'I confirm I am the author')
+    preview_ok = (
+        checkbox_checked(body, 'I am the author')
+        or checkbox_checked(body, 'platform-provided thumbnail')
+        or is_youtube_thumb(preview_url)
+    )
 
     if not url:
         raise RuntimeError('Missing Source URL')
@@ -140,7 +150,7 @@ def main():
             "ok": True,
             "kind": "image",
             "url": thumb_rel,
-            "note": "embedded with submitter permission",
+            "note": "embedded preview (author permission or platform thumbnail)",
         }
 
     item = {

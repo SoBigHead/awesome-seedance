@@ -78,9 +78,11 @@ body:
     id: preview_rights
     attributes:
       label: Preview Permission (预览授权)
-      description: Required if you provide Preview Media URL.
+      description: Required if you provide Preview Media URL. Tick ONE that applies.
       options:
-        - label: I confirm I am the author / have permission, and embedding this preview is allowed by the platform.
+        - label: I am the author / I have explicit permission from the author to embed this preview.
+          required: false
+        - label: This preview is a platform-provided thumbnail (e.g., YouTube thumbnail) and embedding is allowed by the platform.
           required: false
 
   - type: input
