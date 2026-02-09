@@ -1,0 +1,44 @@
+name: Submit a Case (提交案例)
+description: Submit a Seedance 2.0 case with full prompt and credit.
+labels: ["case"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Source URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author / Handle
+      placeholder: Unknown if you can't find it (will be marked needs-credit)
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Full Prompt (全文提示词)
+      render: text
+    validations:
+      required: false
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary (一句话摘要)
+    validations:
+      required: true
+  - type: textarea
+    id: tags
+    attributes:
+      label: Tags (comma-separated)
+      placeholder: multi-shot, audio, chase, tracking-shot
+    validations:
+      required: true

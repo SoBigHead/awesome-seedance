@@ -1,0 +1,31 @@
+name: Credit Fix (补充署名/来源)
+description: Provide original author/source for an existing item.
+labels: ["needs-credit"]
+body:
+  - type: input
+    id: source_url
+    attributes:
+      label: Item URL (条目链接)
+      description: The source link already in the list.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author / Handle
+      placeholder: @handle / name
+    validations:
+      required: true
+  - type: input
+    id: author_url
+    attributes:
+      label: Author URL (作者主页/原帖)
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Notes
+      placeholder: Anything to help verify attribution.
