@@ -1,5 +1,5 @@
 name: Submit a Case (提交案例)
-description: Submit a Seedance 2.0 case with full prompt and credit.
+description: Submit a Seedance 2.0 case with full prompt, credits, and optional preview media.
 labels: ["case"]
 body:
   - type: input
@@ -8,33 +8,33 @@ body:
       label: Title
     validations:
       required: true
+
   - type: input
     id: url
     attributes:
-      label: Source URL
+      label: Source URL (原链接)
+      description: The original post/video/article link.
       placeholder: https://...
     validations:
       required: true
+
   - type: input
     id: author
     attributes:
-      label: Author / Handle
-      placeholder: Unknown if you can't find it (will be marked needs-credit)
+      label: Author / Handle (作者)
+      description: If unknown, write "Unknown" (will be marked needs-credit).
+      placeholder: @handle / name / Unknown
     validations:
       required: true
-  - type: textarea
-    id: prompt
-    attributes:
-      label: Full Prompt (全文提示词)
-      render: text
-    validations:
-      required: false
+
   - type: textarea
     id: summary
     attributes:
       label: Summary (一句话摘要)
+      placeholder: Why this case is awesome.
     validations:
       required: true
+
   - type: textarea
     id: tags
     attributes:
@@ -42,3 +42,52 @@ body:
       placeholder: multi-shot, audio, chase, tracking-shot
     validations:
       required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Full Prompt (全文提示词，可选)
+      description: Paste the full prompt if you can.
+      render: text
+    validations:
+      required: false
+
+  - type: dropdown
+    id: preview_kind
+    attributes:
+      label: Preview Media Kind (预览类型)
+      description: Optional. If provided, it may be embedded in the gallery.
+      options:
+        - none
+        - image
+        - gif
+        - video
+    validations:
+      required: true
+
+  - type: input
+    id: preview_url
+    attributes:
+      label: Preview Media URL (预览链接)
+      description: Optional. A thumbnail/image/GIF/video URL that is safe to embed.
+      placeholder: https://...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: preview_rights
+    attributes:
+      label: Preview Permission (预览授权)
+      description: Required if you provide Preview Media URL.
+      options:
+        - label: I confirm I am the author / have permission, and embedding this preview is allowed by the platform.
+          required: false
+
+  - type: input
+    id: metrics
+    attributes:
+      label: Metrics (热度，可选)
+      description: e.g. upvotes/comments/views/stars.
+      placeholder: upvotes=439, comments=57
+    validations:
+      required: false
