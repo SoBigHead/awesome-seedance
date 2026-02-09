@@ -58,22 +58,30 @@ def build_case_md(idx: int, item: dict) -> str:
     lines.append(f"### Case {idx}: [{title}]({url})（by {author_link}）")
     lines.append("")
 
-    # Inline preview — clickable thumbnail linking to source video
+    # Inline preview
     # NOTE: GitHub README sanitizer strips <video> tags entirely.
-    # We use clickable thumbnail images instead (standard awesome-list pattern).
-    yt_id = youtube_id(url)
-    thumb_src = None
+    # For user-attachments URLs: bare URL on its own line → GitHub auto-renders as video player.
+    # For everything else: clickable thumbnail image.
+    if preview.get("ok"):
+        prev_url = preview.get("url") or ""
+        kind = (preview.get("kind") or "image").lower()
 
-    # Priority: local poster thumbnail > YouTube auto-thumbnail
-    poster = preview.get("poster") if preview.get("ok") else None
-    if poster:
-        thumb_src = poster
-    elif yt_id:
-        thumb_src = f"https://img.youtube.com/vi/{yt_id}/hqdefault.jpg"
-
-    if thumb_src:
-        lines.append(f'<a href="{url}"><img src="{thumb_src}" width="480" alt="{title}"></a>')
-        lines.append("")
+        if "user-attachments/assets" in prev_url:
+            # Bare URL = GitHub auto-renders inline video player
+            lines.append(prev_url)
+            lines.append("")
+        elif kind == "video":
+            # Non-user-attachments video: fall back to clickable thumbnail
+            poster = preview.get("poster")
+            yt_id = youtube_id(url)
+            thumb = poster or (f"https://img.youtube.com/vi/{yt_id}/hqdefault.jpg" if yt_id else None)
+            if thumb:
+                lines.append(f'<a href="{url}"><img src="{thumb}" width="480" alt="{title}"></a>')
+                lines.append("")
+        else:
+            # Image preview
+            lines.append(f'<a href="{url}"><img src="{prev_url}" width="480" alt="{title}"></a>')
+            lines.append("")
 
     # Tags
     if tags:
