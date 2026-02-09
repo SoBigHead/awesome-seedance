@@ -26,8 +26,11 @@ from datetime import datetime, timezone
 UA = "Mozilla/5.0 (compatible; awesome-seedance-bot/1.0)"
 
 
-def _fetch_bytes(url: str, timeout: int = 20) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+def _fetch_bytes(url: str, timeout: int = 20, headers: dict | None = None) -> bytes:
+    h = {"User-Agent": UA}
+    if headers:
+        h.update(headers)
+    req = urllib.request.Request(url, headers=h)
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
 
@@ -93,7 +96,16 @@ def bilibili_video_search(keyword: str, n: int = 8):
     )
 
     def _run():
-        data = json.loads(_fetch_bytes(url, timeout=20))
+        data = json.loads(
+            _fetch_bytes(
+                url,
+                timeout=20,
+                headers={
+                    "Referer": "https://search.bilibili.com/",
+                    "Accept": "application/json,text/plain,*/*",
+                },
+            )
+        )
         res = []
         for v in (data.get("data") or {}).get("result", [])[:n]:
             title = (v.get("title") or "").replace('<em class="keyword">', "").replace("</em>", "")
@@ -116,28 +128,38 @@ def main():
     lines = [f"## Hourly Discovery (C: 50/50 + heavy X) — {now}", ""]
 
     # 1) X/Twitter — priority
-    lines.append("### 🐦 X / Twitter (priority, via Bing RSS)")
+    lines.append("### 🐦 X / Twitter (priority)")
+    # NOTE: X is anti-scraping; search engines sometimes ignore `site:x.com` qualifiers.
+    # So we treat X as a manual-first source with shortcuts, plus best-effort indexed links.
+    lines.append("**Quick search shortcuts (manual):**")
+    lines.append("- Live search: https://x.com/search?q=seedance%202.0&f=live")
+    lines.append("- Hashtag: https://x.com/search?q=%23seedance&f=live")
+    lines.append("- Hashtag: https://x.com/search?q=%23seedance2&f=live")
+
     x_queries = [
-        'site:x.com seedance 2.0',
-        'site:x.com seedance2',
-        'site:x.com (seedance 2.0) (teaser OR demo OR showcase OR prompt)',
+        'seedance 2.0 x.com',
+        'seedance2 x.com',
+        '#seedance 2.0 x.com',
     ]
-    seen = set()
     x_items = []
     for q in x_queries:
         for title, link, pub in bing_rss(q, n=6):
-            if link in seen:
-                continue
-            seen.add(link)
-            x_items.append((title, link, pub))
-    for title, link, pub in x_items[:12]:
-        lines.append(f"- [{title}]({link}) ({pub})")
+            if 'x.com' in link:
+                x_items.append((title, link, pub))
+
+    if x_items:
+        lines.append("\n**Best-effort (indexed links):**")
+        for title, link, pub in x_items[:10]:
+            lines.append(f"- [{title}]({link}) ({pub})")
+    else:
+        lines.append("\n*(No direct x.com links from the index this hour — use the shortcuts above and paste good cases into an Issue.)*")
+
     lines.append("")
 
     # 2) CN (aim ~50%)
     lines.append("### 🇨🇳 CN cases (Bilibili + search)")
-    for title, link, play, author, _ in bilibili_video_search("Seedance 2.0", n=8):
-        lines.append(f"- **{play} views** — [{title}]({link}) (by {author})")
+    # Bilibili API is frequently protected (412). Use search shortcut instead.
+    lines.append("- Bilibili newest search: https://search.bilibili.com/all?keyword=Seedance%202.0&order=pubdate")
 
     cn_search_queries = [
         'site:xiaohongshu.com Seedance 2.0',
