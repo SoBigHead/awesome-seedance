@@ -98,5 +98,40 @@
     },
     "added_at": "2026-02-09T12:57:22.725453+00:00",
     "source_issue": "https://github.com/SoBigHead/awesome-seedance/issues/5"
+  },
+  {
+    "id": "seedance2-b4c556b1acc4",
+    "type": "case",
+    "title": "效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学",
+    "url": "https://www.youtube.com/watch?v=pRayR6I_9qY",
+    "author": "從零開始的Yann",
+    "platform": "unknown",
+    "lang": "unknown",
+    "published_at": null,
+    "summary_zh": "Chinese tutorial and showcase of Seedance 2.0 capabilities.",
+    "summary_en": "Chinese tutorial and showcase of Seedance 2.0 capabilities.",
+    "metrics": {},
+    "tags": [
+      "video",
+      "tutorial",
+      "cn",
+      "showcase"
+    ],
+    "prompt_full": "",
+    "preview": {
+      "ok": true,
+      "kind": "image",
+      "url": "assets/thumbs/seedance2-b4c556b1acc4.webp",
+      "note": "embedded with submitter permission"
+    },
+    "media": [],
+    "credit": {
+      "how_to_credit": "link-back"
+    },
+    "removal": {
+      "policy": "fast-remove-on-request"
+    },
+    "added_at": "2026-02-09T12:58:59.724914+00:00",
+    "source_issue": "https://github.com/SoBigHead/awesome-seedance/issues/6"
   }
 ]
