@@ -58,10 +58,23 @@ def build_case_md(idx: int, item: dict) -> str:
     lines.append(f"### Case {idx}: [{title}]({url})（by {author_link}）")
     lines.append("")
 
-    # Clickable thumbnail → video link
-    if thumb_path and preview.get("ok"):
-        lines.append(f'<a href="{url}"><img src="{thumb_path}" width="480" alt="{title}"></a>')
-        lines.append("")
+    # Inline preview
+    if preview.get("ok"):
+        kind = (preview.get("kind") or "image").lower()
+        prev_url = preview.get("url") or ""
+        poster = preview.get("poster")
+
+        if kind == "video" or str(prev_url).lower().endswith((".mp4", ".webm")):
+            poster_attr = f' poster="{poster}"' if poster else ""
+            # GitHub supports <video> for direct video URLs (e.g., user-attachments, releases)
+            lines.append(
+                f'<video src="{prev_url}" width="480" controls muted loop playsinline{poster_attr}></video>'
+            )
+            lines.append("")
+        elif thumb_path:
+            # Clickable thumbnail → source link
+            lines.append(f'<a href="{url}"><img src="{thumb_path}" width="480" alt="{title}"></a>')
+            lines.append("")
 
     # Tags
     if tags:

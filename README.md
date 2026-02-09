@@ -6,7 +6,7 @@
 
 精选 Seedance 2.0 AI 视频案例库
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![Submit a Case](https://img.shields.io/badge/Submit-a_Case-blue)](../../issues/new?template=submit-case.yml)
 
 </div>
@@ -26,7 +26,7 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 ### Case 1: [Fire Mountain Cursed? Seedance 2.0 - AI Generated Weapon Animations Showcase](https://www.youtube.com/watch?v=rHLkQh80Row)（by [Fire Mountain](https://www.youtube.com/watch?v=rHLkQh80Row)）
 
-<a href="https://www.youtube.com/watch?v=rHLkQh80Row"><img src="assets/thumbs/seedance2-dfdf774eb8c8.webp" width="480" alt="Fire Mountain Cursed? Seedance 2.0 - AI Generated Weapon Animations Showcase"></a>
+<video src="https://github.com/SoBigHead/awesome-seedance/releases/download/media/fire_mountain.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-dfdf774eb8c8.webp"></video>
 
 **Tags:** `video` `showcase` `animation` `weapon`
 
@@ -34,7 +34,7 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 ### Case 2: [Seedance 2.0 Just Changed AI Video Forever](https://www.youtube.com/watch?v=28zPAhxwbzw)（by [TopviewAI](https://www.youtube.com/watch?v=28zPAhxwbzw)）
 
-<a href="https://www.youtube.com/watch?v=28zPAhxwbzw"><img src="assets/thumbs/seedance2-6434233ce210.webp" width="480" alt="Seedance 2.0 Just Changed AI Video Forever"></a>
+<video src="https://github.com/SoBigHead/awesome-seedance/releases/download/media/topview.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-6434233ce210.webp"></video>
 
 **Tags:** `video` `review` `commentary`
 
@@ -42,7 +42,7 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 ### Case 3: [效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学](https://www.youtube.com/watch?v=pRayR6I_9qY)（by [從零開始的Yann](https://www.youtube.com/watch?v=pRayR6I_9qY)）
 
-<a href="https://www.youtube.com/watch?v=pRayR6I_9qY"><img src="assets/thumbs/seedance2-b4c556b1acc4.webp" width="480" alt="效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学"></a>
+<video src="https://github.com/SoBigHead/awesome-seedance/releases/download/media/yann.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-b4c556b1acc4.webp"></video>
 
 **Tags:** `video` `tutorial` `cn` `showcase`
 

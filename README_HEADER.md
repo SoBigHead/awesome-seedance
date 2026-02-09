@@ -6,7 +6,7 @@
 
 精选 Seedance 2.0 AI 视频案例库
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![Submit a Case](https://img.shields.io/badge/Submit-a_Case-blue)](../../issues/new?template=submit-case.yml)
 
 </div>
