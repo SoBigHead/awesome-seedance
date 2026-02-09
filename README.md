@@ -1,32 +1,57 @@
-# awesome-seedance  
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-中文 | [English](README.en.md)
+# 🎬 Awesome Seedance
 
-维护：**Uota🦞**
+**A curated gallery of the best Seedance 2.0 AI video cases.**
 
-> 一个 **Seedance 2.0** 的案例 / Prompt / Storyboard 模板库（awesome list + gallery）。
-> 
-> 核心原则：**案例，案例，案例** —— 可浏览、可复用、可追溯出处。
+精选 Seedance 2.0 AI 视频案例库
 
-## 官方入口（必读）
-- 官方手册（飞书）：https://bytedance.larkoffice.com/wiki/A5RHwWhoBiOnjukIIw6cu5ybnXQ
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Submit a Case](https://img.shields.io/badge/Submit-a_Case-blue)](../../issues/new?template=submit-case.yml)
 
-## 版权与署名（厚道规则）
-- 我们优先收录「原链接 + 原作者署名」。
-- 允许先收录来源不明的案例/提示词，但会显著标注 `Author: Unknown` + `needs-credit`，并欢迎社区补充出处（见 **Credit Fix**）。
-- **预览图 / 短 GIF / 缩略图（可选）**（详见 `docs/8_media_policy.md`）：
-  - 仅在投稿者确认 **自己是作者/已获授权/平台允许嵌入** 的情况下展示预览。
-  - 默认始终保留并优先指向原链接（link-back）。
-- 如原作者希望下架：请提交 **Removal Request**（Issue），我们会快速处理。
+</div>
 
-## 如何投稿
-- 提交案例 / prompt / 模板：请用 GitHub Issues 表单。
-- 补充署名（给出原作者链接）：请用 “Credit Fix” 表单。
+## 🎬 Introduction
 
-## Gallery
-- GitHub Pages：<https://sobighead.github.io/awesome-seedance/>（支持搜索/按标签筛选）
+We collect stunning video cases generated with **Seedance 2.0** from YouTube, X/Twitter, Bilibili and more — showcasing what's possible with the latest AI video generation.
 
-## License
-- 本仓库的“编排与索引”采用 CC BY 4.0。
-- 各条目中引用的 prompt/媒体内容，权利归原作者/原平台所有。
+我们从 YouTube、X/Twitter、B站等平台收集 **Seedance 2.0** 生成的精彩视频案例，展示 AI 视频生成的最新可能性。
+
+Cases are sourced from the community. Click any thumbnail to watch the full video. ⭐ Star this repo to stay updated!
+
+> [!TIP]
+> Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
+
+## 🎥 Seedance 2.0 Cases
+
+### Case 1: [Fire Mountain Cursed? Seedance 2.0 - AI Generated Weapon Animations Showcase](https://www.youtube.com/watch?v=rHLkQh80Row)（by [Fire Mountain](https://www.youtube.com/watch?v=rHLkQh80Row)）
+
+<a href="https://www.youtube.com/watch?v=rHLkQh80Row"><img src="assets/thumbs/seedance2-dfdf774eb8c8.webp" width="480" alt="Fire Mountain Cursed? Seedance 2.0 - AI Generated Weapon Animations Showcase"></a>
+
+**Tags:** `video` `showcase` `animation` `weapon`
+
+> Weapon animation showcase generated with Seedance 2.0.
+
+### Case 2: [Seedance 2.0 Just Changed AI Video Forever](https://www.youtube.com/watch?v=28zPAhxwbzw)（by [TopviewAI](https://www.youtube.com/watch?v=28zPAhxwbzw)）
+
+<a href="https://www.youtube.com/watch?v=28zPAhxwbzw"><img src="assets/thumbs/seedance2-6434233ce210.webp" width="480" alt="Seedance 2.0 Just Changed AI Video Forever"></a>
+
+**Tags:** `video` `review` `commentary`
+
+> Overview of Seedance 2.0 features and impact.
+
+### Case 3: [效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学](https://www.youtube.com/watch?v=pRayR6I_9qY)（by [從零開始的Yann](https://www.youtube.com/watch?v=pRayR6I_9qY)）
+
+<a href="https://www.youtube.com/watch?v=pRayR6I_9qY"><img src="assets/thumbs/seedance2-b4c556b1acc4.webp" width="480" alt="效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学"></a>
+
+**Tags:** `video` `tutorial` `cn` `showcase`
+
+> Chinese tutorial and showcase of Seedance 2.0 capabilities.
+
+## 🤝 Contributing
+
+Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
+
+---
+
+*Auto-generated from [data/items.jsonl](data/items.jsonl). Do not edit the Cases section manually.*

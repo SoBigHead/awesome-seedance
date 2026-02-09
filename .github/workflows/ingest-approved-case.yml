@@ -34,9 +34,9 @@ jobs:
       - name: Ingest issue
         run: |
           python3 scripts/ingest_approved_case.py
-      - name: Build site json
+      - name: Build README
         run: |
-          python3 scripts/build_site.py
+          python3 scripts/build_readme.py
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"

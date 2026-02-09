@@ -20,7 +20,7 @@ from issue_parse import parse_issue_form, checkbox_checked
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 ITEMS = ROOT / 'data' / 'items.jsonl'
-THUMBS_DIR = ROOT / 'site' / 'assets' / 'thumbs'
+THUMBS_DIR = ROOT / 'assets' / 'thumbs'
 THUMBS_DIR.mkdir(parents=True, exist_ok=True)
 
 APPROVE_LABEL = 'approved'
