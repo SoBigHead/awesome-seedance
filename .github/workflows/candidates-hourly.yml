@@ -13,25 +13,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Generate snippet
-        id: gen
         run: |
           python3 scripts/discover_candidates.py > /tmp/snippet.md
-          echo "snippet<<EOF" >> $GITHUB_OUTPUT
-          cat /tmp/snippet.md >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
       - name: Post to Candidate Feed issue
         uses: actions/github-script@v7
         with:
           script: |
+            const fs = require('fs');
             const owner = context.repo.owner;
             const repo = context.repo.repo;
             const title = 'Candidate Feed (hourly)';
             const label = 'candidate-feed';
-            // find existing
+
             const issues = await github.paginate(github.rest.issues.listForRepo, {owner, repo, state: 'open', labels: label, per_page: 100});
             let issue = issues.find(i => i.title === title);
             if (!issue) {
               issue = (await github.rest.issues.create({owner, repo, title, body: 'Hourly candidate scan feed. Maintained by Uota🦞', labels: [label]})).data;
             }
-            const body = `${{ steps.gen.outputs.snippet }}`;
+
+            const body = fs.readFileSync('/tmp/snippet.md', 'utf8');
             await github.rest.issues.createComment({owner, repo, issue_number: issue.number, body});
