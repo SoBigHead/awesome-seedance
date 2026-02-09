@@ -40,14 +40,6 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Overview of Seedance 2.0 features and impact.
 
-### Case 3: [效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学](https://www.youtube.com/watch?v=pRayR6I_9qY)（by [從零開始的Yann](https://www.youtube.com/watch?v=pRayR6I_9qY)）
-
-https://github.com/user-attachments/assets/7c17b1b5-f09a-4518-860a-58229533680f
-
-**Tags:** `video` `tutorial` `cn` `showcase`
-
-> Chinese tutorial and showcase of Seedance 2.0 capabilities.
-
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
