@@ -1,101 +1,179 @@
 #!/usr/bin/env python3
-"""Lightweight hourly discovery.
+"""Hourly candidate discovery (C-strategy: ~50/50 CN vs Global, with heavy X focus).
 
-Outputs markdown snippet for a feed issue.
-Sources (best-effort):
-- HN Algolia: 'seedance 2.0' stories
-- Reddit search JSON: 'seedance 2.0' top/new (may be rate-limited)
-- GitHub repos: seedance2 prompts/tools (not cases but useful)
+This script generates a markdown snippet posted into the "Candidate Feed (hourly)" issue.
+It should be:
+- High-signal: links you can turn into cases
+- Low-risk: best-effort crawling, never blocks the pipeline
 
-This is a *candidate* feed only; nothing is auto-added.
+Sources:
+- X/Twitter: via Bing RSS (site:x.com) (reliable without X API)
+- CN: Bilibili API + Bing RSS for zhihu/wechat/xhs (best-effort)
+- Global: Hacker News Algolia + Bing RSS for youtube
+- GitHub: repo searches for tools/prompts/wrappers
+
+NOTE: This is a candidate feed only; NOTHING is auto-added.
 """
 
+from __future__ import annotations
+
 import json
-import os
-import textwrap
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
+UA = "Mozilla/5.0 (compatible; awesome-seedance-bot/1.0)"
 
-def fetch_json(url: str, headers=None, timeout=20):
-    req = urllib.request.Request(url, headers=headers or {'User-Agent': 'awesome-seedance-bot/1.0'})
+
+def _fetch_bytes(url: str, timeout: int = 20) -> bytes:
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read())
+        return resp.read()
 
 
-def hn_hits(q: str, n=8):
-    url = 'https://hn.algolia.com/api/v1/search?' + urllib.parse.urlencode({
-        'query': q,
-        'tags': 'story',
-        'hitsPerPage': n,
-    })
-    data = fetch_json(url)
-    hits = []
-    for h in data.get('hits', []):
-        title = h.get('title')
-        points = h.get('points')
-        comments = h.get('num_comments')
-        obj = h.get('objectID')
-        link = f'https://news.ycombinator.com/item?id={obj}'
-        created = h.get('created_at')
-        hits.append((title, link, points, comments, created))
-    return hits
+def _safe(fn, fallback):
+    try:
+        return fn()
+    except Exception as e:
+        return fallback(e)
 
 
-def reddit_hits(q: str, n=8):
-    url = 'https://www.reddit.com/search.json?' + urllib.parse.urlencode({
-        'q': q,
-        'sort': 'new',
-        't': 'day',
-        'limit': n,
-    })
-    headers = {'User-Agent': 'awesome-seedance-bot/1.0'}
-    data = fetch_json(url, headers=headers)
-    out = []
-    for ch in data.get('data', {}).get('children', []):
-        d = ch.get('data', {})
-        title = d.get('title')
-        score = d.get('score')
-        comments = d.get('num_comments')
-        permalink = d.get('permalink')
-        link = 'https://www.reddit.com' + permalink
-        created = d.get('created_utc')
-        out.append((title, link, score, comments, created))
-    return out
+def bing_rss(query: str, n: int = 10):
+    """Bing search RSS; good for finding social links without JS scraping."""
+    url = "https://www.bing.com/search?format=rss&q=" + urllib.parse.quote(query)
+
+    def _run():
+        xml = _fetch_bytes(url, timeout=25)
+        root = ET.fromstring(xml)
+        items = []
+        for it in root.findall("./channel/item"):
+            title = (it.findtext("title") or "").strip()
+            link = (it.findtext("link") or "").strip()
+            pub = (it.findtext("pubDate") or "").strip()
+            if title and link:
+                items.append((title, link, pub))
+        return items[:n]
+
+    return _safe(_run, lambda e: [(f"(bing rss failed: {e})", url, "")])
 
 
-def gh_repos(q: str, n=6):
-    # Use GitHub search API via unauthenticated https (works in Actions with token too, but keep simple)
-    # We'll just output query for humans; actual harvesting is manual.
-    return [(q, f'https://github.com/search?q={urllib.parse.quote(q)}&type=repositories')]
+def hn_algolia(q: str, n: int = 8):
+    url = "https://hn.algolia.com/api/v1/search?" + urllib.parse.urlencode(
+        {"query": q, "tags": "story", "hitsPerPage": n}
+    )
+
+    def _run():
+        data = json.loads(_fetch_bytes(url, timeout=20))
+        hits = []
+        for h in data.get("hits", [])[:n]:
+            title = h.get("title")
+            points = h.get("points")
+            comments = h.get("num_comments")
+            link = f"https://news.ycombinator.com/item?id={h.get('objectID')}"
+            created = h.get("created_at")
+            hits.append((title, link, points, comments, created))
+        return hits
+
+    return _safe(_run, lambda e: [(f"(hn failed: {e})", url, 0, 0, "")])
+
+
+def bilibili_video_search(keyword: str, n: int = 8):
+    # Newest first
+    url = (
+        "https://api.bilibili.com/x/web-interface/search/type?"
+        + urllib.parse.urlencode(
+            {
+                "search_type": "video",
+                "keyword": keyword,
+                "order": "pubdate",
+                "page": 1,
+            }
+        )
+    )
+
+    def _run():
+        data = json.loads(_fetch_bytes(url, timeout=20))
+        res = []
+        for v in (data.get("data") or {}).get("result", [])[:n]:
+            title = (v.get("title") or "").replace('<em class="keyword">', "").replace("</em>", "")
+            arcurl = v.get("arcurl")
+            play = v.get("play")
+            author = v.get("author")
+            pubdate = v.get("pubdate")
+            res.append((title, arcurl, play, author, pubdate))
+        return res
+
+    return _safe(_run, lambda e: [(f"(bilibili failed: {e})", url, 0, "", "")])
+
+
+def gh_repo_search_link(q: str) -> str:
+    return f"https://github.com/search?q={urllib.parse.quote(q)}&type=repositories"
 
 
 def main():
-    now = datetime.now(timezone.utc).astimezone().strftime('%Y-%m-%d %H:%M %Z')
-    lines = [f'## Hourly candidates — {now}', '']
+    now = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %Z")
+    lines = [f"## Hourly Discovery (C: 50/50 + heavy X) — {now}", ""]
 
-    lines.append('### Hacker News (Algolia)')
-    for title, link, points, comments, created in hn_hits('Seedance 2.0', 8):
-        lines.append(f'- **{points} pts / {comments} comments** — [{title}]({link}) ({created})')
-    lines.append('')
+    # 1) X/Twitter — priority
+    lines.append("### 🐦 X / Twitter (priority, via Bing RSS)")
+    x_queries = [
+        'site:x.com seedance 2.0',
+        'site:x.com seedance2',
+        'site:x.com (seedance 2.0) (teaser OR demo OR showcase OR prompt)',
+    ]
+    seen = set()
+    x_items = []
+    for q in x_queries:
+        for title, link, pub in bing_rss(q, n=6):
+            if link in seen:
+                continue
+            seen.add(link)
+            x_items.append((title, link, pub))
+    for title, link, pub in x_items[:12]:
+        lines.append(f"- [{title}]({link}) ({pub})")
+    lines.append("")
 
-    lines.append('### Reddit (best-effort)')
-    try:
-        for title, link, score, comments, _ in reddit_hits('Seedance 2.0', 8):
-            lines.append(f'- **{score} score / {comments} comments** — [{title}]({link})')
-    except Exception as e:
-        lines.append(f'- (reddit fetch failed: `{e}`)')
-    lines.append('')
+    # 2) CN (aim ~50%)
+    lines.append("### 🇨🇳 CN cases (Bilibili + search)")
+    for title, link, play, author, _ in bilibili_video_search("Seedance 2.0", n=8):
+        lines.append(f"- **{play} views** — [{title}]({link}) (by {author})")
 
-    lines.append('### GitHub (related repos)')
-    for _, link in gh_repos('seedance2 prompts', 1):
-        lines.append(f'- Search: {link}')
-    for _, link in gh_repos('awesome seedance2', 1):
-        lines.append(f'- Search: {link}')
+    cn_search_queries = [
+        'site:xiaohongshu.com Seedance 2.0',
+        'site:mp.weixin.qq.com Seedance 2.0',
+        'site:zhihu.com Seedance 2.0 Seedance',
+    ]
+    for q in cn_search_queries:
+        lines.append(f"\n**Search:** `{q}`")
+        for title, link, pub in bing_rss(q, n=3):
+            lines.append(f"- [{title}]({link}) ({pub})")
+    lines.append("")
 
-    print('\n'.join(lines))
+    # 3) Global
+    lines.append("### 🌍 Global (HN + YouTube via search)")
+    for title, link, points, comments, created in hn_algolia("Seedance 2.0", n=6):
+        lines.append(f"- **{points} pts / {comments} comments** — [{title}]({link}) ({created})")
+
+    yt_q = 'site:youtube.com Seedance 2.0'
+    lines.append(f"\n**Search:** `{yt_q}`")
+    for title, link, pub in bing_rss(yt_q, n=6):
+        lines.append(f"- [{title}]({link}) ({pub})")
+
+    lines.append("")
+
+    # 4) GitHub (tools/wrappers)
+    lines.append("### 🧰 GitHub (tools / wrappers / prompts)")
+    for q in [
+        "seedance2 prompts",
+        "seedance2 api",
+        "seedance2 wrapper",
+        "awesome seedance2",
+    ]:
+        lines.append(f"- Search: {gh_repo_search_link(q)}")
+
+    print("\n".join(lines))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
