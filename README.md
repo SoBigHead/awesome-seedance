@@ -26,7 +26,7 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 ### Case 1: [Fire Mountain Cursed? Seedance 2.0 - AI Generated Weapon Animations Showcase](https://www.youtube.com/watch?v=rHLkQh80Row)（by [Fire Mountain](https://www.youtube.com/watch?v=rHLkQh80Row)）
 
-<video src="https://raw.githubusercontent.com/SoBigHead/awesome-seedance/main/assets/previews/fire_mountain.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-dfdf774eb8c8.webp"></video>
+<video src="assets/previews/fire_mountain.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-dfdf774eb8c8.webp"></video>
 
 **Tags:** `video` `showcase` `animation` `weapon`
 
@@ -34,7 +34,7 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 ### Case 2: [Seedance 2.0 Just Changed AI Video Forever](https://www.youtube.com/watch?v=28zPAhxwbzw)（by [TopviewAI](https://www.youtube.com/watch?v=28zPAhxwbzw)）
 
-<video src="https://github.com/SoBigHead/awesome-seedance/releases/download/media/topview.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-6434233ce210.webp"></video>
+<video src="assets/previews/topview.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-6434233ce210.webp"></video>
 
 **Tags:** `video` `review` `commentary`
 
@@ -42,7 +42,7 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 ### Case 3: [效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学](https://www.youtube.com/watch?v=pRayR6I_9qY)（by [從零開始的Yann](https://www.youtube.com/watch?v=pRayR6I_9qY)）
 
-<video src="https://github.com/SoBigHead/awesome-seedance/releases/download/media/yann.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-b4c556b1acc4.webp"></video>
+<video src="assets/previews/yann.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-b4c556b1acc4.webp"></video>
 
 **Tags:** `video` `tutorial` `cn` `showcase`
 
