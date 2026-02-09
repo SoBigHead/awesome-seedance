@@ -1,0 +1,33 @@
+name: Daily Hygiene
+on:
+  schedule:
+    - cron: '30 0 * * *'  # daily
+  workflow_dispatch: {}
+
+permissions:
+  issues: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build hygiene report
+        run: |
+          python3 scripts/hygiene_report.py
+      - name: Post to Hygiene Feed issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const title = 'Hygiene Feed (daily)';
+            const label = 'hygiene-feed';
+            const issues = await github.paginate(github.rest.issues.listForRepo, {owner, repo, state: 'open', labels: label, per_page: 100});
+            let issue = issues.find(i => i.title === title);
+            if (!issue) {
+              issue = (await github.rest.issues.create({owner, repo, title, body: 'Daily hygiene reports. Maintained by Uota🦞', labels: [label]})).data;
+            }
+            const body = fs.readFileSync('reports/hygiene.md', 'utf8');
+            await github.rest.issues.createComment({owner, repo, issue_number: issue.number, body});
