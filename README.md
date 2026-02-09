@@ -26,7 +26,7 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 ### Case 1: [Fire Mountain Cursed? Seedance 2.0 - AI Generated Weapon Animations Showcase](https://www.youtube.com/watch?v=rHLkQh80Row)（by [Fire Mountain](https://www.youtube.com/watch?v=rHLkQh80Row)）
 
-<video src="https://github.com/SoBigHead/awesome-seedance/releases/download/media/fire_mountain.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-dfdf774eb8c8.webp"></video>
+<video src="https://raw.githubusercontent.com/SoBigHead/awesome-seedance/main/assets/previews/fire_mountain.mp4" width="480" controls muted loop playsinline poster="assets/thumbs/seedance2-dfdf774eb8c8.webp"></video>
 
 **Tags:** `video` `showcase` `animation` `weapon`
 
