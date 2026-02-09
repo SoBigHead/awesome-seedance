@@ -29,5 +29,40 @@
     "removal": {
       "policy": "fast-remove-on-request"
     }
+  },
+  {
+    "id": "seedance2-dfdf774eb8c8",
+    "type": "case",
+    "title": "Fire Mountain Cursed? Seedance 2.0 - AI Generated Weapon Animations Showcase",
+    "url": "https://www.youtube.com/watch?v=rHLkQh80Row",
+    "author": "Fire Mountain",
+    "platform": "unknown",
+    "lang": "unknown",
+    "published_at": null,
+    "summary_zh": "Weapon animation showcase generated with Seedance 2.0.",
+    "summary_en": "Weapon animation showcase generated with Seedance 2.0.",
+    "metrics": {},
+    "tags": [
+      "video",
+      "showcase",
+      "animation",
+      "weapon"
+    ],
+    "prompt_full": "",
+    "preview": {
+      "ok": true,
+      "kind": "image",
+      "url": "assets/thumbs/seedance2-dfdf774eb8c8.webp",
+      "note": "embedded with submitter permission"
+    },
+    "media": [],
+    "credit": {
+      "how_to_credit": "link-back"
+    },
+    "removal": {
+      "policy": "fast-remove-on-request"
+    },
+    "added_at": "2026-02-09T12:56:55.296238+00:00",
+    "source_issue": "https://github.com/SoBigHead/awesome-seedance/issues/4"
   }
 ]
