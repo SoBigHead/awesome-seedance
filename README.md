@@ -270,6 +270,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 实操评测：从创作者视角展示实际生成效果
 
+### Case 31: [🔥Seedance2.0杀疯了！一个人直接拍电影全教程](https://www.youtube.com/watch?v=ni7CPLjJbDg)（by 上海刀哥）
+
+<a href="https://www.youtube.com/watch?v=ni7CPLjJbDg"><img src="https://img.youtube.com/vi/ni7CPLjJbDg/hqdefault.jpg" width="480" alt="🔥Seedance2.0杀疯了！一个人直接拍电影全教程"></a>
+
+**Tags:** `tutorial` `filmmaking` `workflow` `cn` `showcase`
+
+> 19分钟完整教程：用 Seedance 2.0 一个人拍电影，从即梦平台操作到实际生成效果全流程演示
+
+### Case 32: [效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学](https://www.youtube.com/watch?v=pRayR6I_9qY)（by 從零開始的Yann）
+
+<a href="https://www.youtube.com/watch?v=pRayR6I_9qY"><img src="https://img.youtube.com/vi/pRayR6I_9qY/hqdefault.jpg" width="480" alt="效果炸裂！AI视频之神降临！Seedance 2.0超越目前所有模型！附使用教学"></a>
+
+**Tags:** `tutorial` `showcase` `anime` `3d` `cinematic` `zh-tw`
+
+> Seedance 2.0 效果展示 + 即梦平台使用教学，含电影、二次元动漫、3D动画等多种风格实际生成效果
+
+### Case 33: [10元只能生成15秒？Seedance 2.0 定价真相与完整制作流程解析](https://www.youtube.com/watch?v=_BUOTfS4bOw)（by 老范讲故事）
+
+<a href="https://www.youtube.com/watch?v=_BUOTfS4bOw"><img src="https://img.youtube.com/vi/_BUOTfS4bOw/hqdefault.jpg" width="480" alt="10元只能生成15秒？Seedance 2.0 定价真相与完整制作流程解析"></a>
+
+**Tags:** `review` `analysis` `pricing` `workflow` `cn` `hands-on`
+
+> 17分钟深度分析：Seedance 2.0 的 DiT 技术原理、积分体系、商业成本核算，含实战演示制作多人跳海豹舞视频
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
