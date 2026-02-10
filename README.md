@@ -294,6 +294,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 17分钟深度分析：Seedance 2.0 的 DiT 技术原理、积分体系、商业成本核算，含实战演示制作多人跳海豹舞视频
 
+### Case 34: [China's ByteDance just dropped the most advanced video AI — Seedance 2.0](https://x.com/deedydas/status/2020911900968767976)（by [@deedydas](https://x.com/deedydas)）
+
+<a href="https://x.com/deedydas/status/2020911900968767976"><img src="assets/thumbs/seedance2-deedydas-viral.svg" width="480" alt="China's ByteDance just dropped the most advanced video AI — Seedance 2.0"></a>
+
+**Tags:** `viral` `announcement` `multi-shot` `audio` `lip-sync`
+
+> ByteDance 发布最先进的视频生成AI Seedance 2.0，支持多镜头、音画同步等功能
+
+### Case 35: [This Seedance 2.0 example is absolutely unhinged](https://x.com/minchoi/status/2021074422682255864)（by [@minchoi](https://x.com/minchoi)）
+
+<a href="https://x.com/minchoi/status/2021074422682255864"><img src="assets/thumbs/seedance2-minchoi-unhinged.svg" width="480" alt="This Seedance 2.0 example is absolutely unhinged"></a>
+
+**Tags:** `showcase` `viral` `example`
+
+> Seedance 2.0 生成的惊人示例，展示其强大的视频生成能力
+
+### Case 36: [This Seedance 2.0 example is wild](https://x.com/minchoi/status/2020989515939148146)（by [@minchoi](https://x.com/minchoi)）
+
+<a href="https://x.com/minchoi/status/2020989515939148146"><img src="assets/thumbs/seedance2-minchoi-wild.svg" width="480" alt="This Seedance 2.0 example is wild"></a>
+
+**Tags:** `showcase` `viral` `example` `prompt-shared`
+
+> Seedance 2.0 生成的震撼示例，附提示词
+
+### Case 37: [Seedance 2.0 UGC — 无需真人即可量产广告](https://x.com/milbon_/status/2021038513534403057)（by [@milbon_](https://x.com/milbon_)）
+
+<a href="https://x.com/milbon_/status/2021038513534403057"><img src="assets/thumbs/seedance2-milbon-ugc.svg" width="480" alt="Seedance 2.0 UGC — 无需真人即可量产广告"></a>
+
+**Tags:** `commercial` `ugc` `advertising` `showcase` `ja`
+
+> Seedance 2.0 生成的UGC示例，展示无需真人即可量产商业广告的时代已到来
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
