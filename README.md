@@ -190,6 +190,62 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Comprehensive side-by-side comparison of top AI video generators including Seedance by solo AI creator
 
+### Case 21: [AI Video Just Went TOO FAR... Seedance 2.0](https://www.youtube.com/watch?v=7J_QLqHk6ns)（by RandomAI）
+
+<a href="https://www.youtube.com/watch?v=7J_QLqHk6ns"><img src="https://img.youtube.com/vi/7J_QLqHk6ns/hqdefault.jpg" width="480" alt="AI Video Just Went TOO FAR... Seedance 2.0"></a>
+
+**Tags:** `showcase` `animation` `vfx` `product`
+
+> Real examples created using Seedance 2.0: fight scenes, anime-style animation, product showcases, motion capture, realistic explosions
+
+### Case 22: [Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=_o2MuUX9UYg)（by Theoretically Media）
+
+<a href="https://www.youtube.com/watch?v=_o2MuUX9UYg"><img src="https://img.youtube.com/vi/_o2MuUX9UYg/hqdefault.jpg" width="480" alt="Seedance 2.0 Claims the AI Video Throne!"></a>
+
+**Tags:** `review` `feature-demo` `multi-shot` `audio`
+
+> Full walkthrough of Seedance 2.0 features with diverse examples — multimodal capabilities with image, video, audio and text inputs
+
+### Case 23: [Seedance 2.0 is Actually Insane](https://www.youtube.com/watch?v=nTOjyxlOlps)（by Mike's Ai Forge）
+
+<a href="https://www.youtube.com/watch?v=nTOjyxlOlps"><img src="https://img.youtube.com/vi/nTOjyxlOlps/hqdefault.jpg" width="480" alt="Seedance 2.0 is Actually Insane"></a>
+
+**Tags:** `showcase` `vfx` `multi-shot` `audio` `cinematic`
+
+> Multimodal input system blending images and audio for consistency — kung fu fight scenes to Hollywood-level VFX, all in real-time
+
+### Case 24: [This AI Video Benchmark Tells the Truth | Seedance vs Kling vs Sora vs Veo](https://www.youtube.com/watch?v=OouLmaS4uVc)（by WaveSpeedAI）
+
+<a href="https://www.youtube.com/watch?v=OouLmaS4uVc"><img src="https://img.youtube.com/vi/OouLmaS4uVc/hqdefault.jpg" width="480" alt="This AI Video Benchmark Tells the Truth | Seedance vs Kling vs Sora vs Veo"></a>
+
+**Tags:** `comparison` `benchmark` `technical`
+
+> Controlled benchmark comparison: Seedance 2.0 vs Kling 3.0 vs Sora 2 vs Veo 3.1 with identical prompts
+
+### Case 25: [Girls Frontline 2 | Vector Combat Animation - Seedance 2.0 Test](https://www.youtube.com/watch?v=1L_RsynFghE)（by Fire Mountain）
+
+<a href="https://www.youtube.com/watch?v=1L_RsynFghE"><img src="https://img.youtube.com/vi/1L_RsynFghE/hqdefault.jpg" width="480" alt="Girls Frontline 2 | Vector Combat Animation - Seedance 2.0 Test"></a>
+
+**Tags:** `animation` `character` `showcase` `anime`
+
+> Anime-style combat animation test using Seedance 2.0 — Girls Frontline 2 Vector character
+
+### Case 26: [Free Seedance 2.0 for AI Creators - Whats Likely Coming](https://www.youtube.com/watch?v=GWUl8ACJavU)（by Crypto Adviser）
+
+<a href="https://www.youtube.com/watch?v=GWUl8ACJavU"><img src="https://img.youtube.com/vi/GWUl8ACJavU/hqdefault.jpg" width="480" alt="Free Seedance 2.0 for AI Creators - Whats Likely Coming"></a>
+
+**Tags:** `review` `feature-demo` `early-access`
+
+> Analysis of Seedance 2.0 early signals and what creators can expect from the upcoming release
+
+### Case 27: [Seedance 2.0 vs Kling 3.0: The NEW KING of AI Video is Here! (Full Review)](https://www.youtube.com/watch?v=yFUxH17jV00)（by PixPretty）
+
+<a href="https://www.youtube.com/watch?v=yFUxH17jV00"><img src="https://img.youtube.com/vi/yFUxH17jV00/hqdefault.jpg" width="480" alt="Seedance 2.0 vs Kling 3.0: The NEW KING of AI Video is Here! (Full Review)"></a>
+
+**Tags:** `comparison` `review`
+
+> Head-to-head comparison of Seedance 2.0 vs Kling 3.0 for the AI video crown
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
