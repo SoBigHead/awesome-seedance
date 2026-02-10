@@ -326,6 +326,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成的UGC示例，展示无需真人即可量产商业广告的时代已到来
 
+### Case 38: [Seedance 2.0 First Test | Access Link Shared](https://www.youtube.com/watch?v=138ZMLTtKfE)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=138ZMLTtKfE"><img src="https://img.youtube.com/vi/138ZMLTtKfE/hqdefault.jpg" width="480" alt="Seedance 2.0 First Test | Access Link Shared"></a>
+
+**Tags:** `first-test` `image-to-video` `sound-design` `showcase` `hands-on`
+
+> Seedance 2.0 首测：每个片段仅用一张参考图+一条提示词生成，动态流畅、提示词遵循度高，还自带音效设计
+
+### Case 39: [Seedance 2.0 深度评测｜AI视频生产力革命](https://www.youtube.com/watch?v=uCQurb4yedQ)（by CG迷）
+
+<a href="https://www.youtube.com/watch?v=uCQurb4yedQ"><img src="https://img.youtube.com/vi/uCQurb4yedQ/hqdefault.jpg" width="480" alt="Seedance 2.0 深度评测｜AI视频生产力革命"></a>
+
+**Tags:** `review` `deep-dive` `multi-modal` `cn` `hands-on` `workflow`
+
+> 18分钟深度评测：Seedance 2.0 同时支持图片、音频、视频多维度参考输入，含大量实际生成演示（AI电影、动画、漫剧、广告）
+
+### Case 40: [Seedance 2.0 全面教学，解锁各种玩法，轻松过审小诀窍！](https://www.youtube.com/watch?v=PZ8FI-sWPc4)（by AI小王子）
+
+<a href="https://www.youtube.com/watch?v=PZ8FI-sWPc4"><img src="https://img.youtube.com/vi/PZ8FI-sWPc4/hqdefault.jpg" width="480" alt="Seedance 2.0 全面教学，解锁各种玩法，轻松过审小诀窍！"></a>
+
+**Tags:** `tutorial` `workflow` `cn` `hands-on` `tips`
+
+> 15分钟全面教学：Seedance 2.0 各种玩法解锁、过审技巧、关键词文档分享，含实操演示
+
+### Case 41: [Why is nobody talking about how INSANE Seedance 2.0 is — multi-reference generation](https://x.com/Mho_23/status/2021104976399905101)（by [@Mho_23](https://x.com/Mho_23)）
+
+<a href="https://x.com/Mho_23/status/2021104976399905101"><img src="assets/thumbs/seedance2-mho23-insane.svg" width="480" alt="Why is nobody talking about how INSANE Seedance 2.0 is — multi-reference generation"></a>
+
+**Tags:** `showcase` `multi-reference` `viral`
+
+> 展示 Seedance 2.0 多参考图单次生成能力，效果惊人
+
+### Case 42: [動画生成AI、もうここまで来てしまった — Seedance 2.0 リップシンク・効果音・BGM全自動生成](https://x.com/SuguruKun_ai/status/2021169621202862208)（by [@SuguruKun_ai](https://x.com/SuguruKun_ai)）
+
+<a href="https://x.com/SuguruKun_ai/status/2021169621202862208"><img src="assets/thumbs/seedance2-sugurukun-features.svg" width="480" alt="動画生成AI、もうここまで来てしまった — Seedance 2.0 リップシンク・効果音・BGM全自動生成"></a>
+
+**Tags:** `showcase` `lip-sync` `audio` `bgm` `ja`
+
+> 展示 Seedance 2.0 的唇形同步、音效、BGM 全自动生成能力
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
