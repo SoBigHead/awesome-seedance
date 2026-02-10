@@ -246,6 +246,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Head-to-head comparison of Seedance 2.0 vs Kling 3.0 for the AI video crown
 
+### Case 28: [【Seedance 2.0】AI 做動畫的效果如何？復刻《雙城之戰》測試](https://www.youtube.com/watch?v=CWiSyQUMRuc)（by Rofix）
+
+<a href="https://www.youtube.com/watch?v=CWiSyQUMRuc"><img src="https://img.youtube.com/vi/CWiSyQUMRuc/hqdefault.jpg" width="480" alt="【Seedance 2.0】AI 做動畫的效果如何？復刻《雙城之戰》測試"></a>
+
+**Tags:** `animation` `arcane` `recreation` `technical` `showcase`
+
+> 用 Seedance 2.0 復刻《雙城之戰》經典片段，測試 AI 動畫能否精確還原導演意圖
+
+### Case 29: [This AI video generator CRUSHES EVERYTHING](https://www.youtube.com/watch?v=WW_odt7uZTs)（by AI Search）
+
+<a href="https://www.youtube.com/watch?v=WW_odt7uZTs"><img src="https://img.youtube.com/vi/WW_odt7uZTs/hqdefault.jpg" width="480" alt="This AI video generator CRUSHES EVERYTHING"></a>
+
+**Tags:** `review` `comparison` `feature-demo` `comprehensive`
+
+> 34分钟深度评测 Seedance 2.0：全面测试各项功能并与竞品对比
+
+### Case 30: [Seedance 2.0 Hands on Review](https://www.youtube.com/watch?v=4zVS7sZT9UE)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=4zVS7sZT9UE"><img src="https://img.youtube.com/vi/4zVS7sZT9UE/hqdefault.jpg" width="480" alt="Seedance 2.0 Hands on Review"></a>
+
+**Tags:** `review` `hands-on` `creator` `showcase`
+
+> Seedance 2.0 实操评测：从创作者视角展示实际生成效果
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
