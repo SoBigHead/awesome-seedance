@@ -1,8 +1,19 @@
 #!/usr/bin/env python3
 """Generate README.md case sections from data/items.jsonl.
 
-Reads a header template (README_HEADER.md) and appends auto-generated
-case entries from the JSONL data file.
+Design goals:
+- README is the primary gallery.
+- **Every case should have a visible thumbnail** (even if we can't inline-play video).
+- Inline video is best-effort:
+  - GitHub web: a bare `github.com/user-attachments/...` URL renders a player.
+  - GitHub mobile/app: often shows only a link → thumbnail still matters.
+
+Rules:
+- If we have an embeddable preview image/GIF (and permission), show it.
+- If preview is a user-attachments video, show BOTH:
+  - a clickable thumbnail (poster)
+  - the bare user-attachments URL (for web inline player)
+- If we cannot safely embed media (e.g., X/Twitter), fall back to a **local placeholder poster**.
 """
 
 import json
@@ -35,53 +46,80 @@ def youtube_id(url: str):
     return m.group(1) if m else None
 
 
+def is_user_attachments(url: str) -> bool:
+    return "user-attachments/assets" in (url or "")
+
+
+def select_thumbnail(item: dict) -> str | None:
+    """Select the best thumbnail URL for a case.
+
+    Preference:
+    1) embeddable preview image/GIF URL (preview.ok + preview.url) — except user-attachments video
+    2) preview.poster (local asset or external allowed)
+    3) YouTube platform thumbnail derived from the main URL
+    4) local placeholder assets/thumbs/<id>.svg if exists
+    """
+    url = item.get("url", "")
+    preview = item.get("preview", {}) or {}
+
+    prev_url = preview.get("url") or ""
+    kind = (preview.get("kind") or "image").lower()
+
+    if preview.get("ok") and prev_url and not (kind == "video" and is_user_attachments(prev_url)):
+        return prev_url
+
+    poster = preview.get("poster")
+    if poster:
+        return poster
+
+    if "youtube.com" in url or "youtu.be" in url:
+        vid = youtube_id(url)
+        if vid:
+            return f"https://img.youtube.com/vi/{vid}/hqdefault.jpg"
+
+    local_svg = ROOT / "assets" / "thumbs" / f"{item.get('id')}.svg"
+    if local_svg.exists():
+        return f"assets/thumbs/{item.get('id')}.svg"
+
+    return None
+
+
+def author_link(url: str, author: str) -> str:
+    if "youtube.com" in (url or ""):
+        # channel is unknown from URL; keep as plain text
+        return author
+    if "x.com" in (url or "") or "twitter.com" in (url or ""):
+        handle = author.lstrip("@").strip() or "Unknown"
+        return f"[@{handle}](https://x.com/{handle})"
+    return author
+
+
 def build_case_md(idx: int, item: dict) -> str:
-    """Build markdown block for one case."""
     title = item.get("title", "Untitled")
     url = item.get("url", "")
     author = item.get("author", "Unknown")
     tags = item.get("tags", [])
     summary = item.get("summary_zh") or item.get("summary_en") or ""
-    preview = item.get("preview", {})
-    thumb_path = preview.get("url", "")
 
-    # Author link: try to reconstruct platform link
-    author_link = ""
-    if "youtube.com" in url:
-        author_link = f"[{author}]({url})"
-    elif "x.com" in url or "twitter.com" in url:
-        author_link = f"[@{author}](https://x.com/{author})"
-    else:
-        author_link = author
+    preview = item.get("preview", {}) or {}
+    prev_url = (preview.get("url") or "").strip()
+    kind = (preview.get("kind") or "image").lower()
 
     lines = []
-    lines.append(f"### Case {idx}: [{title}]({url})（by {author_link}）")
+    lines.append(f"### Case {idx}: [{title}]({url})（by {author_link(url, author)}）")
     lines.append("")
 
-    # Inline preview
-    # NOTE: GitHub README sanitizer strips <video> tags entirely.
-    # For user-attachments URLs: bare URL on its own line → GitHub auto-renders as video player.
-    # For everything else: clickable thumbnail image.
-    if preview.get("ok"):
-        prev_url = preview.get("url") or ""
-        kind = (preview.get("kind") or "image").lower()
+    # Always try to show a thumbnail
+    thumb = select_thumbnail(item)
+    if thumb:
+        lines.append(f'<a href="{url}"><img src="{thumb}" width="480" alt="{title}"></a>')
+        lines.append("")
 
-        if "user-attachments/assets" in prev_url:
-            # Bare URL = GitHub auto-renders inline video player
-            lines.append(prev_url)
-            lines.append("")
-        elif kind == "video":
-            # Non-user-attachments video: fall back to clickable thumbnail
-            poster = preview.get("poster")
-            yt_id = youtube_id(url)
-            thumb = poster or (f"https://img.youtube.com/vi/{yt_id}/hqdefault.jpg" if yt_id else None)
-            if thumb:
-                lines.append(f'<a href="{url}"><img src="{thumb}" width="480" alt="{title}"></a>')
-                lines.append("")
-        else:
-            # Image preview
-            lines.append(f'<a href="{url}"><img src="{prev_url}" width="480" alt="{title}"></a>')
-            lines.append("")
+    # Inline video (best-effort): user-attachments only
+    if preview.get("ok") and kind == "video" and is_user_attachments(prev_url):
+        # Bare URL = GitHub web auto-renders inline video player
+        lines.append(prev_url)
+        lines.append("")
 
     # Tags
     if tags:
@@ -97,38 +135,13 @@ def build_case_md(idx: int, item: dict) -> str:
     return "\n".join(lines)
 
 
-def build_menu(items) -> str:
-    """Build table-of-contents menu."""
-    lines = ["## 📑 Menu", ""]
-    lines.append("- [🎬 Introduction](#-introduction)")
-    lines.append("- [📑 Menu](#-menu)")
-    lines.append("- [🎥 Seedance 2.0 Cases](#-seedance-20-cases)")
-    lines.append("- [🤝 Contributing](#-contributing)")
-    lines.append("")
-
-    for i, item in enumerate(items, 1):
-        title = item.get("title", "Untitled")
-        author = item.get("author", "Unknown")
-        # Build anchor
-        anchor_text = f"case-{i}-{title}by-{author}"
-        # Simplified anchor (GitHub auto-generates from heading)
-        lines.append(f"  - [Case {i}: {title}（by {author}）](#case-{i})")
-    lines.append("")
-    return "\n".join(lines)
-
-
 def main():
     items = load_items()
 
-    # Read header template
-    if HEADER.exists():
-        header = HEADER.read_text("utf-8").rstrip()
-    else:
-        header = "# 🎬 Awesome Seedance\n\nA curated gallery of Seedance 2.0 video cases."
+    header = HEADER.read_text("utf-8").rstrip() if HEADER.exists() else "# 🎬 Awesome Seedance\n\nA curated gallery of Seedance 2.0 video cases."
 
     parts = [header, ""]
 
-    # Cases section
     parts.append("## 🎥 Seedance 2.0 Cases")
     parts.append("")
 
@@ -139,15 +152,16 @@ def main():
         for i, item in enumerate(items, 1):
             parts.append(build_case_md(i, item))
 
-    # Contributing section
     parts.append("## 🤝 Contributing")
     parts.append("")
     parts.append("Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!")
     parts.append("")
     parts.append("---")
     parts.append("")
-    parts.append("*Auto-generated from [data/items.jsonl](data/items.jsonl). "
-                 "Do not edit the Cases section manually.*")
+    parts.append(
+        "*Auto-generated from [data/items.jsonl](data/items.jsonl). "
+        "Do not edit the Cases section manually.*"
+    )
     parts.append("")
 
     README.write_text("\n".join(parts), encoding="utf-8")
