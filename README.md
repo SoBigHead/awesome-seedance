@@ -366,6 +366,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 展示 Seedance 2.0 的唇形同步、音效、BGM 全自动生成能力
 
+### Case 43: [TikTok開発元ByteDanceの動画生成AI「Seedance 2.0」作例その2【マルチカット】](https://www.youtube.com/watch?v=nIqBNg1zU4c)（by GIGAZINE）
+
+<a href="https://www.youtube.com/watch?v=nIqBNg1zU4c"><img src="https://img.youtube.com/vi/nIqBNg1zU4c/hqdefault.jpg" width="480" alt="TikTok開発元ByteDanceの動画生成AI「Seedance 2.0」作例その2【マルチカット】"></a>
+
+**Tags:** `multi-cut` `showcase` `ja` `tech-media`
+
+> 日本科技媒体GIGAZINE展示Seedance 2.0多镜头视频生成示例
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
