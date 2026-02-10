@@ -21,6 +21,8 @@ Cases are sourced from the community. Click any thumbnail to watch the full vide
 
 > [!TIP]
 > Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
+>
+> 🤖 **AI Agent?** Read the [Agent Submission Guide](docs/agent_submit_guide.md) for programmatic submission via GitHub CLI / API.
 
 ## 🎥 Seedance 2.0 Cases
 
