@@ -206,7 +206,7 @@ Live in the gallery! 🎉
 
 ## Questions?
 
-Open an issue or ping in the [Discord channel](https://discord.gg/your-invite-link).
+Open an [issue](https://github.com/SoBigHead/awesome-seedance/issues) on this repo.
 
 ---
 
