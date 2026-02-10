@@ -114,6 +114,54 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Multi-shot generation, lip-sync in 8+ languages, beat-synced motion, 2K resolution
 
+### Case 15: [改变视频行业的AI，快来了(但有点恐怖)](https://www.youtube.com/watch?v=v-3ob9csK3M)（by [Mediastorm影视飓风](https://www.youtube.com/watch?v=v-3ob9csK3M)）
+
+<a href="https://www.youtube.com/watch?v=v-3ob9csK3M"><img src="https://img.youtube.com/vi/v-3ob9csK3M/hqdefault.jpg" width="480" alt="改变视频行业的AI，快来了(但有点恐怖)"></a>
+
+**Tags:** `review` `cn` `cinematic` `technical` `audio`
+
+> 影视飓风深度评测 Seedance 2.0：从运动、分镜连续性、音画匹配三个痛点分析表现
+
+### Case 16: [Why Creators Are Waiting for Seedance 2.0](https://www.youtube.com/watch?v=qDvxUdP6HZ0)（by [Crypto Space](https://www.youtube.com/watch?v=qDvxUdP6HZ0)）
+
+<a href="https://www.youtube.com/watch?v=qDvxUdP6HZ0"><img src="https://img.youtube.com/vi/qDvxUdP6HZ0/hqdefault.jpg" width="480" alt="Why Creators Are Waiting for Seedance 2.0"></a>
+
+**Tags:** `review` `feature-demo` `showcase`
+
+> Breakdown of Seedance 2.0 new features: multimodal inputs, one-click generation, with examples from Reddit and X
+
+### Case 17: [Seedance 2.0 Expectations Are Wild!!! #Higgsfield #Seedance2.0](https://www.youtube.com/watch?v=GdotMRtiJ4Y)（by [SheVa Crypto](https://www.youtube.com/watch?v=GdotMRtiJ4Y)）
+
+<a href="https://www.youtube.com/watch?v=GdotMRtiJ4Y"><img src="https://img.youtube.com/vi/GdotMRtiJ4Y/hqdefault.jpg" width="480" alt="Seedance 2.0 Expectations Are Wild!!! #Higgsfield #Seedance2.0"></a>
+
+**Tags:** `showcase` `feature-demo` `early-access`
+
+> Showcase of Seedance 2.0 pre-release examples with impressive AI-generated video demos
+
+### Case 18: [A New Way to Edit Video with Text | Seedance 2.0 Overview (Pippit)](https://www.youtube.com/watch?v=X3spTysEGK0)（by [BeTech](https://www.youtube.com/watch?v=X3spTysEGK0)）
+
+<a href="https://www.youtube.com/watch?v=X3spTysEGK0"><img src="https://img.youtube.com/vi/X3spTysEGK0/hqdefault.jpg" width="480" alt="A New Way to Edit Video with Text | Seedance 2.0 Overview (Pippit)"></a>
+
+**Tags:** `review` `tutorial` `feature-demo` `2K`
+
+> Global first release early access overview of Seedance 2.0 on Pippit platform, 4K quality
+
+### Case 19: [Seedance 2.0 Coming Soon - What We Know](https://www.youtube.com/watch?v=o0-ZVlDidJM)（by [Green Signal](https://www.youtube.com/watch?v=o0-ZVlDidJM)）
+
+<a href="https://www.youtube.com/watch?v=o0-ZVlDidJM"><img src="https://img.youtube.com/vi/o0-ZVlDidJM/hqdefault.jpg" width="480" alt="Seedance 2.0 Coming Soon - What We Know"></a>
+
+**Tags:** `review` `feature-demo`
+
+> Community analysis of Seedance 2.0 capabilities and what makes it the biggest leap in AI video
+
+### Case 20: [[Comprehensive Comparison] Which is the best video generation AI: Pollo, Sora2, Kling, Hailuo, Seedance...](https://www.youtube.com/watch?v=HuZX_yoIwOE)（by [とうや【AIイラストLab.】](https://www.youtube.com/watch?v=HuZX_yoIwOE)）
+
+<a href="https://www.youtube.com/watch?v=HuZX_yoIwOE"><img src="https://img.youtube.com/vi/HuZX_yoIwOE/hqdefault.jpg" width="480" alt="[Comprehensive Comparison] Which is the best video generation AI: Pollo, Sora2, Kling, Hailuo, Seedance..."></a>
+
+**Tags:** `review` `comparison` `ja`
+
+> Comprehensive side-by-side comparison of top AI video generators including Seedance by solo AI creator
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
