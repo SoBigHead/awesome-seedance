@@ -422,6 +422,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 深入演示Seedance 2.0的12路参考输入功能：角色替换、商业广告制作、打斗场景等实际生成效果
 
+### Case 50: [People are Creating INSANE Things with Seedance 2.0](https://www.youtube.com/watch?v=bKun7tXLpGQ)（by RandomAI）
+
+<a href="https://www.youtube.com/watch?v=bKun7tXLpGQ"><img src="assets/thumbs/seedance2-81792a1a415d.svg" width="480" alt="People are Creating INSANE Things with Seedance 2.0"></a>
+
+**Tags:** `showcase` `animation` `multi-modal` `dragon-ball` `sitcom` `realistic`
+
+> 展示 Seedance 2.0 高质量示例：从龙珠风格打斗场景到情景剧和写实视频，展示多样化的动画风格和强大的多模态能力
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
