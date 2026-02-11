@@ -390,6 +390,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > AI Samson 实测 Seedance 2.0：展示多种实际生成效果，包括角色动画、场景生成等，附平台使用入口
 
+### Case 46: [Seedance 2.0 DESTROYS Every Other AI Video Model](https://www.youtube.com/watch?v=oYbljSZ04dE)（by Bilawal Sidhu）
+
+<a href="https://www.youtube.com/watch?v=oYbljSZ04dE"><img src="https://img.youtube.com/vi/oYbljSZ04dE/hqdefault.jpg" width="480" alt="Seedance 2.0 DESTROYS Every Other AI Video Model"></a>
+
+**Tags:** `comparison` `benchmark` `review` `hands-on`
+
+> Bilawal Sidhu 深度对比 Seedance 2.0 vs Kling 3.0 vs Veo vs Sora，含真实生成输出和逐项分析
+
+### Case 47: [babe wake up, new AI slop generator just dropped — Seedance 2.0](https://www.youtube.com/watch?v=Adv3jdjXsIY)（by Dan Dingle）
+
+<a href="https://www.youtube.com/watch?v=Adv3jdjXsIY"><img src="https://img.youtube.com/vi/Adv3jdjXsIY/hqdefault.jpg" width="480" alt="babe wake up, new AI slop generator just dropped — Seedance 2.0"></a>
+
+**Tags:** `viral` `showcase` `creative` `commentary`
+
+> 239K订阅大V Dan Dingle 用 Seedance 2.0 生成大量创意视频片段，45K播放、4.3K赞，病毒式传播
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
