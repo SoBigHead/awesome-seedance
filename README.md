@@ -406,6 +406,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 239K订阅大V Dan Dingle 用 Seedance 2.0 生成大量创意视频片段，45K播放、4.3K赞，病毒式传播
 
+### Case 48: [Seedance 2.0 is OUT (I GOT ACCESS)](https://www.youtube.com/watch?v=X6EOGEYXA2Y)（by Jacky Chou from Indexsy）
+
+<a href="https://www.youtube.com/watch?v=X6EOGEYXA2Y"><img src="https://img.youtube.com/vi/X6EOGEYXA2Y/hqdefault.jpg" width="480" alt="Seedance 2.0 is OUT (I GOT ACCESS)"></a>
+
+**Tags:** `review` `hands-on` `comparison` `showcase`
+
+> 23K订阅验证创作者Jacky Chou实测Seedance 2.0：展示实际生成效果，对比多个AI视频模型
+
+### Case 49: [SeeDance 2.0: The Sora Killer? Total Control Over AI Video! | Master Reference Video](https://www.youtube.com/watch?v=PyfKF0qX4Fs)（by Veteran AI）
+
+<a href="https://www.youtube.com/watch?v=PyfKF0qX4Fs"><img src="https://img.youtube.com/vi/PyfKF0qX4Fs/hqdefault.jpg" width="480" alt="SeeDance 2.0: The Sora Killer? Total Control Over AI Video! | Master Reference Video"></a>
+
+**Tags:** `review` `tutorial` `reference-video` `character-replacement` `commercial` `hands-on`
+
+> 深入演示Seedance 2.0的12路参考输入功能：角色替换、商业广告制作、打斗场景等实际生成效果
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
