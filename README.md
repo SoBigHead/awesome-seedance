@@ -374,6 +374,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 日本科技媒体GIGAZINE展示Seedance 2.0多镜头视频生成示例
 
+### Case 44: [Seedance 2.0 FEELS like old Sora but BETTER. Fight Scenes Are Finally GOOD!](https://www.youtube.com/watch?v=JebUU7FnWBI)（by MattVidPro AI）
+
+<a href="https://www.youtube.com/watch?v=JebUU7FnWBI"><img src="https://img.youtube.com/vi/JebUU7FnWBI/hqdefault.jpg" width="480" alt="Seedance 2.0 FEELS like old Sora but BETTER. Fight Scenes Are Finally GOOD!"></a>
+
+**Tags:** `review` `hands-on` `comparison` `sora` `fight-scenes` `audio`
+
+> 知名AI视频博主MattVidPro实测Seedance 2.0：展示最佳案例后亲自上手测试，与Sora 2/Sora 2 Pro对比，重点评价运动连贯性、原生音频和打斗场景表现
+
+### Case 45: [Try Seedance 2.0 Before Everyone Else!](https://www.youtube.com/watch?v=vd8gbG-kQu0)（by AI Samson）
+
+<a href="https://www.youtube.com/watch?v=vd8gbG-kQu0"><img src="https://img.youtube.com/vi/vd8gbG-kQu0/hqdefault.jpg" width="480" alt="Try Seedance 2.0 Before Everyone Else!"></a>
+
+**Tags:** `review` `hands-on` `showcase` `tutorial`
+
+> AI Samson 实测 Seedance 2.0：展示多种实际生成效果，包括角色动画、场景生成等，附平台使用入口
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
