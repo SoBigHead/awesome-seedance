@@ -534,6 +534,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 俄语AI频道NEUROMANIA评测Seedance 2.0：称其为2026年视频生成领域的重大突破
 
+### Case 64: [The World Wasn't Ready for Seedance 2.0 (Honest Tests)](https://www.youtube.com/watch?v=5ifJk-UwCWI)（by Mia Meow）
+
+<a href="https://www.youtube.com/watch?v=5ifJk-UwCWI"><img src="https://img.youtube.com/vi/5ifJk-UwCWI/hqdefault.jpg" width="480" alt="The World Wasn't Ready for Seedance 2.0 (Honest Tests)"></a>
+
+**Tags:** `hands-on` `honest-test` `fight-scenes` `dance` `commercial` `multimodal`
+
+> Mia Meow 诚实测试 Seedance 2.0：混乱打斗场景、多模态格斗、风格化演示、舞蹈、写实商业广告等8章节实测
+
+### Case 65: [🤯GOODBYE VEO3! The new Seedance 2.0 AI is INSANE! (FREE SECRET ACCESS)](https://www.youtube.com/watch?v=UyCw9mKB5us)（by Jornada Digital）
+
+<a href="https://www.youtube.com/watch?v=UyCw9mKB5us"><img src="https://img.youtube.com/vi/UyCw9mKB5us/hqdefault.jpg" width="480" alt="🤯GOODBYE VEO3! The new Seedance 2.0 AI is INSANE! (FREE SECRET ACCESS)"></a>
+
+**Tags:** `review` `hands-on` `pt` `comparison` `veo`
+
+> 巴西AI频道Jornada Digital实测Seedance 2.0：对比VEO3，展示实际生成效果
+
+### Case 66: [不看后悔！SeeDance 2.0限时无限免费用！字节又在下一盘大棋了](https://www.youtube.com/watch?v=OyNOHfJ-R6s)（by T8star-Aix）
+
+<a href="https://www.youtube.com/watch?v=OyNOHfJ-R6s"><img src="https://img.youtube.com/vi/OyNOHfJ-R6s/hqdefault.jpg" width="480" alt="不看后悔！SeeDance 2.0限时无限免费用！字节又在下一盘大棋了"></a>
+
+**Tags:** `tutorial` `hands-on` `cn` `prompts` `free-access`
+
+> T8star-Aix 实操 Seedance 2.0：限时免费使用教程，附日常提示词分享，含实际生成效果展示
+
+### Case 67: [I tested the new SEEDANCE 2.0: Access it for FREE and see what's new!](https://www.youtube.com/watch?v=THS-TAURugY)（by Azev • Renda Online com IA）
+
+<a href="https://www.youtube.com/watch?v=THS-TAURugY"><img src="https://img.youtube.com/vi/THS-TAURugY/hqdefault.jpg" width="480" alt="I tested the new SEEDANCE 2.0: Access it for FREE and see what's new!"></a>
+
+**Tags:** `review` `hands-on` `pt` `cinematic` `multimodal` `multi-shot` `comprehensive`
+
+> 巴西创作者Azev实测Seedance 2.0：16章节深度评测，含电影级画质、多模态输入、多镜头叙事、动作场景等实际生成效果
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
