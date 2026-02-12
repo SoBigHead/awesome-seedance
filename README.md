@@ -566,6 +566,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 巴西创作者Azev实测Seedance 2.0：16章节深度评测，含电影级画质、多模态输入、多镜头叙事、动作场景等实际生成效果
 
+### Case 68: [中國 AI 橫掃全球！字節 Seedance 2.0 震撼發布 讓好萊塢集體失業｜#寰宇新聞](https://www.youtube.com/watch?v=Rw8A3_UnJNM)（by 寰宇新聞 頻道）
+
+<a href="https://www.youtube.com/watch?v=Rw8A3_UnJNM"><img src="https://img.youtube.com/vi/Rw8A3_UnJNM/hqdefault.jpg" width="480" alt="中國 AI 橫掃全球！字節 Seedance 2.0 震撼發布 讓好萊塢集體失業｜#寰宇新聞"></a>
+
+**Tags:** `news` `zh-tw` `mainstream-media` `hollywood` `industry-impact`
+
+> 台灣寰宇新聞報導Seedance 2.0：支援自動分鏡、音效匹配，引發社群大量討論，分析對好萊塢影視產業的衝擊
+
+### Case 69: [Seedance 2.0颠覆AI视频！最新最全11大玩法揭秘+实战！](https://www.youtube.com/watch?v=hmokhKOdLOQ)（by 盈夏AI轻创业）
+
+<a href="https://www.youtube.com/watch?v=hmokhKOdLOQ"><img src="https://img.youtube.com/vi/hmokhKOdLOQ/hqdefault.jpg" width="480" alt="Seedance 2.0颠覆AI视频！最新最全11大玩法揭秘+实战！"></a>
+
+**Tags:** `tutorial` `comprehensive` `cn` `hands-on` `digital-human` `short-drama` `commercial` `workflow`
+
+> 22分钟全面实战教程：Seedance 2.0 的11大玩法，涵盖数字人vlog、短剧、治愈漫画、高级运镜、广告大片、沉浸式转场、电影片段、创意vlog、数字人口播、AI漫剧、精准修改
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
