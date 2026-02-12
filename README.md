@@ -430,6 +430,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 展示 Seedance 2.0 高质量示例：从龙珠风格打斗场景到情景剧和写实视频，展示多样化的动画风格和强大的多模态能力
 
+### Case 51: [Kling 3.0 vs Seedance 2 vs Veo 3.1 vs Sora 2: The Ultimate AI Video Comparison](https://www.youtube.com/watch?v=-MluR9dqt5w)（by Tech Tutor Zones）
+
+<a href="https://www.youtube.com/watch?v=-MluR9dqt5w"><img src="https://img.youtube.com/vi/-MluR9dqt5w/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2 vs Veo 3.1 vs Sora 2: The Ultimate AI Video Comparison"></a>
+
+**Tags:** `comparison` `benchmark` `4K` `kling` `veo` `sora` `lip-sync` `physics`
+
+> 20个相同提示词的4K四方对比：Kling 3.0 vs Seedance 2.0 vs Veo 3.1 vs Sora 2，涵盖物理模拟、唇形同步、动作场景等
+
+### Case 52: [Seedance 2.0: Is The Hype Real? Is It Nerf'd? And What's The Cost?](https://www.youtube.com/watch?v=sHoaCAt7kvk)（by Theoretically Media）
+
+<a href="https://www.youtube.com/watch?v=sHoaCAt7kvk"><img src="https://img.youtube.com/vi/sHoaCAt7kvk/hqdefault.jpg" width="480" alt="Seedance 2.0: Is The Hype Real? Is It Nerf'd? And What's The Cost?"></a>
+
+**Tags:** `review` `hands-on` `pricing` `comparison` `kling` `nerf-analysis`
+
+> Theoretically Media 跟进评测：Seedance 2.0 是否被削弱？定价如何？含亲手测试、Kling 3.0对比、21章节深度分析
+
+### Case 53: [SeeDance 2.0 震撼发布！别再死磕提示词了！手把手教你玩转全能参考模式](https://www.youtube.com/watch?v=NFqEKJtA_jI)（by AI老腊肉）
+
+<a href="https://www.youtube.com/watch?v=NFqEKJtA_jI"><img src="https://img.youtube.com/vi/NFqEKJtA_jI/hqdefault.jpg" width="480" alt="SeeDance 2.0 震撼发布！别再死磕提示词了！手把手教你玩转全能参考模式"></a>
+
+**Tags:** `tutorial` `reference-mode` `hands-on` `cn` `workflow` `multi-reference`
+
+> 深度评测 Seedance 2.0 全能参考模式：支持12路参考输入，提示词时代已过去，AI导演时代开启
+
+### Case 54: [Seedance 2.0 Stress Test](https://www.youtube.com/watch?v=DMaJjGOmUpI)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=DMaJjGOmUpI"><img src="https://img.youtube.com/vi/DMaJjGOmUpI/hqdefault.jpg" width="480" alt="Seedance 2.0 Stress Test"></a>
+
+**Tags:** `stress-test` `physics` `technical` `hands-on` `collision` `cloth-sim`
+
+> JSFILMZ 压力测试 Seedance 2.0：碰撞检测、布料物理、面部表情等极限场景，文本和图片提示词双测
+
+### Case 55: [Ultimate Seedance 2 Anime Compilation That Will Blow Your Mind](https://www.youtube.com/watch?v=F101ykaDUcM)（by SoVibes Clips）
+
+<a href="https://www.youtube.com/watch?v=F101ykaDUcM"><img src="https://img.youtube.com/vi/F101ykaDUcM/hqdefault.jpg" width="480" alt="Ultimate Seedance 2 Anime Compilation That Will Blow Your Mind"></a>
+
+**Tags:** `anime` `compilation` `dragon-ball` `naruto` `one-piece` `showcase`
+
+> Seedance 2.0 动漫合集：龙珠、火影、海贼王等经典角色的AI生成动画集锦
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
