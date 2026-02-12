@@ -622,6 +622,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 竞品Higgsfield AI对Seedance 2.0的深度分析：9章节拆解公开片段、视频转视频功能、氛围vs控制力等
 
+### Case 75: [Seedance 2.0 Video Reference Tutorial](https://www.youtube.com/watch?v=wybn1PhFVHY)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=wybn1PhFVHY"><img src="https://img.youtube.com/vi/wybn1PhFVHY/hqdefault.jpg" width="480" alt="Seedance 2.0 Video Reference Tutorial"></a>
+
+**Tags:** `tutorial` `video-reference` `hands-on` `workflow`
+
+> JSFILMZ 视频参考功能教程：演示如何使用 Seedance 2.0 的视频参考输入来控制生成效果
+
+### Case 76: [NOVA IA: Seedance 2.0 Supera Todas em Geração de Vídeo?](https://www.youtube.com/watch?v=cTlLgilEGxw)（by Willian IA）
+
+<a href="https://www.youtube.com/watch?v=cTlLgilEGxw"><img src="https://img.youtube.com/vi/cTlLgilEGxw/hqdefault.jpg" width="480" alt="NOVA IA: Seedance 2.0 Supera Todas em Geração de Vídeo?"></a>
+
+**Tags:** `review` `pt` `comparison` `hands-on`
+
+> 巴西创作者Willian IA深度评测Seedance 2.0：对比其他AI视频模型，展示实际生成效果
+
+### Case 77: [Seedance 2.0 Generates Hyper-Real AI Videos in China](https://www.youtube.com/watch?v=syMx-0YUkjw)（by AIM Network）
+
+<a href="https://www.youtube.com/watch?v=syMx-0YUkjw"><img src="https://img.youtube.com/vi/syMx-0YUkjw/hqdefault.jpg" width="480" alt="Seedance 2.0 Generates Hyper-Real AI Videos in China"></a>
+
+**Tags:** `news` `tech-media` `hyper-realistic` `jimeng`
+
+> 科技媒体AIM Network报导Seedance 2.0：分析ByteDance在即梦AI平台限量测试的超写实视频生成能力
+
+### Case 78: [肯爺 Ai Mv - Kanye ✘ 新鴛鴦蝴蝶夢 雲星配角大合集 seedance2.0](https://www.youtube.com/watch?v=Rwdl6UkN4A0)（by EurGun7）
+
+<a href="https://www.youtube.com/watch?v=Rwdl6UkN4A0"><img src="https://img.youtube.com/vi/Rwdl6UkN4A0/hqdefault.jpg" width="480" alt="肯爺 Ai Mv - Kanye ✘ 新鴛鴦蝴蝶夢 雲星配角大合集 seedance2.0"></a>
+
+**Tags:** `music-video` `creative` `zh-tw` `mashup` `showcase`
+
+> 用Seedance 2.0制作的AI音乐视频：Kanye风格混搭经典华语歌曲《新鴛鴦蝴蝶夢》，创意MV合集
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
