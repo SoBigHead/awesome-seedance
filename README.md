@@ -470,6 +470,70 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 动漫合集：龙珠、火影、海贼王等经典角色的AI生成动画集锦
 
+### Case 56: [¡BRUTAL! SEEDANCE 2.0 es UN TERREMOTO AUDIOVISUAL](https://www.youtube.com/watch?v=VuqGdPyJzo4)（by Dot CSV Lab）
+
+<a href="https://www.youtube.com/watch?v=VuqGdPyJzo4"><img src="https://img.youtube.com/vi/VuqGdPyJzo4/hqdefault.jpg" width="480" alt="¡BRUTAL! SEEDANCE 2.0 es UN TERREMOTO AUDIOVISUAL"></a>
+
+**Tags:** `review` `hands-on` `es` `4K` `cinematic` `deep-dive`
+
+> 西班牙顶级AI频道Dot CSV Lab深度评测Seedance 2.0：4K画质，含Will Smith测试、写实电影级生成效果展示
+
+### Case 57: [AI大戰中國又贏一仗？字節跳動核彈級武器 Seedance 2.0成最強AI影片生成模型！](https://www.youtube.com/watch?v=SQyWBgy9Ncw)（by Finance730）
+
+<a href="https://www.youtube.com/watch?v=SQyWBgy9Ncw"><img src="https://img.youtube.com/vi/SQyWBgy9Ncw/hqdefault.jpg" width="480" alt="AI大戰中國又贏一仗？字節跳動核彈級武器 Seedance 2.0成最強AI影片生成模型！"></a>
+
+**Tags:** `news` `zh-tw` `controversy` `copyright` `mainstream-media`
+
+> 香港財經媒體Finance730報導Seedance 2.0：分析其成為最強AI影片生成模型的原因，討論逼真度引發的侵權爭議
+
+### Case 58: [Third Test Seedance 2.0! One Prompt + One Image → Thriller Scene, High-Speed Racing & More!](https://www.youtube.com/watch?v=ihOryThrb4k)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=ihOryThrb4k"><img src="https://img.youtube.com/vi/ihOryThrb4k/hqdefault.jpg" width="480" alt="Third Test Seedance 2.0! One Prompt + One Image → Thriller Scene, High-Speed Racing & More!"></a>
+
+**Tags:** `showcase` `image-to-video` `4K` `hands-on` `thriller` `racing`
+
+> Heydin第三轮Seedance 2.0测试：单提示词+单图片生成惊悚场景、高速赛车等，4K输出
+
+### Case 59: [Fourth Test Seedance 2.0! Sea Monster Attack, Superhero Kids, Pixar-Level Animation & Rally Crash!](https://www.youtube.com/watch?v=pEWQfw9vHn8)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=pEWQfw9vHn8"><img src="https://img.youtube.com/vi/pEWQfw9vHn8/hqdefault.jpg" width="480" alt="Fourth Test Seedance 2.0! Sea Monster Attack, Superhero Kids, Pixar-Level Animation & Rally Crash!"></a>
+
+**Tags:** `showcase` `animation` `pixar-style` `4K` `hands-on` `vfx`
+
+> Heydin第四轮Seedance 2.0测试：海怪攻击、超级英雄儿童、皮克斯级动画、拉力赛撞车，4K输出
+
+### Case 60: [Second Test Seedance 2.0! One Prompt One Image, Dynamic Motion, Sci-Fi Comedy & LaLaLand Vibes?!](https://www.youtube.com/watch?v=QiauavcfMvo)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=QiauavcfMvo"><img src="https://img.youtube.com/vi/QiauavcfMvo/hqdefault.jpg" width="480" alt="Second Test Seedance 2.0! One Prompt One Image, Dynamic Motion, Sci-Fi Comedy & LaLaLand Vibes?!"></a>
+
+**Tags:** `showcase` `image-to-video` `sci-fi` `comedy` `hands-on`
+
+> Heydin第二轮Seedance 2.0测试：单提示词+单图片生成动态运动、科幻喜剧、LaLaLand风格
+
+### Case 61: [Buu vs Moro | Dragon Ball The Galactic Patrol Live Action AI Fan-made (Seedance 2.0)](https://www.youtube.com/watch?v=ilsXn9TdXI4)（by 1.234.567 Dragon Ball）
+
+<a href="https://www.youtube.com/watch?v=ilsXn9TdXI4"><img src="https://img.youtube.com/vi/ilsXn9TdXI4/hqdefault.jpg" width="480" alt="Buu vs Moro | Dragon Ball The Galactic Patrol Live Action AI Fan-made (Seedance 2.0)"></a>
+
+**Tags:** `fan-made` `dragon-ball` `fight-scene` `live-action` `anime` `showcase`
+
+> 用Seedance 2.0制作的龙珠超同人实拍风格动画：布欧vs莫罗银河巡逻篇打斗场景
+
+### Case 62: [震撼創作圈! Seedance 2.0逼真過頭爆爭議｜TVBS新聞](https://www.youtube.com/watch?v=i2yJ7lYpQA8)（by TVBS選新聞）
+
+<a href="https://www.youtube.com/watch?v=i2yJ7lYpQA8"><img src="https://img.youtube.com/vi/i2yJ7lYpQA8/hqdefault.jpg" width="480" alt="震撼創作圈! Seedance 2.0逼真過頭爆爭議｜TVBS新聞"></a>
+
+**Tags:** `news` `zh-tw` `mainstream-media` `controversy` `copyright`
+
+> 台灣主流媒體TVBS報導Seedance 2.0：60秒製作導演級影片，逼真度引發創作圈爭議
+
+### Case 63: [WOW Seedance 2.0 - AI FILM INDUSTRY KILLER [VERIFIED]](https://www.youtube.com/watch?v=UJZyrDL7UtM)（by NEUROMANIA）
+
+<a href="https://www.youtube.com/watch?v=UJZyrDL7UtM"><img src="https://img.youtube.com/vi/UJZyrDL7UtM/hqdefault.jpg" width="480" alt="WOW Seedance 2.0 - AI FILM INDUSTRY KILLER [VERIFIED]"></a>
+
+**Tags:** `review` `ru` `hands-on` `cinematic`
+
+> 俄语AI频道NEUROMANIA评测Seedance 2.0：称其为2026年视频生成领域的重大突破
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
