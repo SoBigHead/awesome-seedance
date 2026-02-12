@@ -582,6 +582,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 22分钟全面实战教程：Seedance 2.0 的11大玩法，涵盖数字人vlog、短剧、治愈漫画、高级运镜、广告大片、沉浸式转场、电影片段、创意vlog、数字人口播、AI漫剧、精准修改
 
+### Case 70: [AI Is About to Transform the Video Industry (in a scary way)](https://www.youtube.com/watch?v=SY5Wm7fUJFE)（by Mediastorm影视飓风）
+
+<a href="https://www.youtube.com/watch?v=SY5Wm7fUJFE"><img src="https://img.youtube.com/vi/SY5Wm7fUJFE/hqdefault.jpg" width="480" alt="AI Is About to Transform the Video Industry (in a scary way)"></a>
+
+**Tags:** `review` `en` `cinematic` `technical` `audio` `deep-dive`
+
+> 影视飓风英文版深度评测 Seedance 2.0：分析运动连贯性、分镜语言、音画匹配等核心突破
+
+### Case 71: [100+ Seedance 2.0 AI Videos – The New King?](https://www.youtube.com/watch?v=5s2l68SrJP4)（by Airt）
+
+<a href="https://www.youtube.com/watch?v=5s2l68SrJP4"><img src="https://img.youtube.com/vi/5s2l68SrJP4/hqdefault.jpg" width="480" alt="100+ Seedance 2.0 AI Videos – The New King?"></a>
+
+**Tags:** `compilation` `showcase` `action` `comedy` `mythology` `comprehensive`
+
+> 35分钟超大合集：100+条Seedance 2.0生成视频，涵盖动作、喜剧、神话、现代冲突等多种场景
+
+### Case 72: [Indie AI Movie Compilation Seedance 2 🔥🎬](https://www.youtube.com/watch?v=iiGgJiMWJ8Y)（by SoVibes Clips）
+
+<a href="https://www.youtube.com/watch?v=iiGgJiMWJ8Y"><img src="https://img.youtube.com/vi/iiGgJiMWJ8Y/hqdefault.jpg" width="480" alt="Indie AI Movie Compilation Seedance 2 🔥🎬"></a>
+
+**Tags:** `indie-film` `compilation` `fantasy` `creative` `showcase`
+
+> 用Seedance 2.0生成的独立AI电影合集：传说、怪物、原创角色的奇幻世界
+
+### Case 73: [Seedance 2.0 First Test | Cammy Vs Chun-li](https://www.youtube.com/watch?v=SjyJx42LP_Y)（by Badass Studios）
+
+<a href="https://www.youtube.com/watch?v=SjyJx42LP_Y"><img src="https://img.youtube.com/vi/SjyJx42LP_Y/hqdefault.jpg" width="480" alt="Seedance 2.0 First Test | Cammy Vs Chun-li"></a>
+
+**Tags:** `fight-scene` `street-fighter` `character` `animation` `showcase`
+
+> 用Seedance 2.0生成的街霸角色对战动画：Cammy vs 春丽，26秒短片测试
+
+### Case 74: [Seedance 2.0 — New Chinese Model](https://www.youtube.com/watch?v=nT70w8NPF0s)（by Higgsfield AI）
+
+<a href="https://www.youtube.com/watch?v=nT70w8NPF0s"><img src="https://img.youtube.com/vi/nT70w8NPF0s/hqdefault.jpg" width="480" alt="Seedance 2.0 — New Chinese Model"></a>
+
+**Tags:** `review` `competitor-analysis` `video-to-video` `technical`
+
+> 竞品Higgsfield AI对Seedance 2.0的深度分析：9章节拆解公开片段、视频转视频功能、氛围vs控制力等
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
