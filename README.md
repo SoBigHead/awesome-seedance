@@ -758,6 +758,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 台灣全球大視野新聞報導Seedance 2.0正式上線，馬斯克也讚嘆發展速度太快，含影視颶風創辦人評價及惡搞AI影片案例
 
+### Case 92: [Seedance 2.0 Is Peak AI Video. We Tested It. Send Help.](https://www.youtube.com/watch?v=7V-yKuBQxa4)（by AI For Humans）
+
+<a href="https://www.youtube.com/watch?v=7V-yKuBQxa4"><img src="https://img.youtube.com/vi/7V-yKuBQxa4/hqdefault.jpg" width="480" alt="Seedance 2.0 Is Peak AI Video. We Tested It. Send Help."></a>
+
+**Tags:** `review` `podcast` `hands-on` `deep-dive` `en`
+
+> 知名AI播客AI For Humans 1小时深度测试Seedance 2.0：实际上手生成多种场景，讨论其对AI视频领域的影响
+
+### Case 93: [AI News: Seedance 2.0 Viral Videos | Tom Cruise, Brad Pitt, Keanu Reeves, Titanic Action Scenes AI](https://www.youtube.com/watch?v=96GhHuMsynw)（by NEWS9 Live）
+
+<a href="https://www.youtube.com/watch?v=96GhHuMsynw"><img src="https://img.youtube.com/vi/96GhHuMsynw/hqdefault.jpg" width="480" alt="AI News: Seedance 2.0 Viral Videos | Tom Cruise, Brad Pitt, Keanu Reeves, Titanic Action Scenes AI"></a>
+
+**Tags:** `news` `mainstream-media` `verified` `viral` `celebrity` `en`
+
+> 印度主流新闻频道NEWS9 Live（认证频道）报导Seedance 2.0病毒式传播视频：含Tom Cruise、Brad Pitt等名人AI生成片段分析
+
+### Case 94: [Seedance 2.0 Early Access Guide: How to Use the Model Before Official Release](https://www.youtube.com/watch?v=aattOrI2wNQ)（by مونستر للمعلوميات）
+
+<a href="https://www.youtube.com/watch?v=aattOrI2wNQ"><img src="https://img.youtube.com/vi/aattOrI2wNQ/hqdefault.jpg" width="480" alt="Seedance 2.0 Early Access Guide: How to Use the Model Before Official Release"></a>
+
+**Tags:** `tutorial` `hands-on` `ar` `verified` `early-access` `showcase`
+
+> 阿拉伯语认证科技频道实操Seedance 2.0早期访问指南：含实际生成效果演示和使用教程
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
