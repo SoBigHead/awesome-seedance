@@ -702,6 +702,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 知名游戏/科技YouTuber Stylosa（认证频道）25分钟深度分析Seedance 2.0的震撼效果及其对未来的影响
 
+### Case 85: [Kling 3.0 vs Seedance 2.0 | Updated Access Info in Description | Which One Is Better?](https://www.youtube.com/watch?v=roRZ-KPK74U)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=roRZ-KPK74U"><img src="https://img.youtube.com/vi/roRZ-KPK74U/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0 | Updated Access Info in Description | Which One Is Better?"></a>
+
+**Tags:** `comparison` `kling` `4K` `hands-on` `benchmark`
+
+> Heydin 4K对比评测：Kling 3.0 vs Seedance 2.0，逐项对比两大AI视频模型的实际生成效果
+
+### Case 86: [APRENDA AGORA! Usar o SeeDance 2.0 de GRAÇA!](https://www.youtube.com/watch?v=8dQqXRFFLM4)（by Willian IA）
+
+<a href="https://www.youtube.com/watch?v=8dQqXRFFLM4"><img src="https://img.youtube.com/vi/8dQqXRFFLM4/hqdefault.jpg" width="480" alt="APRENDA AGORA! Usar o SeeDance 2.0 de GRAÇA!"></a>
+
+**Tags:** `tutorial` `hands-on` `pt` `free-access` `showcase`
+
+> 巴西创作者Willian IA第二期Seedance 2.0教程：免费使用方法+实际生成效果展示
+
+### Case 87: [SeeDance 2.0 全功能实战解析｜电影级运镜+音效+多模态参考完整教学](https://www.youtube.com/watch?v=RHDpItuXjh4)（by AI追光）
+
+<a href="https://www.youtube.com/watch?v=RHDpItuXjh4"><img src="https://img.youtube.com/vi/RHDpItuXjh4/hqdefault.jpg" width="480" alt="SeeDance 2.0 全功能实战解析｜电影级运镜+音效+多模态参考完整教学"></a>
+
+**Tags:** `tutorial` `comprehensive` `cn` `hands-on` `cinematic` `audio` `multi-modal` `workflow`
+
+> 32分钟全功能实战教程：Seedance 2.0 电影级运镜、音效生成、多模态参考输入完整教学，附练习素材包
+
+### Case 88: [Seedance 2 is the BEST model for generating realistic AI videos 🤯 (Better than Sora 2 and Kling 3)](https://www.youtube.com/watch?v=iHPYjYeCNtc)（by EL IAS - Inteligencia Artificial para Todos）
+
+<a href="https://www.youtube.com/watch?v=iHPYjYeCNtc"><img src="https://img.youtube.com/vi/iHPYjYeCNtc/hqdefault.jpg" width="480" alt="Seedance 2 is the BEST model for generating realistic AI videos 🤯 (Better than Sora 2 and Kling 3)"></a>
+
+**Tags:** `review` `comparison` `es` `realistic` `sora` `kling` `hands-on`
+
+> 西班牙AI频道深度评测Seedance 2.0：对比Sora 2和Kling 3，展示写实视频生成的巨大飞跃
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
