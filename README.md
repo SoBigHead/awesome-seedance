@@ -686,6 +686,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 西班牙创作者David AI实操Seedance 2.0：免费使用教程+实际生成效果测试，含邀请码获取方法
 
+### Case 83: [With the Release Of Seedance 2.0 Is Hollywood In Trouble?!](https://www.youtube.com/watch?v=mLdrm2R0Vxg)（by Kristian Harloff）
+
+<a href="https://www.youtube.com/watch?v=mLdrm2R0Vxg"><img src="https://img.youtube.com/vi/mLdrm2R0Vxg/hqdefault.jpg" width="480" alt="With the Release Of Seedance 2.0 Is Hollywood In Trouble?!"></a>
+
+**Tags:** `review` `livestream` `hollywood` `industry-impact` `verified` `commentary` `en`
+
+> 知名娱乐评论人Kristian Harloff（认证频道）2小时直播深度讨论Seedance 2.0对好莱坞影视产业的冲击，代表西方主流娱乐圈视角
+
+### Case 84: [Seedance 2.0 Just Broke The Internet](https://www.youtube.com/watch?v=P3skPDcHMxI)（by Stylosa）
+
+<a href="https://www.youtube.com/watch?v=P3skPDcHMxI"><img src="https://img.youtube.com/vi/P3skPDcHMxI/hqdefault.jpg" width="480" alt="Seedance 2.0 Just Broke The Internet"></a>
+
+**Tags:** `review` `commentary` `verified` `gaming` `4K` `en`
+
+> 知名游戏/科技YouTuber Stylosa（认证频道）25分钟深度分析Seedance 2.0的震撼效果及其对未来的影响
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
