@@ -734,6 +734,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 西班牙AI频道深度评测Seedance 2.0：对比Sora 2和Kling 3，展示写实视频生成的巨大飞跃
 
+### Case 89: [Kling 3.0 vs Seedance 2.0 Part 2 – Action, Dialog Comedy, & Musical Scene | No Re-Generate](https://www.youtube.com/watch?v=MhD_z9ozrhs)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=MhD_z9ozrhs"><img src="https://img.youtube.com/vi/MhD_z9ozrhs/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0 Part 2 – Action, Dialog Comedy, & Musical Scene | No Re-Generate"></a>
+
+**Tags:** `comparison` `kling` `4K` `hands-on` `action` `comedy` `musical` `no-regen`
+
+> Heydin联合频道4K对比第二弹：Kling 3.0 vs Seedance 2.0 动作、对话喜剧、音乐场景，无重新生成，一次出片
+
+### Case 90: [Seedance 2.0, l'IA vidéo bluffante de TikTok](https://www.youtube.com/watch?v=XG-I5-Cfgww)（by BFM Business）
+
+<a href="https://www.youtube.com/watch?v=XG-I5-Cfgww"><img src="https://img.youtube.com/vi/XG-I5-Cfgww/hqdefault.jpg" width="480" alt="Seedance 2.0, l'IA vidéo bluffante de TikTok"></a>
+
+**Tags:** `news` `fr` `mainstream-media` `verified` `industry-impact`
+
+> 法国主流商业媒体BFM Business报导Seedance 2.0：ByteDance旗下TikTok母公司推出的超写实AI视频生成技术
+
+### Case 91: ["Seedance 2.0"正式上線 馬斯克也讚:發展速度太快了](https://www.youtube.com/watch?v=XNl5mgmtv6M)（by 全球大視野）
+
+<a href="https://www.youtube.com/watch?v=XNl5mgmtv6M"><img src="https://img.youtube.com/vi/XNl5mgmtv6M/hqdefault.jpg" width="480" alt=""Seedance 2.0"正式上線 馬斯克也讚:發展速度太快了"></a>
+
+**Tags:** `news` `zh-tw` `mainstream-media` `musk` `viral` `controversy`
+
+> 台灣全球大視野新聞報導Seedance 2.0正式上線，馬斯克也讚嘆發展速度太快，含影視颶風創辦人評價及惡搞AI影片案例
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
