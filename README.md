@@ -870,6 +870,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Hands-on deep dive into Seedance 2.0 features, multi-shot scenes, character animation, comparison with Phantom
 
+### Case 106: [The end of Hollywood? Industry rocked by AI-generated videos of Cruise, Pitt, and other big stars](https://www.youtube.com/watch?v=OWQ691dNx0g)（by KTLA 5）
+
+<a href="https://www.youtube.com/watch?v=OWQ691dNx0g"><img src="https://img.youtube.com/vi/OWQ691dNx0g/hqdefault.jpg" width="480" alt="The end of Hollywood? Industry rocked by AI-generated videos of Cruise, Pitt, and other big stars"></a>
+
+**Tags:** `news` `mainstream-media` `verified` `hollywood` `copyright` `controversy` `en`
+
+> 美国主流电视台KTLA 5（认证频道）报导Seedance 2.0引发好莱坞震动：工会和制片厂谴责AI生成的名人视频，分析版权争议
+
+### Case 107: [Zombie Movie Scene made with Seedance 2.0](https://www.youtube.com/watch?v=5qvUyHzkbUU)（by Blake Ridder）
+
+<a href="https://www.youtube.com/watch?v=5qvUyHzkbUU"><img src="https://img.youtube.com/vi/5qvUyHzkbUU/hqdefault.jpg" width="480" alt="Zombie Movie Scene made with Seedance 2.0"></a>
+
+**Tags:** `short-film` `zombie` `indie-film` `verified` `creative` `showcase` `hands-on`
+
+> 认证独立电影人Blake Ridder（70+部电影）用Seedance 2.0制作僵尸电影场景，展示AI对独立电影制作的实际影响
+
+### Case 108: [2026 AI Video Battle: Seedance 2.0 vs Kling 3.0 vs Sora 2 Pro vs Veo 3.1](https://www.youtube.com/watch?v=9yu4Nxa_C1k)（by 카메라를 멈추지마 + AI）
+
+<a href="https://www.youtube.com/watch?v=9yu4Nxa_C1k"><img src="https://img.youtube.com/vi/9yu4Nxa_C1k/hqdefault.jpg" width="480" alt="2026 AI Video Battle: Seedance 2.0 vs Kling 3.0 vs Sora 2 Pro vs Veo 3.1"></a>
+
+**Tags:** `comparison` `benchmark` `ko` `kling` `sora` `veo` `lip-sync` `physics` `comprehensive`
+
+> 韩国AI视频频道15章节详细对比：Seedance 2.0 vs Kling 3.0 vs Sora 2 Pro vs Veo 3.1，涵盖唇形同步、物理模拟、动作场景等
+
+### Case 109: [Seedance 2.0 Full Feature Review | E-commerce + Film & Television Real-World Testing](https://www.youtube.com/watch?v=cnG_le4fY64)（by 氪學家）
+
+<a href="https://www.youtube.com/watch?v=cnG_le4fY64"><img src="https://img.youtube.com/vi/cnG_le4fY64/hqdefault.jpg" width="480" alt="Seedance 2.0 Full Feature Review | E-commerce + Film & Television Real-World Testing"></a>
+
+**Tags:** `review` `e-commerce` `commercial` `hands-on` `cn` `comprehensive` `workflow`
+
+> 氪學家完整功能评测：Seedance 2.0 电商+影视实战测试，分两部分深度解析各项功能的实际商用表现
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
