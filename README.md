@@ -846,6 +846,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 中国国际电视台欧洲频道（认证频道）采访H-Tree Capital创始合伙人Rob Kniaz，讨论Seedance 2.0的技术突破和市场影响
 
+### Case 103: [Zombie Movie Scene made with Seedance 2.0](https://www.youtube.com/watch?v=5qvUyHzkbUU)（by Blake Ridder）
+
+<a href="https://www.youtube.com/watch?v=5qvUyHzkbUU"><img src="https://img.youtube.com/vi/5qvUyHzkbUU/hqdefault.jpg" width="480" alt="Zombie Movie Scene made with Seedance 2.0"></a>
+
+**Tags:** `showcase` `short-film` `creative` `cinematic`
+
+> Verified filmmaker creates actual zombie movie scene using Seedance 2.0 — real creative output, not just review
+
+### Case 104: [The end of Hollywood? Industry rocked by AI-generated videos of Cruise, Pitt, and other big stars](https://www.youtube.com/watch?v=OWQ691dNx0g)（by KTLA 5）
+
+<a href="https://www.youtube.com/watch?v=OWQ691dNx0g"><img src="https://img.youtube.com/vi/OWQ691dNx0g/hqdefault.jpg" width="480" alt="The end of Hollywood? Industry rocked by AI-generated videos of Cruise, Pitt, and other big stars"></a>
+
+**Tags:** `news` `mainstream-media` `hollywood` `controversy`
+
+> US mainstream TV news coverage of Seedance 2.0 Hollywood controversy — verified broadcaster
+
+### Case 105: [SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?](https://www.youtube.com/watch?v=G1Ad4a8sdJU)（by Benji's AI Playground）
+
+<a href="https://www.youtube.com/watch?v=G1Ad4a8sdJU"><img src="https://img.youtube.com/vi/G1Ad4a8sdJU/hqdefault.jpg" width="480" alt="SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?"></a>
+
+**Tags:** `review` `feature-demo` `hands-on` `multi-shot`
+
+> Hands-on deep dive into Seedance 2.0 features, multi-shot scenes, character animation, comparison with Phantom
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
