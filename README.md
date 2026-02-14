@@ -934,6 +934,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 阿拉伯语创作者实操Seedance 2.0：免费使用教程+实际生成效果展示，展示中国AI视频竞争力
 
+### Case 114: [教學：用「豆包」玩 Seedance 2.0！點整全網爆紅 AI 片！即睇周星馳 Cross Over 陳奕迅／黃仁勳重拍逃學威龍！](https://www.youtube.com/watch?v=G6wo3a36yxQ)（by 輕鬆講科技 (XYZ 香港科技頻道)）
+
+<a href="https://www.youtube.com/watch?v=G6wo3a36yxQ"><img src="https://img.youtube.com/vi/G6wo3a36yxQ/hqdefault.jpg" width="480" alt="教學：用「豆包」玩 Seedance 2.0！點整全網爆紅 AI 片！即睇周星馳 Cross Over 陳奕迅／黃仁勳重拍逃學威龍！"></a>
+
+**Tags:** `tutorial` `zh-hk` `cantonese` `doubao` `jimeng` `hands-on` `deepfake` `workflow`
+
+> 香港科技頻道17分鐘完整教學：如何用「豆包」App 免費使用 Seedance 2.0，涵蓋各大AI影片模型比較、三大核心技術解析、Deepfake爭議、即夢AI註冊與充值全流程
+
+### Case 115: [전세계에서 난리난 Seedance 2.0 직접 사용 후기: 현존 AI 영상 제작 끝판왕 등장. 직접 제작한 영상과 SNS 영상 비교!](https://www.youtube.com/watch?v=CPmDxBDbilQ)（by 편집러 라이프）
+
+<a href="https://www.youtube.com/watch?v=CPmDxBDbilQ"><img src="https://img.youtube.com/vi/CPmDxBDbilQ/hqdefault.jpg" width="480" alt="전세계에서 난리난 Seedance 2.0 직접 사용 후기: 현존 AI 영상 제작 끝판왕 등장. 직접 제작한 영상과 SNS 영상 비교!"></a>
+
+**Tags:** `hands-on` `ko` `showcase` `text-to-video` `image-to-video` `anime` `action`
+
+> 韩国视频编辑频道14章节实操Seedance 2.0：李小龙对战、达斯维达vs亚索、动画角色、耳机部件分解等Text-to-Video与Image-to-Video实际生成效果展示
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
