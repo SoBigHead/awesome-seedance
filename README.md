@@ -782,6 +782,70 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 阿拉伯语认证科技频道实操Seedance 2.0早期访问指南：含实际生成效果演示和使用教程
 
+### Case 95: [Why ByteDance's Seedance Has Triggered a Panic Mode in Hollywood | Vantage with Palki Sharma](https://www.youtube.com/watch?v=syYEvChJNwI)（by Firstpost）
+
+<a href="https://www.youtube.com/watch?v=syYEvChJNwI"><img src="https://img.youtube.com/vi/syYEvChJNwI/hqdefault.jpg" width="480" alt="Why ByteDance's Seedance Has Triggered a Panic Mode in Hollywood | Vantage with Palki Sharma"></a>
+
+**Tags:** `news` `mainstream-media` `verified` `hollywood` `copyright` `controversy`
+
+> 印度主流新闻频道Firstpost（认证频道）深度报导Seedance 2.0引发好莱坞恐慌：分析版权争议和影视产业冲击
+
+### Case 96: [AI News: This Video Model Has Everyone Freaked Out!](https://www.youtube.com/watch?v=msrbd-d6lWk)（by Matt Wolfe）
+
+<a href="https://www.youtube.com/watch?v=msrbd-d6lWk"><img src="https://img.youtube.com/vi/msrbd-d6lWk/hqdefault.jpg" width="480" alt="AI News: This Video Model Has Everyone Freaked Out!"></a>
+
+**Tags:** `news` `review` `verified` `ai-news` `showcase` `commentary`
+
+> 知名AI YouTuber Matt Wolfe（认证频道）30分钟AI新闻节目重点报导Seedance 2.0：展示多个震撼示例并分析其影响
+
+### Case 97: [Kling 3.0 vs Seedance 2.0 Part 3 – Monster, Fantasy & Animal Dialogue | No Re-Generate](https://www.youtube.com/watch?v=9yFFqUUZHFc)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=9yFFqUUZHFc"><img src="https://img.youtube.com/vi/9yFFqUUZHFc/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0 Part 3 – Monster, Fantasy & Animal Dialogue | No Re-Generate"></a>
+
+**Tags:** `comparison` `kling` `4K` `hands-on` `fantasy` `monster` `no-regen`
+
+> Heydin联合频道4K对比第三弹：Kling 3.0 vs Seedance 2.0 怪物、奇幻、动物对话场景，无重新生成
+
+### Case 98: [Kling 3.0 vs Seedance 2.0 Part 4 – Thriller & Racing Test | No Re-Generate](https://www.youtube.com/watch?v=7AU2KQrpas4)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=7AU2KQrpas4"><img src="https://img.youtube.com/vi/7AU2KQrpas4/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0 Part 4 – Thriller & Racing Test | No Re-Generate"></a>
+
+**Tags:** `comparison` `kling` `4K` `hands-on` `thriller` `racing` `no-regen`
+
+> Heydin联合频道4K对比第四弹：Kling 3.0 vs Seedance 2.0 惊悚和赛车场景测试，无重新生成
+
+### Case 99: [Seedance 2.0 Short Film Hearth](https://www.youtube.com/watch?v=3Kk2h6CWdRI)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=3Kk2h6CWdRI"><img src="https://img.youtube.com/vi/3Kk2h6CWdRI/hqdefault.jpg" width="480" alt="Seedance 2.0 Short Film Hearth"></a>
+
+**Tags:** `short-film` `4K` `narrative` `creative` `showcase`
+
+> JSFILMZ用Seedance 2.0制作的4K短片《Hearth》：展示AI视频生成的叙事能力
+
+### Case 100: [Better than VEO3!! Seedance 2 is Now FREE & UNLIMITED (NOT CLICKBAIT)](https://www.youtube.com/watch?v=eSm8qTH5eWA)（by Brain Project）
+
+<a href="https://www.youtube.com/watch?v=eSm8qTH5eWA"><img src="https://img.youtube.com/vi/eSm8qTH5eWA/hqdefault.jpg" width="480" alt="Better than VEO3!! Seedance 2 is Now FREE & UNLIMITED (NOT CLICKBAIT)"></a>
+
+**Tags:** `review` `comparison` `veo` `free-access` `hands-on` `4K`
+
+> Brain Project评测Seedance 2.0：对比VEO3，展示免费无限使用方法和实际生成效果
+
+### Case 101: [Seedance 2.0 爆火出圈！导演级AI视频生成神器，免费方法全公开！实测效果震撼 | 零度解说](https://www.youtube.com/watch?v=t2oGF1Y-vcI)（by 零度解说）
+
+<a href="https://www.youtube.com/watch?v=t2oGF1Y-vcI"><img src="https://img.youtube.com/vi/t2oGF1Y-vcI/hqdefault.jpg" width="480" alt="Seedance 2.0 爆火出圈！导演级AI视频生成神器，免费方法全公开！实测效果震撼 | 零度解说"></a>
+
+**Tags:** `tutorial` `hands-on` `cn` `verified` `4K` `free-access` `showcase`
+
+> 认证频道零度解说24分钟4K实测Seedance 2.0：导演级AI视频生成效果展示+免费使用方法全公开
+
+### Case 102: [ByteDance's Seedance 2.0: "The quality is pretty amazing"](https://www.youtube.com/watch?v=iMzMyEyxXoM)（by CGTN Europe）
+
+<a href="https://www.youtube.com/watch?v=iMzMyEyxXoM"><img src="https://img.youtube.com/vi/iMzMyEyxXoM/hqdefault.jpg" width="480" alt="ByteDance's Seedance 2.0: "The quality is pretty amazing""></a>
+
+**Tags:** `news` `interview` `mainstream-media` `verified` `industry-impact`
+
+> 中国国际电视台欧洲频道（认证频道）采访H-Tree Capital创始合伙人Rob Kniaz，讨论Seedance 2.0的技术突破和市场影响
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
