@@ -902,6 +902,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 氪學家完整功能评测：Seedance 2.0 电商+影视实战测试，分两部分深度解析各项功能的实际商用表现
 
+### Case 110: [字节跳动彻底杀疯了！Seedance 2.0 深度测评：国产视频 AI 首次全方位反超 Sora 2 ？ | 附真实商用案例 | Seedance2.0 vs Sora2 vs Veo3.1全对比](https://www.youtube.com/watch?v=XCBt4M7Vqqc)（by 灵姐说AI | Ling Talk AI）
+
+<a href="https://www.youtube.com/watch?v=XCBt4M7Vqqc"><img src="https://img.youtube.com/vi/XCBt4M7Vqqc/hqdefault.jpg" width="480" alt="字节跳动彻底杀疯了！Seedance 2.0 深度测评：国产视频 AI 首次全方位反超 Sora 2 ？ | 附真实商用案例 | Seedance2.0 vs Sora2 vs Veo3.1全对比"></a>
+
+**Tags:** `review` `comparison` `sora` `veo` `cn` `commercial` `deep-dive` `hands-on`
+
+> 30分钟深度测评：Seedance 2.0 vs Sora 2 vs Veo 3.1 全方位对比，附真实商用案例分析，探讨国产视频AI首次全面反超
+
+### Case 111: [How AI is Overtaking Hollywood in 2026 – Seedance 2.0 is TOO GOOD (Game Over?](https://www.youtube.com/watch?v=ssN9cG7_EvM)（by The Mad Dasher）
+
+<a href="https://www.youtube.com/watch?v=ssN9cG7_EvM"><img src="https://img.youtube.com/vi/ssN9cG7_EvM/hqdefault.jpg" width="480" alt="How AI is Overtaking Hollywood in 2026 – Seedance 2.0 is TOO GOOD (Game Over?"></a>
+
+**Tags:** `showcase` `hollywood` `hyper-realistic` `commentary` `cinematic`
+
+> 12分钟展示Seedance 2.0生成的超写实AI视频：几乎无法与真实电影区分的场景，含电影和广告级片段
+
+### Case 112: [100% FREE!! How to Make Viral Videos on Seedance 2.0 AI, the Best Kling & VEO Conqueror](https://www.youtube.com/watch?v=ZQQ3mwaluIo)（by MASYAWI ID）
+
+<a href="https://www.youtube.com/watch?v=ZQQ3mwaluIo"><img src="https://img.youtube.com/vi/ZQQ3mwaluIo/hqdefault.jpg" width="480" alt="100% FREE!! How to Make Viral Videos on Seedance 2.0 AI, the Best Kling & VEO Conqueror"></a>
+
+**Tags:** `tutorial` `hands-on` `id` `free-access` `showcase`
+
+> 印尼创作者实操Seedance 2.0：免费制作病毒式传播AI视频教程，含实际生成效果展示
+
+### Case 113: [مستحيل دا يكون ذكاء اصطناعي جربه الآن مجانًا - الصين ولعت المنافسة فى الفيديو | Seedance 2.0](https://www.youtube.com/watch?v=Spgl9Yl4Qe4)（by Baseta Tube - بسيطة تيوب）
+
+<a href="https://www.youtube.com/watch?v=Spgl9Yl4Qe4"><img src="https://img.youtube.com/vi/Spgl9Yl4Qe4/hqdefault.jpg" width="480" alt="مستحيل دا يكون ذكاء اصطناعي جربه الآن مجانًا - الصين ولعت المنافسة فى الفيديو | Seedance 2.0"></a>
+
+**Tags:** `tutorial` `hands-on` `ar` `free-access` `showcase`
+
+> 阿拉伯语创作者实操Seedance 2.0：免费使用教程+实际生成效果展示，展示中国AI视频竞争力
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
