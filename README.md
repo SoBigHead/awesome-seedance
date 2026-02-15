@@ -1094,6 +1094,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用Seedance 2.0制作黑神话悟空·猪八戒主题原创短动画教程，零经验上手指南
 
+### Case 134: [只需一个指令即生成逼真视频 Seedance2.0横空出世 | 八点最热报 14/02/2026](https://www.youtube.com/watch?v=BCkGqCnxdmY)（by Astro 本地圈）
+
+<a href="https://www.youtube.com/watch?v=BCkGqCnxdmY"><img src="https://img.youtube.com/vi/BCkGqCnxdmY/hqdefault.jpg" width="480" alt="只需一个指令即生成逼真视频 Seedance2.0横空出世 | 八点最热报 14/02/2026"></a>
+
+**Tags:** `news` `mainstream-media` `ms-cn` `malaysia` `industry-impact`
+
+> 马来西亚主流媒体Astro八点最热报报导Seedance 2.0：字节跳动多模态AI视频模型正式上线，分析技术突破与社会影响
+
+### Case 135: [The Best AI Fights (Seedance 2.0 Compilation) Spider-Man, Mike Tyson, Wolverine, John Wick and more](https://www.youtube.com/watch?v=4Era3nFB0Fw)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=4Era3nFB0Fw"><img src="https://img.youtube.com/vi/4Era3nFB0Fw/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation) Spider-Man, Mike Tyson, Wolverine, John Wick and more"></a>
+
+**Tags:** `compilation` `fight-scene` `showcase` `spider-man` `wolverine` `john-wick`
+
+> Seedance 2.0 AI格斗合集：蜘蛛侠、泰森、金刚狼、约翰·威克等经典角色打斗场景，12分钟精选
+
+### Case 136: [Seedance 2.0 - Short Film - Early Access Test - Its a Game Changer!](https://www.youtube.com/watch?v=uJLIZinaGyo)（by Orcton）
+
+<a href="https://www.youtube.com/watch?v=uJLIZinaGyo"><img src="https://img.youtube.com/vi/uJLIZinaGyo/hqdefault.jpg" width="480" alt="Seedance 2.0 - Short Film - Early Access Test - Its a Game Changer!"></a>
+
+**Tags:** `short-film` `creative` `early-access` `narrative` `showcase`
+
+> 通过CapCut CPP获得Seedance 2.0早期访问权限后制作的原创短片，展示AI视频生成的叙事短片创作潜力
+
+### Case 137: [深度实测Seedance 2.0：秒杀同类AI视频生成工具，告别抽卡！创作者的核武级变现利器！（附提示词）](https://www.youtube.com/watch?v=nFXKf5lfJ00)（by 九姨小课堂）
+
+<a href="https://www.youtube.com/watch?v=nFXKf5lfJ00"><img src="https://img.youtube.com/vi/nFXKf5lfJ00/hqdefault.jpg" width="480" alt="深度实测Seedance 2.0：秒杀同类AI视频生成工具，告别抽卡！创作者的核武级变现利器！（附提示词）"></a>
+
+**Tags:** `tutorial` `hands-on` `cn` `prompts` `storyboard` `commercial` `workflow`
+
+> 9分钟深度实测Seedance 2.0：六章节覆盖免费入口、打斗效果实测、九宫格分镜控制教学、商业变现（汽车广告/AI音乐）、无限积分方案
+
+### Case 138: [Superman V Darkseid Clip GOES VIRAL | Seedance 2.0 DESTROY HOLLYWOOD!](https://www.youtube.com/watch?v=I1DFUxwqWpQ)（by Review Flicks）
+
+<a href="https://www.youtube.com/watch?v=I1DFUxwqWpQ"><img src="https://img.youtube.com/vi/I1DFUxwqWpQ/hqdefault.jpg" width="480" alt="Superman V Darkseid Clip GOES VIRAL | Seedance 2.0 DESTROY HOLLYWOOD!"></a>
+
+**Tags:** `review` `commentary` `superman` `viral` `hollywood` `controversy` `dc-comics`
+
+> Review Flicks分析Seedance 2.0生成的超人vs达克赛德病毒式传播片段：讨论好莱坞法律挑战和AI视频伦理问题
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
