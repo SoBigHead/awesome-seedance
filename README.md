@@ -950,6 +950,54 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 韩国视频编辑频道14章节实操Seedance 2.0：李小龙对战、达斯维达vs亚索、动画角色、耳机部件分解等Text-to-Video与Image-to-Video实际生成效果展示
 
+### Case 116: [[每日必看] 字節跳動Seedance 2.0爆紅：逼真影片震驚專業人士](https://www.youtube.com/watch?v=c1P24Dx5Kb8)（by 中天新聞）
+
+<a href="https://www.youtube.com/watch?v=c1P24Dx5Kb8"><img src="https://img.youtube.com/vi/c1P24Dx5Kb8/hqdefault.jpg" width="480" alt="[每日必看] 字節跳動Seedance 2.0爆紅：逼真影片震驚專業人士"></a>
+
+**Tags:** `news` `zh-tw` `mainstream-media` `viral` `controversy` `privacy`
+
+> 台灣中天新聞報導Seedance 2.0引發全球熱議：逼真AI生成影片震驚專業人士，涉及隱私侵權與多鏡頭技術爭議
+
+### Case 117: [Seedance 2.0: The New Best AI Video Generator | Sora 2 Destroyed](https://www.youtube.com/watch?v=W_lxyDFDZt4)（by WealthWise）
+
+<a href="https://www.youtube.com/watch?v=W_lxyDFDZt4"><img src="https://img.youtube.com/vi/W_lxyDFDZt4/hqdefault.jpg" width="480" alt="Seedance 2.0: The New Best AI Video Generator | Sora 2 Destroyed"></a>
+
+**Tags:** `review` `comparison` `sora` `showcase` `en`
+
+> 61K播放高热度评测：Seedance 2.0 全面超越 Sora 2，展示实际生成效果和功能演示
+
+### Case 118: [The Ultimate Seedance 2 Cinematic Multiverse | Star Wars, Matrix, Marvel & Crossovers](https://www.youtube.com/watch?v=SrXYfIqMcto)（by SoVibes Clips）
+
+<a href="https://www.youtube.com/watch?v=SrXYfIqMcto"><img src="https://img.youtube.com/vi/SrXYfIqMcto/hqdefault.jpg" width="480" alt="The Ultimate Seedance 2 Cinematic Multiverse | Star Wars, Matrix, Marvel & Crossovers"></a>
+
+**Tags:** `showcase` `compilation` `star-wars` `matrix` `marvel` `crossover` `creative`
+
+> 34K播放AI电影宇宙合集：用Seedance 2.0生成星球大战、黑客帝国、漫威等经典IP交叉融合的动作场景
+
+### Case 119: [Seedance 2.0 destroys Kling 3.0 and Veo 3 + Access](https://www.youtube.com/watch?v=CpoH9TGrwaE)（by re4ee）
+
+<a href="https://www.youtube.com/watch?v=CpoH9TGrwaE"><img src="https://img.youtube.com/vi/CpoH9TGrwaE/hqdefault.jpg" width="480" alt="Seedance 2.0 destroys Kling 3.0 and Veo 3 + Access"></a>
+
+**Tags:** `review` `comparison` `kling` `veo` `motion-design` `architecture` `hands-on`
+
+> 7章节深度评测：Seedance 2.0 电影级场景、AI运动设计、建筑投影映射等实际生成效果，对比Kling 3.0和Veo 3
+
+### Case 120: [即夢Seedance2.0太強了，16個瘋狂案例，無限運鏡，精準動作控制，電商產品圖、短劇，廣告片，口播...](https://www.youtube.com/watch?v=JEaJK74Gk08)（by 七七行銷筆記）
+
+<a href="https://www.youtube.com/watch?v=JEaJK74Gk08"><img src="https://img.youtube.com/vi/JEaJK74Gk08/hqdefault.jpg" width="480" alt="即夢Seedance2.0太強了，16個瘋狂案例，無限運鏡，精準動作控制，電商產品圖、短劇，廣告片，口播..."></a>
+
+**Tags:** `tutorial` `showcase` `e-commerce` `commercial` `zh-tw` `hands-on` `short-drama` `product`
+
+> 11分鐘16個實戰案例：Seedance 2.0 無限運鏡、精準動作控制、電商產品圖生成、短劇製作、廣告片、口播等商業應用全展示
+
+### Case 121: [Seedance 2.0 copyright drama is insane…](https://www.youtube.com/watch?v=NXbVS3f9kp4)（by Stylosa）
+
+<a href="https://www.youtube.com/watch?v=NXbVS3f9kp4"><img src="https://img.youtube.com/vi/NXbVS3f9kp4/hqdefault.jpg" width="480" alt="Seedance 2.0 copyright drama is insane…"></a>
+
+**Tags:** `review` `commentary` `copyright` `controversy` `verified` `en`
+
+> 知名游戏/科技YouTuber Stylosa 深度分析 Seedance 2.0 版权争议：好莱坞的法律挑战和AI视频生成的伦理问题
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
