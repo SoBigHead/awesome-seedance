@@ -1134,6 +1134,54 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Review Flicks分析Seedance 2.0生成的超人vs达克赛德病毒式传播片段：讨论好莱坞法律挑战和AI视频伦理问题
 
+### Case 139: [Hollywood is Trying to SHUT DOWN Seedance 2.0](https://www.youtube.com/watch?v=Sp7zLUy35Lo)（by RandomAI）
+
+<a href="https://www.youtube.com/watch?v=Sp7zLUy35Lo"><img src="https://img.youtube.com/vi/Sp7zLUy35Lo/hqdefault.jpg" width="480" alt="Hollywood is Trying to SHUT DOWN Seedance 2.0"></a>
+
+**Tags:** `review` `commentary` `hollywood` `copyright` `legal` `animation-to-live-action`
+
+> RandomAI分析好莱坞试图封杀Seedance 2.0：探讨电影工会和制片厂的法律挑战，展示AI动画转真人等创新功能
+
+### Case 140: [Kling 3.0 VS Seedance 2.0 - Qual é a Melhor IA de Vídeo?](https://www.youtube.com/watch?v=pfURpj7eH6A)（by Willian IA）
+
+<a href="https://www.youtube.com/watch?v=pfURpj7eH6A"><img src="https://img.youtube.com/vi/pfURpj7eH6A/hqdefault.jpg" width="480" alt="Kling 3.0 VS Seedance 2.0 - Qual é a Melhor IA de Vídeo?"></a>
+
+**Tags:** `comparison` `kling` `pt` `hands-on` `benchmark`
+
+> 巴西创作者Willian IA第三期Seedance 2.0视频：用相同提示词逐项对比Kling 3.0 vs Seedance 2.0的视频生成能力
+
+### Case 141: [Seedance 2.0 THREATENED! + INSANE usage examples and new ways to use it (I have invitations)](https://www.youtube.com/watch?v=-dxVXc1VQaI)（by Manual de Inteligência Artificial）
+
+<a href="https://www.youtube.com/watch?v=-dxVXc1VQaI"><img src="https://img.youtube.com/vi/-dxVXc1VQaI/hqdefault.jpg" width="480" alt="Seedance 2.0 THREATENED! + INSANE usage examples and new ways to use it (I have invitations)"></a>
+
+**Tags:** `showcase` `pt` `controversy` `legal` `best-examples`
+
+> 巴西AI频道展示Seedance 2.0最佳生成案例合集，同时讨论针对该工具的法律威胁和争议
+
+### Case 142: [SEEDANCE 2.0-THE BEST AI VIDEO MODEL IN THE WORLD](https://www.youtube.com/watch?v=tu2SkF-fl4w)（by Lepadphone）
+
+<a href="https://www.youtube.com/watch?v=tu2SkF-fl4w"><img src="https://img.youtube.com/vi/tu2SkF-fl4w/hqdefault.jpg" width="480" alt="SEEDANCE 2.0-THE BEST AI VIDEO MODEL IN THE WORLD"></a>
+
+**Tags:** `showcase` `viral` `cinematic`
+
+> Lepadphone展示Seedance 2.0生成效果：12K播放，2分钟精选AI视频生成示例
+
+### Case 143: [Seedance 2: (Compared to Kling 3) Chinese Video AI that Surprises the World](https://www.youtube.com/watch?v=J3cLZTZRReE)（by Manual de Inteligência Artificial）
+
+<a href="https://www.youtube.com/watch?v=J3cLZTZRReE"><img src="https://img.youtube.com/vi/J3cLZTZRReE/hqdefault.jpg" width="480" alt="Seedance 2: (Compared to Kling 3) Chinese Video AI that Surprises the World"></a>
+
+**Tags:** `comparison` `kling` `pt` `review`
+
+> 巴西AI频道对比评测Seedance 2.0 vs Kling 3.0：分析中国视频AI震惊世界的原因
+
+### Case 144: [AI新时代已经到来，导演即将失业，Seedance 2.0太牛了！可以自己演电影了，效果太炸裂了！](https://www.youtube.com/watch?v=LPRMT9uTkVc)（by 九姨小课堂）
+
+<a href="https://www.youtube.com/watch?v=LPRMT9uTkVc"><img src="https://img.youtube.com/vi/LPRMT9uTkVc/hqdefault.jpg" width="480" alt="AI新时代已经到来，导演即将失业，Seedance 2.0太牛了！可以自己演电影了，效果太炸裂了！"></a>
+
+**Tags:** `showcase` `cn` `tutorial` `anime` `3d` `cinematic`
+
+> 九姨小课堂展示Seedance 2.0的惊人效果：AI新时代到来，任何人都能用AI制作电影级、二次元动漫、3D动画视频
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
