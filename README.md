@@ -1030,6 +1030,70 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > AI Biceps 教程：如何在中国以外地区使用 Seedance 2.0，含实际操作演示和生成效果展示
 
+### Case 126: [AI Just Reunited Michael Jackson, Tom Cruise, The Avengers & Jackie Chan… Powered by Seedance 2.0](https://www.youtube.com/watch?v=oUq_nVEYWL0)（by Músicas IA × O bilisco）
+
+<a href="https://www.youtube.com/watch?v=oUq_nVEYWL0"><img src="https://img.youtube.com/vi/oUq_nVEYWL0/hqdefault.jpg" width="480" alt="AI Just Reunited Michael Jackson, Tom Cruise, The Avengers & Jackie Chan… Powered by Seedance 2.0"></a>
+
+**Tags:** `showcase` `crossover` `viral` `celebrity` `creative` `pt`
+
+> 用Seedance 2.0 AI将迈克尔·杰克逊、汤姆·克鲁斯、复仇者联盟、成龙等传奇人物在同一个视频中重聚，43K播放的病毒式传播
+
+### Case 127: [AI seedance MV 新鸳鸯蝴蝶梦/chapter1 and 2/story line/kanye/](https://www.youtube.com/watch?v=teDiqpu0ncc)（by POV the earth）
+
+<a href="https://www.youtube.com/watch?v=teDiqpu0ncc"><img src="https://img.youtube.com/vi/teDiqpu0ncc/hqdefault.jpg" width="480" alt="AI seedance MV 新鸳鸯蝴蝶梦/chapter1 and 2/story line/kanye/"></a>
+
+**Tags:** `music-video` `creative` `zh-tw` `storyline` `showcase`
+
+> 用Seedance 2.0制作的AI音乐视频《新鸳鸯蝴蝶梦》前传与续篇故事线，12K播放
+
+### Case 128: [How to Access Seedance 2.0 | FULL REVIEW](https://www.youtube.com/watch?v=-Pl0zpmuVH0)（by Try CGI）
+
+<a href="https://www.youtube.com/watch?v=-Pl0zpmuVH0"><img src="https://img.youtube.com/vi/-Pl0zpmuVH0/hqdefault.jpg" width="480" alt="How to Access Seedance 2.0 | FULL REVIEW"></a>
+
+**Tags:** `review` `hands-on` `ru` `tutorial` `comparison` `kling` `comprehensive`
+
+> 俄语CGI频道27分钟完整评测Seedance 2.0：28章节覆盖两种访问方式、提示词技巧、Kling对比、名人生成等实测效果
+
+### Case 129: [Kling 3.0 vs Seedance 2 vs Veo 3.1 : The Ultimate AI Video Comparison](https://www.youtube.com/watch?v=ae7IaOKsvEw)（by Yannis Ashay）
+
+<a href="https://www.youtube.com/watch?v=ae7IaOKsvEw"><img src="https://img.youtube.com/vi/ae7IaOKsvEw/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2 vs Veo 3.1 : The Ultimate AI Video Comparison"></a>
+
+**Tags:** `comparison` `benchmark` `kling` `veo` `hands-on` `camera-movement`
+
+> Yannis Ashay 三方对比实测：Kling 3.0 vs Seedance 2.0 vs Veo 3.1，附AI运镜指南Notion库
+
+### Case 130: [Trailer : DragonballZ | 2026 | Live Action | ( Ai Seedance 2.0 )](https://www.youtube.com/watch?v=zJNecpr2zic)（by Trailer HD movie）
+
+<a href="https://www.youtube.com/watch?v=zJNecpr2zic"><img src="https://img.youtube.com/vi/zJNecpr2zic/hqdefault.jpg" width="480" alt="Trailer : DragonballZ | 2026 | Live Action | ( Ai Seedance 2.0 )"></a>
+
+**Tags:** `fan-made` `dragon-ball` `live-action` `trailer` `showcase`
+
+> 用Seedance 2.0制作的龙珠Z 2026年真人版预告片，3.5K播放
+
+### Case 131: [China's AI Lockdown: Why ByteDance's seedance 2.0 Was Deliberately Crippled](https://www.youtube.com/watch?v=yCSlay0qEfI)（by Deep Dive Global）
+
+<a href="https://www.youtube.com/watch?v=yCSlay0qEfI"><img src="https://img.youtube.com/vi/yCSlay0qEfI/hqdefault.jpg" width="480" alt="China's AI Lockdown: Why ByteDance's seedance 2.0 Was Deliberately Crippled"></a>
+
+**Tags:** `review` `analysis` `censorship` `policy` `real-person` `controversy`
+
+> 深度分析ByteDance对Seedance 2.0真人参考功能的突然限制——不是技术故障而是主动策略
+
+### Case 132: [台灣能用了！SeeDance 2.0 爆紅不是沒原因！一提示詞就能生多鏡頭、大運鏡、劇情片？還能一鍵生成完整腳本！教你用豆包、即夢 AI 輕鬆上手！](https://www.youtube.com/watch?v=ic0eTLSnDrE)（by 嚕嚕科技）
+
+<a href="https://www.youtube.com/watch?v=ic0eTLSnDrE"><img src="https://img.youtube.com/vi/ic0eTLSnDrE/hqdefault.jpg" width="480" alt="台灣能用了！SeeDance 2.0 爆紅不是沒原因！一提示詞就能生多鏡頭、大運鏡、劇情片？還能一鍵生成完整腳本！教你用豆包、即夢 AI 輕鬆上手！"></a>
+
+**Tags:** `tutorial` `zh-tw` `doubao` `jimeng` `multi-camera` `hands-on` `workflow`
+
+> 台灣科技頻道教學：SeeDance 2.0 如何用一個提示詞生成多鏡頭、大運鏡劇情片，附豆包和即夢AI完整入門教學
+
+### Case 133: [Seedance 2.0 Black Myth: Pigsy! A hands-on, zero-experience tutorial on creating original short animations](https://www.youtube.com/watch?v=Kt12EZshTVo)（by T8star-Aix）
+
+<a href="https://www.youtube.com/watch?v=Kt12EZshTVo"><img src="https://img.youtube.com/vi/Kt12EZshTVo/hqdefault.jpg" width="480" alt="Seedance 2.0 Black Myth: Pigsy! A hands-on, zero-experience tutorial on creating original short animations"></a>
+
+**Tags:** `tutorial` `black-myth` `animation` `cn` `hands-on` `gaming` `showcase`
+
+> 用Seedance 2.0制作黑神话悟空·猪八戒主题原创短动画教程，零经验上手指南
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
