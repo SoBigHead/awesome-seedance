@@ -1182,6 +1182,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 九姨小课堂展示Seedance 2.0的惊人效果：AI新时代到来，任何人都能用AI制作电影级、二次元动漫、3D动画视频
 
+### Case 145: [Seedance 2.0 Anamorphic Test](https://www.youtube.com/watch?v=-f-l85RTSp8)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=-f-l85RTSp8"><img src="https://img.youtube.com/vi/-f-l85RTSp8/hqdefault.jpg" width="480" alt="Seedance 2.0 Anamorphic Test"></a>
+
+**Tags:** `anamorphic` `technical` `hands-on` `lighting` `bokeh` `physics`
+
+> JSFILMZ 变形宽银幕镜头模拟测试：探索 Seedance 2.0 在不同光照场景下的变形散景、服装物理和复杂场景转换能力
+
+### Case 146: [[業界震撼] 動画生成AI "Seedance 2.0" Sora2を超え、あらゆるものを作れる](https://www.youtube.com/watch?v=OGoAT7oUDUo)（by チャエン【AI研究所】）
+
+<a href="https://www.youtube.com/watch?v=OGoAT7oUDUo"><img src="https://img.youtube.com/vi/OGoAT7oUDUo/hqdefault.jpg" width="480" alt="[業界震撼] 動画生成AI "Seedance 2.0" Sora2を超え、あらゆるものを作れる"></a>
+
+**Tags:** `review` `ja` `deep-dive` `comparison` `sora` `runway` `hands-on` `byteplus`
+
+> 日本AI研究频道8章节深度分析Seedance 2.0：基本性能解说、3种访问方式、BytePlus ModelArk实演、竞品对比（Sora2/Runway Gen-4）、生成案例展示
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
