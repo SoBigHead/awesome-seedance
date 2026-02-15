@@ -998,6 +998,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 知名游戏/科技YouTuber Stylosa 深度分析 Seedance 2.0 版权争议：好莱坞的法律挑战和AI视频生成的伦理问题
 
+### Case 122: [Laughing At AWFUL AI Videos (Seedance 2)](https://www.youtube.com/watch?v=QO8VXljyJ-I)（by Dan Dingle）
+
+<a href="https://www.youtube.com/watch?v=QO8VXljyJ-I"><img src="https://img.youtube.com/vi/QO8VXljyJ-I/hqdefault.jpg" width="480" alt="Laughing At AWFUL AI Videos (Seedance 2)"></a>
+
+**Tags:** `viral` `showcase` `creative` `comedy` `user-prompts`
+
+> 239K订阅大V Dan Dingle 第二弹Seedance 2.0视频：88K播放，测试各种荒诞/搞笑提示词生成AI视频，含动画、恐怖、破坏等多种场景
+
+### Case 123: [AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)（by CBS LA）
+
+<a href="https://www.youtube.com/watch?v=c8qUe3nc6Tg"><img src="https://img.youtube.com/vi/c8qUe3nc6Tg/hqdefault.jpg" width="480" alt="AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood"></a>
+
+**Tags:** `news` `mainstream-media` `verified` `hollywood` `copyright` `controversy` `celebrity`
+
+> 美国主流电视台CBS LA（认证频道）报导Seedance 2.0引发好莱坞恐慌：Brad Pitt和Tom Cruise的AI生成打斗视频引发版权和就业争议
+
+### Case 124: [I Got Access To Seedance 2.0 (Exclusive Demo)](https://www.youtube.com/watch?v=KUKpIVaU12A)（by Planet Ai）
+
+<a href="https://www.youtube.com/watch?v=KUKpIVaU12A"><img src="https://img.youtube.com/vi/KUKpIVaU12A/hqdefault.jpg" width="480" alt="I Got Access To Seedance 2.0 (Exclusive Demo)"></a>
+
+**Tags:** `showcase` `hands-on` `early-access` `character-swap` `cinematic`
+
+> Planet Ai 独家早期访问Seedance 2.0：展示从图片和视频参考生成电影级AI视频的实际效果，包括连续镜头和角色替换
+
+### Case 125: [How To Use Seedance 2.0 Outside China (Actually Works)](https://www.youtube.com/watch?v=tWBXYoLc_us)（by AI Biceps）
+
+<a href="https://www.youtube.com/watch?v=tWBXYoLc_us"><img src="https://img.youtube.com/vi/tWBXYoLc_us/hqdefault.jpg" width="480" alt="How To Use Seedance 2.0 Outside China (Actually Works)"></a>
+
+**Tags:** `tutorial` `hands-on` `access` `international` `showcase`
+
+> AI Biceps 教程：如何在中国以外地区使用 Seedance 2.0，含实际操作演示和生成效果展示
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
