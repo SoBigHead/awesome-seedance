@@ -1198,6 +1198,62 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 日本AI研究频道8章节深度分析Seedance 2.0：基本性能解说、3种访问方式、BytePlus ModelArk实演、竞品对比（Sora2/Runway Gen-4）、生成案例展示
 
+### Case 147: [Seedance 2.0 INSANE Fight Scenes](https://www.youtube.com/watch?v=TXAYnMWP0-c)（by Airt）
+
+<a href="https://www.youtube.com/watch?v=TXAYnMWP0-c"><img src="https://img.youtube.com/vi/TXAYnMWP0-c/hqdefault.jpg" width="480" alt="Seedance 2.0 INSANE Fight Scenes"></a>
+
+**Tags:** `showcase` `fight-scenes` `action` `combat` `animation`
+
+> Airt 展示 Seedance 2.0 战斗场景生成能力：高质量动作打斗视频合集，展示 AI 对复杂战斗动作的精确渲染
+
+### Case 148: [Kling 3.0 vs Seedance 2.0 Part 4 – Thriller & Racing Tests](https://www.youtube.com/watch?v=GzxyNubGCYo)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=GzxyNubGCYo"><img src="https://img.youtube.com/vi/GzxyNubGCYo/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0 Part 4 – Thriller & Racing Tests"></a>
+
+**Tags:** `comparison` `kling` `4K` `hands-on` `thriller` `racing` `benchmark`
+
+> Heydin 4K 对比评测第四弹：Kling 3.0 vs Seedance 2.0 惊悚和赛车场景测试，逐项对比两大模型的实际生成效果
+
+### Case 149: [Dragon Fight (Made with Seedance 2.0)](https://www.youtube.com/watch?v=D8zUG76Rb4E)（by Hashem Al-Ghaili）
+
+<a href="https://www.youtube.com/watch?v=D8zUG76Rb4E"><img src="https://img.youtube.com/vi/D8zUG76Rb4E/hqdefault.jpg" width="480" alt="Dragon Fight (Made with Seedance 2.0)"></a>
+
+**Tags:** `showcase` `dragon` `fantasy` `creature` `cinematic`
+
+> 知名科学传播者 Hashem Al-Ghaili 用 Seedance 2.0 生成的龙战场景：展示 AI 对奇幻生物战斗的渲染能力
+
+### Case 150: [Wukong vs The Avengers (Seedance 2 AI Fight Compilation)](https://www.youtube.com/watch?v=vYAr9wyjCso)（by SoVibes Clips）
+
+<a href="https://www.youtube.com/watch?v=vYAr9wyjCso"><img src="https://img.youtube.com/vi/vYAr9wyjCso/hqdefault.jpg" width="480" alt="Wukong vs The Avengers (Seedance 2 AI Fight Compilation)"></a>
+
+**Tags:** `showcase` `fight-compilation` `wukong` `avengers` `crossover` `character`
+
+> SoVibes Clips 用 Seedance 2.0 生成孙悟空大战复仇者联盟战斗合集：跨IP角色战斗场景展示
+
+### Case 151: [Kling 3.0 vs Seedance 2.0 Part 2 – Action, Dialog Comedy, & Sound Tests](https://www.youtube.com/watch?v=en8MlPTvqxs)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=en8MlPTvqxs"><img src="https://img.youtube.com/vi/en8MlPTvqxs/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0 Part 2 – Action, Dialog Comedy, & Sound Tests"></a>
+
+**Tags:** `comparison` `kling` `4K` `hands-on` `action` `comedy` `audio` `benchmark`
+
+> Heydin 4K 对比评测第二弹：Kling 3.0 vs Seedance 2.0 动作、对话喜剧、音效测试，逐项对比实际生成效果
+
+### Case 152: [How to Use Seedance 2.0 (Full Tutorial) | ByteDance AI Video](https://www.youtube.com/watch?v=cGENab64va8)（by Aizen）
+
+<a href="https://www.youtube.com/watch?v=cGENab64va8"><img src="https://img.youtube.com/vi/cGENab64va8/hqdefault.jpg" width="480" alt="How to Use Seedance 2.0 (Full Tutorial) | ByteDance AI Video"></a>
+
+**Tags:** `tutorial` `hands-on` `workflow` `comprehensive` `showcase`
+
+> Aizen 完整 Seedance 2.0 使用教程：从注册到生成，含实际生成效果展示和多种场景演示
+
+### Case 153: [This AI model is breaking the internet](https://www.youtube.com/watch?v=zBlrYTgcFrE)（by Linus Ekenstam）
+
+<a href="https://www.youtube.com/watch?v=zBlrYTgcFrE"><img src="https://img.youtube.com/vi/zBlrYTgcFrE/hqdefault.jpg" width="480" alt="This AI model is breaking the internet"></a>
+
+**Tags:** `review` `hands-on` `showcase` `commentary`
+
+> 知名 AI 创作者 Linus Ekenstam 评测 Seedance 2.0：展示实际生成效果和分析 AI 视频领域影响
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
