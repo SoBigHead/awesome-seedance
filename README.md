@@ -1510,6 +1510,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > xCreate 展示 Seedance 2.0 终极预览：通过 Higgsfield 平台演示各项功能和实际生成效果
 
+### Case 186: [SEEDANCE 2.0 | Tested in Real Production](https://www.youtube.com/watch?v=9hGEEbK9b3o)（by Yaroflasher）
+
+<a href="https://www.youtube.com/watch?v=9hGEEbK9b3o"><img src="https://img.youtube.com/vi/9hGEEbK9b3o/hqdefault.jpg" width="480" alt="SEEDANCE 2.0 | Tested in Real Production"></a>
+
+**Tags:** `production` `workflow` `tutorial` `davinci-resolve` `fight-scenes` `hands-on`
+
+> 21分钟完整制作流程：用 Seedance 2.0 从角色设计到 DaVinci Resolve 最终剪辑，展示真实影视制作中的 AI 视频生成工作流
+
+### Case 187: [The Best AI Fights (Seedance 2.0 Compilation) Spongebob, Harry Potter, Spider-Man, The Rock and more](https://www.youtube.com/watch?v=1gv4JNu4KKY)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=1gv4JNu4KKY"><img src="https://img.youtube.com/vi/1gv4JNu4KKY/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation) Spongebob, Harry Potter, Spider-Man, The Rock and more"></a>
+
+**Tags:** `showcase` `fight-scenes` `compilation` `character` `animation`
+
+> 16分钟 Seedance 2.0 最佳 AI 打斗场景合集：海绵宝宝、哈利波特、蜘蛛侠、巨石强森等流行角色的 AI 战斗动画
+
+### Case 188: [Seedance 2.0 INSANE Fight Scenes — Superman, Hulk, Batman, Deadpool, Captain America and more](https://www.youtube.com/watch?v=E4K_7RB7JE8)（by Mini Marvel）
+
+<a href="https://www.youtube.com/watch?v=E4K_7RB7JE8"><img src="https://img.youtube.com/vi/E4K_7RB7JE8/hqdefault.jpg" width="480" alt="Seedance 2.0 INSANE Fight Scenes — Superman, Hulk, Batman, Deadpool, Captain America and more"></a>
+
+**Tags:** `showcase` `fight-scenes` `superhero` `compilation` `animation` `viral`
+
+> 用 Seedance 2.0 生成的超级英雄打斗场景合集：超人、绿巨人、蝙蝠侠、死侍、美国队长等角色的 AI 战斗动画，8.4K播放
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
