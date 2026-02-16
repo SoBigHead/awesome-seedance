@@ -1254,6 +1254,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 知名 AI 创作者 Linus Ekenstam 评测 Seedance 2.0：展示实际生成效果和分析 AI 视频领域影响
 
+### Case 154: [Seedance 2.0 Is Insane... Here's How To Gain Access (Litmedia)](https://www.youtube.com/watch?v=cIOTQLoGplE)（by AI In A Nutshell）
+
+<a href="https://www.youtube.com/watch?v=cIOTQLoGplE"><img src="https://img.youtube.com/vi/cIOTQLoGplE/hqdefault.jpg" width="480" alt="Seedance 2.0 Is Insane... Here's How To Gain Access (Litmedia)"></a>
+
+**Tags:** `tutorial` `hands-on` `access` `showcase`
+
+> AI In A Nutshell 教程：Seedance 2.0 实际生成效果展示 + Litmedia 平台访问指南
+
+### Case 155: [How To Access Seedance 2.0 - Seedance 2.0 Tutorial Complete Guide For Beginners](https://www.youtube.com/watch?v=UH8Fq-_1eA0)（by TheAIGRID）
+
+<a href="https://www.youtube.com/watch?v=UH8Fq-_1eA0"><img src="https://img.youtube.com/vi/UH8Fq-_1eA0/hqdefault.jpg" width="480" alt="How To Access Seedance 2.0 - Seedance 2.0 Tutorial Complete Guide For Beginners"></a>
+
+**Tags:** `tutorial` `hands-on` `comprehensive` `beginner` `showcase`
+
+> TheAIGRID 完整入门教程：从注册到生成，含实际生成效果展示和多种场景演示
+
+### Case 156: [震撼創作圈! Seedance 2.0逼真過頭爆爭議｜TVBS新聞](https://www.youtube.com/watch?v=1IHZQvWKFGI)（by TVBS NEWS）
+
+<a href="https://www.youtube.com/watch?v=1IHZQvWKFGI"><img src="https://img.youtube.com/vi/1IHZQvWKFGI/hqdefault.jpg" width="480" alt="震撼創作圈! Seedance 2.0逼真過頭爆爭議｜TVBS新聞"></a>
+
+**Tags:** `news` `zh-tw` `mainstream-media` `verified` `controversy` `viral`
+
+> 台灣主流媒體 TVBS NEWS（認證頻道）報導 Seedance 2.0：逼真 AI 生成影片震驚創作圈，含實際 AI 生成片段展示
+
+### Case 157: [Michael Jackson vs Kobe Bryant | Shaw Brothers Kung Fu Style (Seedance 2 AI Film)](https://www.youtube.com/watch?v=93kYZYF6J6A)（by SoVibes Clips）
+
+<a href="https://www.youtube.com/watch?v=93kYZYF6J6A"><img src="https://img.youtube.com/vi/93kYZYF6J6A/hqdefault.jpg" width="480" alt="Michael Jackson vs Kobe Bryant | Shaw Brothers Kung Fu Style (Seedance 2 AI Film)"></a>
+
+**Tags:** `showcase` `kung-fu` `celebrity` `creative` `crossover`
+
+> SoVibes Clips 用 Seedance 2.0 生成 Michael Jackson 对战 Kobe Bryant 的邵氏功夫风格 AI 电影
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
