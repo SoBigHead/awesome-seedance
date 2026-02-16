@@ -1334,6 +1334,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用Seedance 2.0生成的未来武术对决：李小龙vs李连杰在赛博竞技场中的跨时空对决，8.1K播放
 
+### Case 164: [SEEDANCE 2.0: Полный разбор видеонейросети от ByteDance + Weavy AI](https://www.youtube.com/watch?v=HJOeney-iXA)（by Бла Бла Pro Ai）
+
+<a href="https://www.youtube.com/watch?v=HJOeney-iXA"><img src="https://img.youtube.com/vi/HJOeney-iXA/hqdefault.jpg" width="480" alt="SEEDANCE 2.0: Полный разбор видеонейросети от ByteDance + Weavy AI"></a>
+
+**Tags:** `review` `ru` `technical` `deep-dive`
+
+> 俄语深度评测 Seedance 2.0：解析字节跳动技术及 Weavy AI 集成。
+
+### Case 165: [A Micro Fiction with Seedance 2.0 - Part 1 | 100% AI Generated](https://www.youtube.com/watch?v=XB4V3JsCJuk)（by Drashya Kuruwa）
+
+<a href="https://www.youtube.com/watch?v=XB4V3JsCJuk"><img src="https://img.youtube.com/vi/XB4V3JsCJuk/hqdefault.jpg" width="480" alt="A Micro Fiction with Seedance 2.0 - Part 1 | 100% AI Generated"></a>
+
+**Tags:** `short-film` `fiction` `creative` `cinematic`
+
+> 100% AI 生成的微电影，展示 Seedance 2.0 的电影级叙事能力。
+
+### Case 166: [This Scene Cost $60 Using Seedance 2.0 AI](https://www.youtube.com/watch?v=w8eSPg3LmnM)（by BhaiyajiVlogs）
+
+<a href="https://www.youtube.com/watch?v=w8eSPg3LmnM"><img src="https://img.youtube.com/vi/w8eSPg3LmnM/hqdefault.jpg" width="480" alt="This Scene Cost $60 Using Seedance 2.0 AI"></a>
+
+**Tags:** `showcase` `commercial` `high-budget` `vfx`
+
+> 使用 Seedance 2.0 生成的高成本（60美元）场景，展示其商业化应用价值。
+
+### Case 167: [Seedance 2.0 Showcase - MEGA COMPILATION! BEST CINEMATIC SCENES!](https://www.youtube.com/watch?v=3o-XQAsHW3I)（by Ramenko）
+
+<a href="https://www.youtube.com/watch?v=3o-XQAsHW3I"><img src="https://img.youtube.com/vi/3o-XQAsHW3I/hqdefault.jpg" width="480" alt="Seedance 2.0 Showcase - MEGA COMPILATION! BEST CINEMATIC SCENES!"></a>
+
+**Tags:** `compilation` `showcase` `cinematic` `best-of`
+
+> Seedance 2.0 最佳电影级场景大合集，涵盖多种视觉风格。
+
+### Case 168: [SeeDance 2.0 EPIC Fight compilation!](https://www.youtube.com/watch?v=dNvt3oM8Pzo)（by That AI Space）
+
+<a href="https://www.youtube.com/watch?v=dNvt3oM8Pzo"><img src="https://img.youtube.com/vi/dNvt3oM8Pzo/hqdefault.jpg" width="480" alt="SeeDance 2.0 EPIC Fight compilation!"></a>
+
+**Tags:** `fight-scene` `action` `compilation` `physics`
+
+> Seedance 2.0 生成的史诗级格斗合集，侧重于动作表现和物理效果。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
