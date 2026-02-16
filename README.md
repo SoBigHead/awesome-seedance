@@ -1286,6 +1286,54 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > SoVibes Clips 用 Seedance 2.0 生成 Michael Jackson 对战 Kobe Bryant 的邵氏功夫风格 AI 电影
 
+### Case 158: [Bruce Lee vs Captain America 😳 Seedance 2 Ultimate Fight Compilation](https://www.youtube.com/watch?v=jue2SGNu6WE)（by SoVibes Clips）
+
+<a href="https://www.youtube.com/watch?v=jue2SGNu6WE"><img src="https://img.youtube.com/vi/jue2SGNu6WE/hqdefault.jpg" width="480" alt="Bruce Lee vs Captain America 😳 Seedance 2 Ultimate Fight Compilation"></a>
+
+**Tags:** `showcase` `fight-compilation` `bruce-lee` `captain-america` `martial-arts` `crossover`
+
+> SoVibes Clips 用 Seedance 2.0 生成的李小龙 vs 美国队长终极格斗合集：跨IP武术对决场景，68K播放
+
+### Case 159: [Marvel Ultimate Seedance 2 Battles 🔥 Iron Man, Thanos, Doctor Doom & More](https://www.youtube.com/watch?v=9NdGmQ8X8lM)（by SoVibes Clips）
+
+<a href="https://www.youtube.com/watch?v=9NdGmQ8X8lM"><img src="https://img.youtube.com/vi/9NdGmQ8X8lM/hqdefault.jpg" width="480" alt="Marvel Ultimate Seedance 2 Battles 🔥 Iron Man, Thanos, Doctor Doom & More"></a>
+
+**Tags:** `showcase` `fight-compilation` `marvel` `iron-man` `thanos` `crossover`
+
+> SoVibes Clips 用 Seedance 2.0 生成的漫威终极战斗合集：钢铁侠、灭霸、末日博士等经典角色对决，26K播放
+
+### Case 160: [Kling is OVER! ByteDance SeaDance 2.0 Quality is INSANE](https://www.youtube.com/watch?v=tzDDiFuTPkc)（by 특이점이 온다）
+
+<a href="https://www.youtube.com/watch?v=tzDDiFuTPkc"><img src="https://img.youtube.com/vi/tzDDiFuTPkc/hqdefault.jpg" width="480" alt="Kling is OVER! ByteDance SeaDance 2.0 Quality is INSANE"></a>
+
+**Tags:** `review` `ko` `comparison` `kling` `showcase` `quality`
+
+> 韩国科技频道분析Seedance 2.0：宣称Kling时代已结束，展示Seedance 2.0的惊人质量表现，77K播放
+
+### Case 161: [即将造成千万人失业的😱seedance2.0更新最新版本教程+评测！短剧行业真的要全面洗牌](https://www.youtube.com/watch?v=8xgdeDnNlhg)（by 上海刀哥）
+
+<a href="https://www.youtube.com/watch?v=8xgdeDnNlhg"><img src="https://img.youtube.com/vi/8xgdeDnNlhg/hqdefault.jpg" width="480" alt="即将造成千万人失业的😱seedance2.0更新最新版本教程+评测！短剧行业真的要全面洗牌"></a>
+
+**Tags:** `review` `tutorial` `cn` `update` `short-drama` `hands-on`
+
+> 上海刀哥第二期Seedance 2.0视频：最新版本更新教程+评测，分析短剧行业洗牌趋势，8.8K播放
+
+### Case 162: [Seedance 2.0 BROKE HOLLYWOOD IN 24 HOURS — Here's What Happened](https://www.youtube.com/watch?v=csjGCIhIKzs)（by Bendito Spoiler）
+
+<a href="https://www.youtube.com/watch?v=csjGCIhIKzs"><img src="https://img.youtube.com/vi/csjGCIhIKzs/hqdefault.jpg" width="480" alt="Seedance 2.0 BROKE HOLLYWOOD IN 24 HOURS — Here's What Happened"></a>
+
+**Tags:** `review` `hollywood` `copyright` `legal` `commentary` `controversy`
+
+> Bendito Spoiler 7章节深度分析：Seedance 2.0 如何在24小时内震动好莱坞——MPA、SAG-AFTRA回应、迪士尼法律行动、字节跳动回应
+
+### Case 163: [Enter the Multiverse: Bruce Lee vs Jet Li | Futuristic Martial Arts Showdown (AI-SEEDANCE 2.0)](https://www.youtube.com/watch?v=qvXzMRBBsqM)（by AI PRODUCTİON）
+
+<a href="https://www.youtube.com/watch?v=qvXzMRBBsqM"><img src="https://img.youtube.com/vi/qvXzMRBBsqM/hqdefault.jpg" width="480" alt="Enter the Multiverse: Bruce Lee vs Jet Li | Futuristic Martial Arts Showdown (AI-SEEDANCE 2.0)"></a>
+
+**Tags:** `showcase` `martial-arts` `bruce-lee` `jet-li` `futuristic` `creative`
+
+> 用Seedance 2.0生成的未来武术对决：李小龙vs李连杰在赛博竞技场中的跨时空对决，8.1K播放
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
