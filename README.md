@@ -1398,6 +1398,54 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Pania Thong 教程：通过 Discord 邀请码和中国App两种方式访问 Seedance 2.0，含实际操作演示
 
+### Case 172: [Disney Sends Cease & Desist To Seedance 2.0](https://www.youtube.com/watch?v=c-8upf1CHjE)（by 3C Films Clips）
+
+<a href="https://www.youtube.com/watch?v=c-8upf1CHjE"><img src="https://img.youtube.com/vi/c-8upf1CHjE/hqdefault.jpg" width="480" alt="Disney Sends Cease & Desist To Seedance 2.0"></a>
+
+**Tags:** `news` `commentary` `disney` `copyright` `cease-desist` `controversy`
+
+> 3C Films Clips 分析迪士尼向字节跳动发送 Seedance 2.0 停止侵权函：讨论AI生成视频的版权争议和好莱坞法律挑战
+
+### Case 173: [Disney Goes To WAR Over Seedance AI Videos](https://www.youtube.com/watch?v=1mvfXaampFg)（by Mr H Reviews）
+
+<a href="https://www.youtube.com/watch?v=1mvfXaampFg"><img src="https://img.youtube.com/vi/1mvfXaampFg/hqdefault.jpg" width="480" alt="Disney Goes To WAR Over Seedance AI Videos"></a>
+
+**Tags:** `review` `commentary` `disney` `copyright` `legal` `controversy`
+
+> Mr H Reviews 分析迪士尼对 Seedance 2.0 AI生成视频的法律战：探讨知识产权保护和地缘政治影响
+
+### Case 174: [Seedance 2.0 vs Kling 3.0 – The Results Shocked Me](https://www.youtube.com/watch?v=BQXxywxTidU)（by Aivoxy）
+
+<a href="https://www.youtube.com/watch?v=BQXxywxTidU"><img src="https://img.youtube.com/vi/BQXxywxTidU/hqdefault.jpg" width="480" alt="Seedance 2.0 vs Kling 3.0 – The Results Shocked Me"></a>
+
+**Tags:** `comparison` `kling` `benchmark` `quick-test`
+
+> Aivoxy 47秒快速对比 Seedance 2.0 vs Kling 3.0：用相同提示词展示两个模型的实际生成差异
+
+### Case 175: [Tom Cruise, The Avengers & Jackie Chan Reunited by AI – Seedance 2.0 Did the Impossible](https://www.youtube.com/watch?v=B8-767Y0yTY)（by Músicas IA × O bilisco）
+
+<a href="https://www.youtube.com/watch?v=B8-767Y0yTY"><img src="https://img.youtube.com/vi/B8-767Y0yTY/hqdefault.jpg" width="480" alt="Tom Cruise, The Avengers & Jackie Chan Reunited by AI – Seedance 2.0 Did the Impossible"></a>
+
+**Tags:** `showcase` `crossover` `viral` `celebrity` `creative` `pt`
+
+> 用 Seedance 2.0 AI 将Tom Cruise、复仇者联盟、成龙、悟空等在同一视频中重聚的第二弹，27K播放
+
+### Case 176: [Seedance 2.0 Anamorphic](https://www.youtube.com/watch?v=4ekAM8i9czs)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=4ekAM8i9czs"><img src="https://img.youtube.com/vi/4ekAM8i9czs/hqdefault.jpg" width="480" alt="Seedance 2.0 Anamorphic"></a>
+
+**Tags:** `anamorphic` `technical` `hands-on` `bokeh` `cinematic` `short-form`
+
+> JSFILMZ 第二轮变形宽银幕测试：17秒精炼展示 Seedance 2.0 变形散景和电影级光影效果
+
+### Case 177: [Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](https://www.youtube.com/watch?v=hsQA5TSHZ7I)（by AI Search）
+
+<a href="https://www.youtube.com/watch?v=hsQA5TSHZ7I"><img src="https://img.youtube.com/vi/hsQA5TSHZ7I/hqdefault.jpg" width="480" alt="Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS"></a>
+
+**Tags:** `news` `ai-news` `commentary` `comprehensive` `en`
+
+> AI Search 95K播放AI新闻节目重点报导 Seedance 2.0：含24个章节覆盖最新AI动态，Seedance 2.0作为头条重点分析
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
