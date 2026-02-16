@@ -1374,6 +1374,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成的史诗级格斗合集，侧重于动作表现和物理效果。
 
+### Case 169: [Higgsfield AI is getting CANCELED! ⛔️ — Seedance 2.0 the Best AI Model Yet?](https://www.youtube.com/watch?v=uefXo9tOHwA)（by Bad Decisions Studio）
+
+<a href="https://www.youtube.com/watch?v=uefXo9tOHwA"><img src="https://img.youtube.com/vi/uefXo9tOHwA/hqdefault.jpg" width="480" alt="Higgsfield AI is getting CANCELED! ⛔️ — Seedance 2.0 the Best AI Model Yet?"></a>
+
+**Tags:** `review` `commentary` `industry-impact` `higgsfield` `controversy`
+
+> Bad Decisions Studio 分析 Seedance 2.0 病毒式传播视频的真正意义，同时探讨 Higgsfield AI 与 Epic Games/Google 8亿美元秘密交易等AI行业动态
+
+### Case 170: [Seedance 2.0 Might Have the Best Motion in AI Video (Early Access)](https://www.youtube.com/watch?v=JIh1irlqZFo)（by AI Cash Tom）
+
+<a href="https://www.youtube.com/watch?v=JIh1irlqZFo"><img src="https://img.youtube.com/vi/JIh1irlqZFo/hqdefault.jpg" width="480" alt="Seedance 2.0 Might Have the Best Motion in AI Video (Early Access)"></a>
+
+**Tags:** `showcase` `motion` `early-access` `hands-on`
+
+> AI Cash Tom 展示 Seedance 2.0 早期访问：重点分析其运动生成能力，可能是目前AI视频中最佳的运动表现
+
+### Case 171: [How to Access SEEDANCE 2.0 (2 Methods)](https://www.youtube.com/watch?v=A2RJsHIktT0)（by Pania Thong）
+
+<a href="https://www.youtube.com/watch?v=A2RJsHIktT0"><img src="https://img.youtube.com/vi/A2RJsHIktT0/hqdefault.jpg" width="480" alt="How to Access SEEDANCE 2.0 (2 Methods)"></a>
+
+**Tags:** `tutorial` `access` `hands-on`
+
+> Pania Thong 教程：通过 Discord 邀请码和中国App两种方式访问 Seedance 2.0，含实际操作演示
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
