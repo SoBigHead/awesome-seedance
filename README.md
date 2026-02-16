@@ -1446,6 +1446,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > AI Search 95K播放AI新闻节目重点报导 Seedance 2.0：含24个章节覆盖最新AI动态，Seedance 2.0作为头条重点分析
 
+### Case 178: [ByteDance pledges fixes to Seedance 2.0 after Hollywood copyright claims](https://www.youtube.com/watch?v=hYO-iEGnPX0)（by Al Jazeera English）
+
+<a href="https://www.youtube.com/watch?v=hYO-iEGnPX0"><img src="https://img.youtube.com/vi/hYO-iEGnPX0/hqdefault.jpg" width="480" alt="ByteDance pledges fixes to Seedance 2.0 after Hollywood copyright claims"></a>
+
+**Tags:** `news` `mainstream-media` `verified` `copyright` `hollywood` `bytedance-response` `international`
+
+> 半岛电视台英语频道报导ByteDance承诺修复Seedance 2.0：好莱坞版权投诉后字节跳动回应，分析Tom Cruise vs Brad Pitt病毒视频引发的争议
+
+### Case 179: [AI fight scene video of Tom Cruise and Brad Pitt goes viral](https://www.youtube.com/watch?v=FhjJTZ9uIWY)（by KTLA 5）
+
+<a href="https://www.youtube.com/watch?v=FhjJTZ9uIWY"><img src="https://img.youtube.com/vi/FhjJTZ9uIWY/hqdefault.jpg" width="480" alt="AI fight scene video of Tom Cruise and Brad Pitt goes viral"></a>
+
+**Tags:** `news` `mainstream-media` `verified` `viral` `celebrity` `hollywood` `controversy`
+
+> 美国主流电视台KTLA 5（认证频道）150K播放报导：AI生成的Tom Cruise vs Brad Pitt打斗视频病毒式传播，引发好莱坞担忧
+
+### Case 180: [地表最強 AI 視頻生成器教學 | 震撼全網必學技巧](https://www.youtube.com/watch?v=lZ1iNxyfCy8)（by Joen99）
+
+<a href="https://www.youtube.com/watch?v=lZ1iNxyfCy8"><img src="https://img.youtube.com/vi/lZ1iNxyfCy8/hqdefault.jpg" width="480" alt="地表最強 AI 視頻生成器教學 | 震撼全網必學技巧"></a>
+
+**Tags:** `tutorial` `zh-tw` `hands-on` `comprehensive` `jimeng` `dreamina` `showcase`
+
+> 42K播放台灣創作者Joen99完整教學：Seedance 2.0 功能介紹與實操技巧，附即夢和國際版Dreamina使用入口
+
+### Case 181: [SeeDance 2.0 va RAVAGER des industries](https://www.youtube.com/watch?v=VXO2Lz-FLRM)（by Erwan • La MasterClass IA）
+
+<a href="https://www.youtube.com/watch?v=VXO2Lz-FLRM"><img src="https://img.youtube.com/vi/VXO2Lz-FLRM/hqdefault.jpg" width="480" alt="SeeDance 2.0 va RAVAGER des industries"></a>
+
+**Tags:** `review` `fr` `comparison` `kling` `veo` `physics` `ethics`
+
+> 法语AI频道深度分析Seedance 2.0：物理模拟和写实度超越Kling 3和Veo 3.1，探讨技术优势与伦理争议
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
