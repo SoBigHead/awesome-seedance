@@ -1478,6 +1478,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 法语AI频道深度分析Seedance 2.0：物理模拟和写实度超越Kling 3和Veo 3.1，探讨技术优势与伦理争议
 
+### Case 182: [Seedance 2.0 Videos That Look 100% Real](https://www.youtube.com/watch?v=AxcC93rXKes)（by Airt）
+
+<a href="https://www.youtube.com/watch?v=AxcC93rXKes"><img src="https://img.youtube.com/vi/AxcC93rXKes/hqdefault.jpg" width="480" alt="Seedance 2.0 Videos That Look 100% Real"></a>
+
+**Tags:** `compilation` `hyperrealistic` `showcase` `realism`
+
+> Airt 精选 Seedance 2.0 超写实AI视频合集：展示几乎无法与真实画面区分的逼真运动和场景
+
+### Case 183: [Seedance 2.0 DESTROYS Kling 3.0? (Cinematic Prompt Battle)](https://www.youtube.com/watch?v=Lk4_GTS_CtQ)（by CyberJungle）
+
+<a href="https://www.youtube.com/watch?v=Lk4_GTS_CtQ"><img src="https://img.youtube.com/vi/Lk4_GTS_CtQ/hqdefault.jpg" width="480" alt="Seedance 2.0 DESTROYS Kling 3.0? (Cinematic Prompt Battle)"></a>
+
+**Tags:** `comparison` `kling` `hands-on` `cinematic` `benchmark` `youart`
+
+> CyberJungle 通过 YouArt 平台实测 Seedance Pro 2.0 vs Kling 3.0：电影级提示词对决，逐项对比实际生成效果
+
+### Case 184: [Seedance 2.0 Is So Good Disney Had to Sue](https://www.youtube.com/watch?v=5lfyQMHGEHE)（by The ArchCast）
+
+<a href="https://www.youtube.com/watch?v=5lfyQMHGEHE"><img src="https://img.youtube.com/vi/5lfyQMHGEHE/hqdefault.jpg" width="480" alt="Seedance 2.0 Is So Good Disney Had to Sue"></a>
+
+**Tags:** `review` `commentary` `disney` `copyright` `legal` `controversy` `hollywood`
+
+> The ArchCast 分析 Seedance 2.0 引发的版权风暴：迪士尼、派拉蒙、SAG-AFTRA 联合对字节跳动采取法律行动，探讨AI视频对好莱坞的冲击
+
+### Case 185: [Ultimate AI Video Generation - Seedance 2.0 PREVIEW](https://www.youtube.com/watch?v=61ThJGqwHsI)（by xCreate）
+
+<a href="https://www.youtube.com/watch?v=61ThJGqwHsI"><img src="https://img.youtube.com/vi/61ThJGqwHsI/hqdefault.jpg" width="480" alt="Ultimate AI Video Generation - Seedance 2.0 PREVIEW"></a>
+
+**Tags:** `showcase` `feature-demo` `higgsfield` `hands-on`
+
+> xCreate 展示 Seedance 2.0 终极预览：通过 Higgsfield 平台演示各项功能和实际生成效果
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
