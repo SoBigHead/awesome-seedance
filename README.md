@@ -1558,6 +1558,54 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Digital Assets 用复杂电影级提示词测试 Seedance 2.0 vs Kling 3 vs Sora 2 vs VEO 3.1，涵盖赛博朋克决斗、超跑广告等场景
 
+### Case 192: [Seedance 2.0 竟有導演大腦，目前最強 AI 影片生成！電影級運鏡+單素材、多素材，超穩角色一致性實測](https://www.youtube.com/watch?v=FQTbe7zV10Y)（by T客邦影新聞）
+
+<a href="https://www.youtube.com/watch?v=FQTbe7zV10Y"><img src="https://img.youtube.com/vi/FQTbe7zV10Y/hqdefault.jpg" width="480" alt="Seedance 2.0 竟有導演大腦，目前最強 AI 影片生成！電影級運鏡+單素材、多素材，超穩角色一致性實測"></a>
+
+**Tags:** `review` `hands-on` `zh-tw` `director-mode` `character-consistency` `camera-work`
+
+> 台湾科技媒体T客邦实测Seedance 2.0：展示导演模式下电影级运镜、单素材/多素材输入、角色一致性保持效果
+
+### Case 193: [Bloodsport III (Seedance 2.0) – Van Damme vs Jet Li | Trailer | AI is Freaking Crazy](https://www.youtube.com/watch?v=6u39yxbfAjc)（by Games McCay x AI Slop）
+
+<a href="https://www.youtube.com/watch?v=6u39yxbfAjc"><img src="https://img.youtube.com/vi/6u39yxbfAjc/hqdefault.jpg" width="480" alt="Bloodsport III (Seedance 2.0) – Van Damme vs Jet Li | Trailer | AI is Freaking Crazy"></a>
+
+**Tags:** `trailer` `fight-scenes` `cinematic` `fan-film` `showcase`
+
+> AI全生成的《拳霸III》续作概念预告——范达美 vs 李连杰风格搏击场景，完整叙事弧线
+
+### Case 194: [Batman vs Spider-Man | Made with Seedance 2.0](https://www.youtube.com/watch?v=e4KlRM52fa8)（by Dreamigenic）
+
+<a href="https://www.youtube.com/watch?v=e4KlRM52fa8"><img src="https://img.youtube.com/vi/e4KlRM52fa8/hqdefault.jpg" width="480" alt="Batman vs Spider-Man | Made with Seedance 2.0"></a>
+
+**Tags:** `fight-scenes` `crossover` `fan-film` `showcase` `superhero`
+
+> Seedance 2.0 生成的蝙蝠侠 vs 蜘蛛侠搏击视频，多个5秒片段拼接，展示AI格斗场景生成能力
+
+### Case 195: [Goku vs Merus | Dragon Ball The Galactic Patrol Live Action AI Fan-made (Seedance 2.0)](https://www.youtube.com/watch?v=viqxDJNlHXY)（by 1.234.567 Dragon Ball）
+
+<a href="https://www.youtube.com/watch?v=viqxDJNlHXY"><img src="https://img.youtube.com/vi/viqxDJNlHXY/hqdefault.jpg" width="480" alt="Goku vs Merus | Dragon Ball The Galactic Patrol Live Action AI Fan-made (Seedance 2.0)"></a>
+
+**Tags:** `fan-film` `dragon-ball` `fight-scenes` `live-action` `showcase`
+
+> 用 Seedance 2.0 制作的龙珠超银河巡逻篇真人版粉丝短片——悟空 vs 梅鲁斯格斗场景
+
+### Case 196: [Trailer : Dragonball Super | 2026 | Live Action | ( Ai Seedance 2.0 ) ( Vegito Vs Black Goku )](https://www.youtube.com/watch?v=Bcry7aBKVP4)（by Trailer HD movie）
+
+<a href="https://www.youtube.com/watch?v=Bcry7aBKVP4"><img src="https://img.youtube.com/vi/Bcry7aBKVP4/hqdefault.jpg" width="480" alt="Trailer : Dragonball Super | 2026 | Live Action | ( Ai Seedance 2.0 ) ( Vegito Vs Black Goku )"></a>
+
+**Tags:** `trailer` `dragon-ball` `fight-scenes` `live-action` `fan-film`
+
+> Seedance 2.0 制作的龙珠超真人版预告——贝吉特 vs 黑悟空格斗场景
+
+### Case 197: [[Comprehensive Comparison] Comparing the Performance and Cost of the Latest Video Generation AIs](https://www.youtube.com/watch?v=Wwta2iGnzAE)（by とうや【AIイラストLab.】）
+
+<a href="https://www.youtube.com/watch?v=Wwta2iGnzAE"><img src="https://img.youtube.com/vi/Wwta2iGnzAE/hqdefault.jpg" width="480" alt="[Comprehensive Comparison] Comparing the Performance and Cost of the Latest Video Generation AIs"></a>
+
+**Tags:** `comparison` `benchmark` `ja` `cost-analysis` `2026-update`
+
+> 日本个人AI创作者とうや的最新综合对比：2026年最新视频生成AI的效果和成本横评
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
