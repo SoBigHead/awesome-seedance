@@ -1606,6 +1606,38 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 日本个人AI创作者とうや的最新综合对比：2026年最新视频生成AI的效果和成本横评
 
+### Case 198: [Uproar Over AI-Generated Brad Pitt And Tom Cruise Fight Scene](https://www.youtube.com/watch?v=pDA1LMceoRY)（by Inside Edition）
+
+<a href="https://www.youtube.com/watch?v=pDA1LMceoRY"><img src="https://img.youtube.com/vi/pDA1LMceoRY/hqdefault.jpg" width="480" alt="Uproar Over AI-Generated Brad Pitt And Tom Cruise Fight Scene"></a>
+
+**Tags:** `news` `mainstream-media` `verified` `viral` `celebrity` `controversy` `en`
+
+> 美国主流媒体Inside Edition（认证频道）报导Seedance 2.0引发的AI名人打斗视频争议：Brad Pitt和Tom Cruise的AI生成打斗场景引发巨大关注
+
+### Case 199: [Seedance 2.0 Spells DOOM For Hollywood | They're DESPERATE to Stop It - Here's Why They CAN'T](https://www.youtube.com/watch?v=RVWI4hw-W50)（by Overlord DVD）
+
+<a href="https://www.youtube.com/watch?v=RVWI4hw-W50"><img src="https://img.youtube.com/vi/RVWI4hw-W50/hqdefault.jpg" width="480" alt="Seedance 2.0 Spells DOOM For Hollywood | They're DESPERATE to Stop It - Here's Why They CAN'T"></a>
+
+**Tags:** `review` `commentary` `verified` `hollywood` `legal` `controversy` `en`
+
+> 认证频道Overlord DVD深度分析Seedance 2.0对好莱坞的毁灭性冲击：MPAA、工会的法律挑战为何无法阻止AI视频革命
+
+### Case 200: [China BENDS THE KNEE to Hollywood?! ByteDance HALTS IP Infringement on Seedance AI!](https://www.youtube.com/watch?v=NOkdcct5g7Q)（by Clownfish TV）
+
+<a href="https://www.youtube.com/watch?v=NOkdcct5g7Q"><img src="https://img.youtube.com/vi/NOkdcct5g7Q/hqdefault.jpg" width="480" alt="China BENDS THE KNEE to Hollywood?! ByteDance HALTS IP Infringement on Seedance AI!"></a>
+
+**Tags:** `review` `commentary` `verified` `hollywood` `copyright` `guardrails` `bytedance-response` `en`
+
+> 认证频道Clownfish TV分析字节跳动对Seedance 2.0添加版权保护措施：Tom Cruise vs Brad Pitt病毒视频后好莱坞施压的结果
+
+### Case 201: [Trailer : Dragonball Super | 2026 | Live Action | ( Ai Seedance 2.0 ) ( Vegito Vs Black Goku )](https://www.youtube.com/watch?v=Bcry7aBKVP4)（by Trailer HD movie）
+
+<a href="https://www.youtube.com/watch?v=Bcry7aBKVP4"><img src="https://img.youtube.com/vi/Bcry7aBKVP4/hqdefault.jpg" width="480" alt="Trailer : Dragonball Super | 2026 | Live Action | ( Ai Seedance 2.0 ) ( Vegito Vs Black Goku )"></a>
+
+**Tags:** `fan-made` `dragon-ball` `live-action` `trailer` `4K` `showcase` `anime`
+
+> 用Seedance 2.0制作的龙珠超2026年真人版预告片：贝吉特 vs 黑悟空，4K画质，展示AI对经典动漫的真人化能力
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
