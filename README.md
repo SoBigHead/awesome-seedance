@@ -1550,6 +1550,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 知名科技YouTuber Joma Tech 副频道报导 Seedance 2.0：展示打斗场景、唇形同步等能力，分析好莱坞和工会反应
 
+### Case 191: [Seedance 2.0 Just Destroyed Kling 3, Sora 2 & VEO 3.1](https://www.youtube.com/watch?v=fJcAezYh-jg)（by Digital Assets）
+
+<a href="https://www.youtube.com/watch?v=fJcAezYh-jg"><img src="https://img.youtube.com/vi/fJcAezYh-jg/hqdefault.jpg" width="480" alt="Seedance 2.0 Just Destroyed Kling 3, Sora 2 & VEO 3.1"></a>
+
+**Tags:** `comparison` `benchmark` `kling` `sora` `veo` `cinematic` `hands-on`
+
+> Digital Assets 用复杂电影级提示词测试 Seedance 2.0 vs Kling 3 vs Sora 2 vs VEO 3.1，涵盖赛博朋克决斗、超跑广告等场景
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
