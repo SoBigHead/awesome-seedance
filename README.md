@@ -1534,6 +1534,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用 Seedance 2.0 生成的超级英雄打斗场景合集：超人、绿巨人、蝙蝠侠、死侍、美国队长等角色的 AI 战斗动画，8.4K播放
 
+### Case 189: [How Seedance 2.0 is SO GOOD (And Why Hollywood is Shook)](https://www.youtube.com/watch?v=yLQClFqzHOU)（by Theoretically Media）
+
+<a href="https://www.youtube.com/watch?v=yLQClFqzHOU"><img src="https://img.youtube.com/vi/yLQClFqzHOU/hqdefault.jpg" width="480" alt="How Seedance 2.0 is SO GOOD (And Why Hollywood is Shook)"></a>
+
+**Tags:** `review` `technical` `architecture` `deep-dive` `rag` `llm` `seedance-3`
+
+> Theoretically Media 第三期 Seedance 2.0 视频：深度拆解字节跳动 Seed 2.0 LLM 架构、"思考型视频模型"概念、RAG 技术、成本优势、好莱坞反应及 Seedance 3.0 传闻
+
+### Case 190: [Seedance 2.0: Chinese AI model that can make any video](https://www.youtube.com/watch?v=hfPj__tfUQc)（by Joma 2nd Channel）
+
+<a href="https://www.youtube.com/watch?v=hfPj__tfUQc"><img src="https://img.youtube.com/vi/hfPj__tfUQc/hqdefault.jpg" width="480" alt="Seedance 2.0: Chinese AI model that can make any video"></a>
+
+**Tags:** `review` `commentary` `tech-youtuber` `hollywood` `lip-sync` `showcase`
+
+> 知名科技YouTuber Joma Tech 副频道报导 Seedance 2.0：展示打斗场景、唇形同步等能力，分析好莱坞和工会反应
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
