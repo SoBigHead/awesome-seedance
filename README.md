@@ -1694,6 +1694,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 使用 ChatCut.io 的 Seedance 2.0 工作流创建动作打斗场景的首次测试结果。
 
+### Case 209: [Seedance 2.0 到底强在哪？](https://www.youtube.com/watch?v=JTQ6NH2twMg)（by 林亦LYi）
+
+<a href="https://www.youtube.com/watch?v=JTQ6NH2twMg"><img src="https://img.youtube.com/vi/JTQ6NH2twMg/hqdefault.jpg" width="480" alt="Seedance 2.0 到底强在哪？"></a>
+
+**Tags:** `review` `deep-dive` `cn` `technical` `analysis` `deepseek-moment`
+
+> 知名中文科技YouTuber林亦深度分析Seedance 2.0：为何被称为国产AI视频的"DeepSeek时刻"，拆解技术优势、多模态能力和行业影响
+
+### Case 210: [Seedance 2.0 Anamorphic Short Film](https://www.youtube.com/watch?v=K1esLOA8lb4)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=K1esLOA8lb4"><img src="https://img.youtube.com/vi/K1esLOA8lb4/hqdefault.jpg" width="480" alt="Seedance 2.0 Anamorphic Short Film"></a>
+
+**Tags:** `short-film` `anamorphic` `creative` `cinematic` `narrative` `showcase`
+
+> JSFILMZ 用 Seedance 2.0 制作的变形宽银幕短片：在未来世界中展现紧张动作场景和角色对话，附幕后制作花絮
+
+### Case 211: [Seedance 2.0 Tutorial: Get it Free & Fix "Jelly" Videos](https://www.youtube.com/watch?v=P5cuA7B_pdo)（by ComfyUI Workflow Blog）
+
+<a href="https://www.youtube.com/watch?v=P5cuA7B_pdo"><img src="https://img.youtube.com/vi/P5cuA7B_pdo/hqdefault.jpg" width="480" alt="Seedance 2.0 Tutorial: Get it Free & Fix "Jelly" Videos"></a>
+
+**Tags:** `tutorial` `troubleshooting` `hands-on` `free-access` `workflow` `tips`
+
+> ComfyUI 工作流博客实用教程：Seedance 2.0 免费使用方法（含"小云雀"技巧）、果冻视频修复技巧、99%卡住问题解决方案
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
