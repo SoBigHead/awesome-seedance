@@ -1638,6 +1638,62 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用Seedance 2.0制作的龙珠超2026年真人版预告片：贝吉特 vs 黑悟空，4K画质，展示AI对经典动漫的真人化能力
 
+### Case 202: [Seedance 2.0 VFX Test](https://www.youtube.com/watch?v=v6v76h8VJrc)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=v6v76h8VJrc"><img src="assets/thumbs/seedance2-872f0761c1ea.svg" width="480" alt="Seedance 2.0 VFX Test"></a>
+
+**Tags:** `video` `vfx` `test` `metahuman` `unreal-engine`
+
+> 使用 Seedance 2.0 结合 UE MetaHuman 工作流进行 VFX 测试，展示电影级视觉特效效果。
+
+### Case 203: [字節跳動「Seedance 2.0」秒生AI好萊塢大片 迪士尼怒告侵權](https://www.youtube.com/watch?v=jS8mcQwsbSc)（by TVBS NEWS）
+
+<a href="https://www.youtube.com/watch?v=jS8mcQwsbSc"><img src="assets/thumbs/seedance2-88caa69ffe21.svg" width="480" alt="字節跳動「Seedance 2.0」秒生AI好萊塢大片 迪士尼怒告侵權"></a>
+
+**Tags:** `news` `copyright` `disney` `controversy` `taiwan`
+
+> TVBS 新闻报道：字节跳动 Seedance 2.0 秒生好莱坞级大片，迪士尼怒告侵权。
+
+### Case 204: [FREE Video Generation in Seedance 2.0 WITHOUT Paying a Dime](https://www.youtube.com/watch?v=8cV4v6Kp7to)（by Atrail）
+
+<a href="https://www.youtube.com/watch?v=8cV4v6Kp7to"><img src="assets/thumbs/seedance2-9b87af9039ac.svg" width="480" alt="FREE Video Generation in Seedance 2.0 WITHOUT Paying a Dime"></a>
+
+**Tags:** `tutorial` `free-access` `guide` `beginner`
+
+> 免费使用 Seedance 2.0 生成视频的教程，包含最佳设置和避免限制的技巧。
+
+### Case 205: [Seedance 2.0 Demo Videos | ByteDance Seedance 2.0 AI Video Tutorial](https://www.youtube.com/watch?v=3_gch4t89V8)（by AI Agents Studio）
+
+<a href="https://www.youtube.com/watch?v=3_gch4t89V8"><img src="assets/thumbs/seedance2-d930e4637aa1.svg" width="480" alt="Seedance 2.0 Demo Videos | ByteDance Seedance 2.0 AI Video Tutorial"></a>
+
+**Tags:** `tutorial` `demo` `walkthrough` `multimodal`
+
+> Seedance 2.0 官方 demo 深度解析与教程，涵盖图像、视频、音频驱动生成，支持 1080p 输出。
+
+### Case 206: [老美AI的天塌了！Seedance 2.0这次不是革命，是来收尸的！](https://www.youtube.com/watch?v=4gzbZDgsPPE)（by 说三道四PRO）
+
+<a href="https://www.youtube.com/watch?v=4gzbZDgsPPE"><img src="assets/thumbs/seedance2-3729b7464798.svg" width="480" alt="老美AI的天塌了！Seedance 2.0这次不是革命，是来收尸的！"></a>
+
+**Tags:** `review` `commentary` `china-vs-us` `analysis`
+
+> 中文深度评论：Seedance 2.0 对美国 AI 视频领域的颠覆性冲击分析。
+
+### Case 207: [Free Seedance 2.0 Is Coming And It Looks Insane](https://www.youtube.com/watch?v=EqI4LTau-io)（by Digital Dollars）
+
+<a href="https://www.youtube.com/watch?v=EqI4LTau-io"><img src="assets/thumbs/seedance2-cac145f5cba5.svg" width="480" alt="Free Seedance 2.0 Is Coming And It Looks Insane"></a>
+
+**Tags:** `news` `higgsfield` `capcut` `free-access` `preview`
+
+> Seedance 2.0 即将通过 Higgsfield 和 CapCut 平台免费开放的消息报道及 demo 展示。
+
+### Case 208: [Seedance 2.0 is Amazing! First Results Are Insane (Workflow)](https://www.youtube.com/watch?v=lRZcHlUYFeg)（by Pania Thong）
+
+<a href="https://www.youtube.com/watch?v=lRZcHlUYFeg"><img src="assets/thumbs/seedance2-cd233f8a407d.svg" width="480" alt="Seedance 2.0 is Amazing! First Results Are Insane (Workflow)"></a>
+
+**Tags:** `case` `workflow` `chatcut` `action` `fight-scene`
+
+> 使用 ChatCut.io 的 Seedance 2.0 工作流创建动作打斗场景的首次测试结果。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
