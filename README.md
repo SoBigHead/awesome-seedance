@@ -1774,6 +1774,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Ai Lockup 实操教学：如何获取并使用 Seedance 2.0（Shin AI / CapCut 入口），含打斗片段、多机位、参考图/视频、角色替换等真实生成结果展示。
 
+### Case 219: [Seedance 2.0 INSANE Fight Scenes! The New Best AI Video Generator!](https://www.youtube.com/watch?v=IN8eW1y9_go)（by Crypto Spaces）
+
+<a href="https://www.youtube.com/watch?v=IN8eW1y9_go"><img src="https://img.youtube.com/vi/IN8eW1y9_go/hqdefault.jpg" width="480" alt="Seedance 2.0 INSANE Fight Scenes! The New Best AI Video Generator!"></a>
+
+**Tags:** `compilation` `fight-scenes` `action` `showcase` `viral`
+
+> Seedance 2.0 AI格斗场景合集：展示逼真动作、电影级运动和流畅格斗编排的最佳病毒式传播示例
+
+### Case 220: [Seedance 2.0 Is Finally Here! | I Made a Full AI Movie Trailer (Full Tutorial)](https://www.youtube.com/watch?v=6F52-y_3wrQ)（by WealthWise）
+
+<a href="https://www.youtube.com/watch?v=6F52-y_3wrQ"><img src="https://img.youtube.com/vi/6F52-y_3wrQ/hqdefault.jpg" width="480" alt="Seedance 2.0 Is Finally Here! | I Made a Full AI Movie Trailer (Full Tutorial)"></a>
+
+**Tags:** `tutorial` `hands-on` `movie-trailer` `workflow` `higgsfield` `showcase`
+
+> WealthWise 实操教程：用 Seedance 2.0 + Nano Banana Pro + Higgsfield Cinema Studio 制作完整电影级AI预告片的全流程
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
