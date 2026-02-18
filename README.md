@@ -1718,6 +1718,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > ComfyUI 工作流博客实用教程：Seedance 2.0 免费使用方法（含"小云雀"技巧）、果冻视频修复技巧、99%卡住问题解决方案
 
+### Case 212: [INTENSE Seedance 2.0 Trailer](https://www.youtube.com/watch?v=FmhiZ5OQBW0)（by The Reel Robot）
+
+<a href="https://www.youtube.com/watch?v=FmhiZ5OQBW0"><img src="https://img.youtube.com/vi/FmhiZ5OQBW0/hqdefault.jpg" width="480" alt="INTENSE Seedance 2.0 Trailer"></a>
+
+**Tags:** `trailer` `horror` `cinematic` `multi-model` `kling`
+
+> AI 恐怖片预告《FERAL》，使用 Seedance 2.0 与 Kling 3.0 制作。
+
+### Case 213: [“This AI Tool Is Actually Scary Good…” Seedance 2.0](https://www.youtube.com/watch?v=KcVzT_Fzw6U)（by Q Reviews）
+
+<a href="https://www.youtube.com/watch?v=KcVzT_Fzw6U"><img src="https://img.youtube.com/vi/KcVzT_Fzw6U/hqdefault.jpg" width="480" alt="“This AI Tool Is Actually Scary Good…” Seedance 2.0"></a>
+
+**Tags:** `review` `hands-on` `image-to-video` `motion-control` `filmmaking`
+
+> 电影制作人/动效从业者的 Seedance 2.0 实测：图生视频效果、运动控制、优缺点与可用性。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
