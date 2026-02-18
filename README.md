@@ -1878,6 +1878,94 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用 Seedance 2.0 单条 prompt 生成的电影级画面。
 
+### Case 232: [AI is Replacing Every VFX Artist | Seedance 2.0 Breakdown](https://www.youtube.com/watch?v=D9e4IOjOmho)（by AI Breakroom）
+
+<a href="https://www.youtube.com/watch?v=D9e4IOjOmho"><img src="https://i.ytimg.com/vi/D9e4IOjOmho/hqdefault.jpg" width="480" alt="AI is Replacing Every VFX Artist | Seedance 2.0 Breakdown"></a>
+
+**Tags:** `video` `analysis` `vfx` `breakdown`
+
+> AI Breakroom 深度分析 Seedance 2.0 对 VFX 行业的冲击，展示多模态音视频同步能力
+
+### Case 233: [Los efectos visuales de Hollywood nunca volverán a ser los mismos — Seedance 2.0](https://x.com/ecommartinez/status/2024224512053825901)（by [@ecommartinez](https://x.com/ecommartinez)）
+
+<a href="https://x.com/ecommartinez/status/2024224512053825901"><img src="https://pbs.twimg.com/amplify_video_thumb/2024224461919309824/img/Qs_l7_IVDXZXDNnO.jpg" width="480" alt="Los efectos visuales de Hollywood nunca volverán a ser los mismos — Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `vfx` `hollywood`
+
+> 145K 粉丝博主展示 Seedance 2.0 生成的好莱坞级视觉效果
+
+### Case 234: [Seedance 2.0 has the fastest generation and its HD](https://x.com/GumVue/status/2024217876576547080)（by [@GumVue](https://x.com/GumVue)）
+
+<a href="https://x.com/GumVue/status/2024217876576547080"><img src="https://pbs.twimg.com/amplify_video_thumb/2024217413831581696/img/N_609phbPGxOpBhD.jpg" width="480" alt="Seedance 2.0 has the fastest generation and its HD"></a>
+
+**Tags:** `video` `showcase` `hd` `speed`
+
+> 37K 粉丝创作者通过 YouArt 平台展示 Seedance 2.0 的高清快速生成能力
+
+### Case 235: [The best Avengers content in 2026 is being made by random guys with Seedance 2.0](https://x.com/savaerx/status/2024218401313370119)（by [@savaerx](https://x.com/savaerx)）
+
+<a href="https://x.com/savaerx/status/2024218401313370119"><img src="https://pbs.twimg.com/amplify_video_thumb/2024217532878532608/img/aSunEngZtc8bytif.jpg" width="480" alt="The best Avengers content in 2026 is being made by random guys with Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `marvel` `avengers` `cinematic`
+
+> 用 Seedance 2.0 生成的复仇者联盟内容，展示 AI 对迪士尼 IP 的冲击
+
+### Case 236: [Seedance 2.0 converted a movie clip into animation within minutes](https://x.com/0x_nicks/status/2024229900916576736)（by [@0x_nicks](https://x.com/0x_nicks)）
+
+<a href="https://x.com/0x_nicks/status/2024229900916576736"><img src="https://pbs.twimg.com/amplify_video_thumb/2024229302401978368/img/dGi9mmGs4OBLvSHw.jpg" width="480" alt="Seedance 2.0 converted a movie clip into animation within minutes"></a>
+
+**Tags:** `video` `showcase` `style-transfer` `animation`
+
+> Seedance 2.0 将电影片段在几分钟内转换为动画风格
+
+### Case 237: [Seedance 2.0 15秒・複数キャラ・カット切り替えテスト](https://x.com/LidaMidorin/status/2024229085908783391)（by [@LidaMidorin](https://x.com/LidaMidorin)）
+
+<a href="https://x.com/LidaMidorin/status/2024229085908783391"><img src="https://pbs.twimg.com/amplify_video_thumb/2024228867050016768/img/KwqtTUeb_FEjt67S.jpg" width="480" alt="Seedance 2.0 15秒・複数キャラ・カット切り替えテスト"></a>
+
+**Tags:** `video` `showcase` `multi-character` `anime` `technical-test`
+
+> 日本 VTuber/AI 创作者测试 Seedance 2.0 的 15 秒多角色镜头切换能力
+
+### Case 238: [YOUTH NEVER DIES — IT EXPLODES. Naruto x Seedance 2.0](https://x.com/YouArtStudio/status/2024227658759098653)（by [@YouArtStudio](https://x.com/YouArtStudio)）
+
+<a href="https://x.com/YouArtStudio/status/2024227658759098653"><img src="https://pbs.twimg.com/amplify_video_thumb/2024227078053437440/img/VQet8EbTbh4MMa9r.jpg" width="480" alt="YOUTH NEVER DIES — IT EXPLODES. Naruto x Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `naruto` `anime` `character`
+
+> YouArt 平台用 Seedance 2.0 生成火影忍者动画场景
+
+### Case 239: [Scene from our upcoming pirate movie — Seedance Pro 2.0](https://x.com/Kacsa86/status/2024231060666564672)（by [@Kacsa86](https://x.com/Kacsa86)）
+
+<a href="https://x.com/Kacsa86/status/2024231060666564672"><img src="https://pbs.twimg.com/amplify_video_thumb/2024230654708236288/img/kpjt2UBMnPZ_QPwL.jpg" width="480" alt="Scene from our upcoming pirate movie — Seedance Pro 2.0"></a>
+
+**Tags:** `video` `showcase` `pirate` `cinematic` `short-film`
+
+> 用 Seedance Pro 2.0 生成海盗电影场景
+
+### Case 240: [Seedance 2.0 generates the perfect UFC White House main event](https://x.com/kolosmma/status/2024224481548681720)（by [@kolosmma](https://x.com/kolosmma)）
+
+<a href="https://x.com/kolosmma/status/2024224481548681720"><img src="https://pbs.twimg.com/amplify_video_thumb/2024224388779036672/img/klEMOWBRgOoR-Iat.jpg" width="480" alt="Seedance 2.0 generates the perfect UFC White House main event"></a>
+
+**Tags:** `video` `showcase` `sports` `ufc` `creative`
+
+> 用 Seedance 2.0 生成 UFC 白宫主赛事场景
+
+### Case 241: [Who needs Hollywood? — Seedance cinematic showcase](https://x.com/SimonSeidel_inv/status/2024218418400858348)（by [@SimonSeidel_inv](https://x.com/SimonSeidel_inv)）
+
+<a href="https://x.com/SimonSeidel_inv/status/2024218418400858348"><img src="https://pbs.twimg.com/amplify_video_thumb/2024218317783789568/img/LwVKMcgxdym_nCZu.jpg" width="480" alt="Who needs Hollywood? — Seedance cinematic showcase"></a>
+
+**Tags:** `video` `showcase` `cinematic`
+
+> 投资者视角展示 Seedance 电影级生成效果
+
+### Case 242: [Ninja smoke descent vs armored samurai iaijutsu — Seedance 2.0 cinematic](https://x.com/NaoyaCreates/status/2024227656900722969)（by [@NaoyaCreates](https://x.com/NaoyaCreates)）
+
+<a href="https://x.com/NaoyaCreates/status/2024227656900722969"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2024227616421552129/pu/img/ujzw3SIhaDaOod5u.jpg" width="480" alt="Ninja smoke descent vs armored samurai iaijutsu — Seedance 2.0 cinematic"></a>
+
+**Tags:** `video` `showcase` `samurai` `ninja` `cinematic` `anime`
+
+> 忍者 vs 武士居合斩，月下樱花飘落的电影级 AI 场景
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
