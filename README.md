@@ -1750,6 +1750,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 1.67M 订阅创作者讲解并演示 Seedance 2.0，展示多个示例片段并讨论其能力与效果。
 
+### Case 216: [Seedance 2.0 Scenes That Look Like Movies](https://www.youtube.com/watch?v=1clYnx7a8TI)（by Airt）
+
+<a href="https://www.youtube.com/watch?v=1clYnx7a8TI"><img src="https://img.youtube.com/vi/1clYnx7a8TI/hqdefault.jpg" width="480" alt="Seedance 2.0 Scenes That Look Like Movies"></a>
+
+**Tags:** `showcase` `cinematic` `compilation`
+
+> Cinematic compilation of Seedance 2.0 generated clips that look like real movie scenes.
+
+### Case 217: [Seedance 2.0 Demo Video's | ByteDance Seedance 2.0 AI Video | Seedance 2.0 Tutorial](https://www.youtube.com/watch?v=KRypo44R7tE)（by AI Agents Studio and ManuAGI - AutoGPT Tutorials）
+
+<a href="https://www.youtube.com/watch?v=KRypo44R7tE"><img src="https://img.youtube.com/vi/KRypo44R7tE/hqdefault.jpg" width="480" alt="Seedance 2.0 Demo Video's | ByteDance Seedance 2.0 AI Video | Seedance 2.0 Tutorial"></a>
+
+**Tags:** `tutorial` `demo` `workflow`
+
+> Long-form tutorial and demo reel for Seedance 2.0, including multiple example outputs and walkthrough commentary.
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
