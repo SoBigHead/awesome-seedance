@@ -1734,6 +1734,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 电影制作人/动效从业者的 Seedance 2.0 实测：图生视频效果、运动控制、优缺点与可用性。
 
+### Case 214: [Seedance 2.0 is by far the best AI video model I've tested so far.](https://www.youtube.com/watch?v=v00GWJ1ec0c)（by adrian rohnfelder）
+
+<a href="https://www.youtube.com/watch?v=v00GWJ1ec0c"><img src="https://img.youtube.com/vi/v00GWJ1ec0c/hqdefault.jpg" width="480" alt="Seedance 2.0 is by far the best AI video model I've tested so far."></a>
+
+**Tags:** `hands-on` `beta` `creator` `showcase` `short`
+
+> 创作者受 CapCut 邀请参与 Seedance 2.0 beta 测试，短片展示真实生成视频片段并给出质量评价。
+
+### Case 215: [New AI Video Generator is MINDBLOWING](https://www.youtube.com/watch?v=dwUmYwko-Vs)（by Busy Works Beats）
+
+<a href="https://www.youtube.com/watch?v=dwUmYwko-Vs"><img src="https://img.youtube.com/vi/dwUmYwko-Vs/hqdefault.jpg" width="480" alt="New AI Video Generator is MINDBLOWING"></a>
+
+**Tags:** `review` `showcase` `examples` `mainstream`
+
+> 1.67M 订阅创作者讲解并演示 Seedance 2.0，展示多个示例片段并讨论其能力与效果。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
