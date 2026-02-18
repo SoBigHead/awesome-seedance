@@ -1766,6 +1766,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Long-form tutorial and demo reel for Seedance 2.0, including multiple example outputs and walkthrough commentary.
 
+### Case 218: [Seedance 2.0 How To Use and Become a Pro AI Film Maker With This AI Video Generator](https://www.youtube.com/watch?v=R1zl92NhCfE)（by Ai Lockup）
+
+<a href="https://www.youtube.com/watch?v=R1zl92NhCfE"><img src="https://img.youtube.com/vi/R1zl92NhCfE/hqdefault.jpg" width="480" alt="Seedance 2.0 How To Use and Become a Pro AI Film Maker With This AI Video Generator"></a>
+
+**Tags:** `tutorial` `hands-on` `workflow` `showcase` `fight-scenes`
+
+> Ai Lockup 实操教学：如何获取并使用 Seedance 2.0（Shin AI / CapCut 入口），含打斗片段、多机位、参考图/视频、角色替换等真实生成结果展示。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
