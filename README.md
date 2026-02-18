@@ -1790,6 +1790,94 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > WealthWise 实操教程：用 Seedance 2.0 + Nano Banana Pro + Higgsfield Cinema Studio 制作完整电影级AI预告片的全流程
 
+### Case 221: [Seedance 2.0 Video to Video Compositing](https://www.youtube.com/watch?v=jPtpa7PEyEU)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=jPtpa7PEyEU"><img src="https://i.ytimg.com/vi/jPtpa7PEyEU/hqdefault.jpg" width="480" alt="Seedance 2.0 Video to Video Compositing"></a>
+
+**Tags:** `video` `showcase` `v2v` `compositing`
+
+> Seedance 2.0 视频到视频合成演示，展示 V2V compositing 能力。
+
+### Case 222: [Action Scenes - Seedance 2.0](https://www.youtube.com/watch?v=xacqCqY62cc)（by OmniOmegaOB）
+
+<a href="https://www.youtube.com/watch?v=xacqCqY62cc"><img src="https://i.ytimg.com/vi/xacqCqY62cc/hqdefault.jpg" width="480" alt="Action Scenes - Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `action` `fight`
+
+> Seedance 2.0 动作场景合集，展示 AI 生成的战斗片段。
+
+### Case 223: [Avengers Captain America, Wolverine clips - Seedance 2.0](https://www.youtube.com/watch?v=hgahfpzf-Z0)（by Marvel Studio Ai）
+
+<a href="https://www.youtube.com/watch?v=hgahfpzf-Z0"><img src="https://i.ytimg.com/vi/hgahfpzf-Z0/hqdefault.jpg" width="480" alt="Avengers Captain America, Wolverine clips - Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `action` `marvel` `superhero`
+
+> 用 Seedance 2.0 生成的漫威角色（美国队长、金刚狼）动作片段。
+
+### Case 224: [$100K cinematic quality action scene in 30 minutes - dynamic drone shots](https://x.com/hedo_ist/status/2024182283914097083)（by [@hedoήist (@hedo_ist)](https://x.com/hedoήist (@hedo_ist))）
+
+<a href="https://x.com/hedo_ist/status/2024182283914097083"><img src="https://pbs.twimg.com/amplify_video_thumb/2024181947203780608/img/o3EfNSn0WssxGBE6.jpg" width="480" alt="$100K cinematic quality action scene in 30 minutes - dynamic drone shots"></a>
+
+**Tags:** `video` `showcase` `action` `cinematic` `drone`
+
+> 用 Seedance 和 Kling 3.0 测试高难度场景，展示电影级动态无人机镜头。
+
+### Case 225: [Seedance 2.0 background replacement - professional rotoscoping](https://x.com/patrickassale/status/2024184507595657543)（by [@Patrick (@patrickassale)](https://x.com/Patrick (@patrickassale))）
+
+<a href="https://x.com/patrickassale/status/2024184507595657543"><img src="https://pbs.twimg.com/amplify_video_thumb/2024172831001509889/img/yX49S_LMs7Obxmfm.jpg" width="480" alt="Seedance 2.0 background replacement - professional rotoscoping"></a>
+
+**Tags:** `video` `showcase` `rotoscoping` `background-replacement` `vfx`
+
+> Seedance 2.0 精准替换视频背景，效果堪比专业抠像师。
+
+### Case 226: [The Raid vibe - Pencak Silat sequence with Seedance Pro 2.0](https://x.com/pelv_ai/status/2024184024437313827)（by [@pelv_ai (@pelv_ai)](https://x.com/pelv_ai (@pelv_ai))）
+
+<a href="https://x.com/pelv_ai/status/2024184024437313827"><img src="https://pbs.twimg.com/amplify_video_thumb/2024183806593552389/img/phWCD_v72YSzQ09P.jpg" width="480" alt="The Raid vibe - Pencak Silat sequence with Seedance Pro 2.0"></a>
+
+**Tags:** `video` `showcase` `action` `martial-arts` `cinematic`
+
+> 用 Seedance Pro 2.0 重现《突袭》风格的印尼 Pencak Silat 武术动作。
+
+### Case 227: [$0.10 Transformers-quality shot with Seedance 2.0](https://x.com/Eng_china5/status/2024181150093021196)（by [@China pulse (@Eng_china5)](https://x.com/China pulse (@Eng_china5))）
+
+<a href="https://x.com/Eng_china5/status/2024181150093021196"><img src="https://pbs.twimg.com/amplify_video_thumb/2024180977984024576/img/oXglcQsLHXQw5a6e.jpg" width="480" alt="$0.10 Transformers-quality shot with Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `vfx` `transformers` `cost-comparison`
+
+> 用 Seedance 2.0 生成的变形金刚级别镜头，成本仅约 $0.10。
+
+### Case 228: [Odyssey - text to video with Seedance 2.0, upscaled with Topaz](https://x.com/itsalexnest/status/2024180296078196853)（by [@Alex Nest (@itsalexnest)](https://x.com/Alex Nest (@itsalexnest))）
+
+<a href="https://x.com/itsalexnest/status/2024180296078196853"><img src="https://pbs.twimg.com/amplify_video_thumb/2024179534082318336/img/IxvtUD9Pjhruo152.jpg" width="480" alt="Odyssey - text to video with Seedance 2.0, upscaled with Topaz"></a>
+
+**Tags:** `video` `showcase` `text-to-video` `odyssey` `upscale`
+
+> 用 Seedance 2.0 纯文本生成奥德赛主题视频，Topaz 升级画质。
+
+### Case 229: [POV Mont Saint Michel 8th century - Seedance 2.0 quick cuts](https://x.com/airina_xyz/status/2024181777657454827)（by [@AIrina (@airina_xyz)](https://x.com/AIrina (@airina_xyz))）
+
+<a href="https://x.com/airina_xyz/status/2024181777657454827"><img src="https://pbs.twimg.com/amplify_video_thumb/2024180855740985344/img/xc9xp7zN2ZtcOLCC.jpg" width="480" alt="POV Mont Saint Michel 8th century - Seedance 2.0 quick cuts"></a>
+
+**Tags:** `video` `showcase` `historical` `pov` `quick-cuts`
+
+> Seedance 2.0 生成的第一人称视角：8世纪圣米歇尔山，多角度快切。
+
+### Case 230: [Thor vs El Chapulín Colorado - Seedance 2.0 crossover fight](https://x.com/Marco_Exito/status/2024184924803371279)（by [@Marco | IA (@Marco_Exito)](https://x.com/Marco | IA (@Marco_Exito))）
+
+<a href="https://x.com/Marco_Exito/status/2024184924803371279"><img src="https://pbs.twimg.com/amplify_video_thumb/2024184871976128513/img/EXrUD1FVqq9-Lxe_.jpg" width="480" alt="Thor vs El Chapulín Colorado - Seedance 2.0 crossover fight"></a>
+
+**Tags:** `video` `showcase` `action` `crossover` `creative`
+
+> Seedance 2.0 生成的跨界对决：雷神 vs 墨西哥经典角色 El Chapulín Colorado。
+
+### Case 231: [Single prompt cinematic generation - Seedance 2.0](https://x.com/YaseenK7212/status/2024181310000869528)（by [@Yaseen Khan Gul (@YaseenK7212)](https://x.com/Yaseen Khan Gul (@YaseenK7212))）
+
+<a href="https://x.com/YaseenK7212/status/2024181310000869528"><img src="https://pbs.twimg.com/amplify_video_thumb/2024181140014157824/img/F7u-Y7giJ0CzT0tG.jpg" width="480" alt="Single prompt cinematic generation - Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `cinematic` `single-prompt`
+
+> 用 Seedance 2.0 单条 prompt 生成的电影级画面。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
