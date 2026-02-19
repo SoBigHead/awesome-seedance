@@ -2054,6 +2054,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > FCG Studio 从社区整理的 Seedance 2.0 长视频合集（variety show）。
 
+### Case 254: [The Best AI Fights (Seedance 2.0 Compilation) Spider-Man, Epstein, Mr Bean, Neo, Cardi B and more](https://www.youtube.com/watch?v=avOC7qLr_38)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=avOC7qLr_38"><img src="https://img.youtube.com/vi/avOC7qLr_38/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation) Spider-Man, Epstein, Mr Bean, Neo, Cardi B and more"></a>
+
+**Tags:** `youtube` `seedance-2.0` `compilation` `fight-scenes`
+
+> The Best AI Fights (Seedance 2.0 Compilation) Spider-Man, Epstein, Mr Bean, Neo, Cardi B and more
+
+### Case 255: [Seedance 2.0 Just Changed AI Video Forever (Insane New AI Films)](https://www.youtube.com/watch?v=vKHvZbvnl4s)（by YetiAF | AI Universe）
+
+<a href="https://www.youtube.com/watch?v=vKHvZbvnl4s"><img src="https://img.youtube.com/vi/vKHvZbvnl4s/hqdefault.jpg" width="480" alt="Seedance 2.0 Just Changed AI Video Forever (Insane New AI Films)"></a>
+
+**Tags:** `youtube` `seedance-2.0`
+
+> Seedance 2.0 Just Changed AI Video Forever (Insane New AI Films)
+
+### Case 256: [Walter White and Captain America Running From Disney](https://www.youtube.com/watch?v=ym-lxnh5ZNQ)（by Ramenko）
+
+<a href="https://www.youtube.com/watch?v=ym-lxnh5ZNQ"><img src="https://img.youtube.com/vi/ym-lxnh5ZNQ/hqdefault.jpg" width="480" alt="Walter White and Captain America Running From Disney"></a>
+
+**Tags:** `youtube` `seedance-2.0` `parody` `copyright`
+
+> Walter White and Captain America Running From Disney
+
+### Case 257: [Crea Videos Cinematográficos con Seedance 2.0 en LitVideo 🚀](https://www.youtube.com/watch?v=s576hFZ69XY)（by Jonathan Canales Digital）
+
+<a href="https://www.youtube.com/watch?v=s576hFZ69XY"><img src="https://img.youtube.com/vi/s576hFZ69XY/hqdefault.jpg" width="480" alt="Crea Videos Cinematográficos con Seedance 2.0 en LitVideo 🚀"></a>
+
+**Tags:** `youtube` `seedance-2.0`
+
+> Crea Videos Cinematográficos con Seedance 2.0 en LitVideo 🚀
+
+### Case 258: [Seedance 2.0 為什麼超強？蒂法測給你看](https://www.youtube.com/watch?v=XfzFLgZL-3E)（by 納爾森有話說）
+
+<a href="https://www.youtube.com/watch?v=XfzFLgZL-3E"><img src="https://img.youtube.com/vi/XfzFLgZL-3E/hqdefault.jpg" width="480" alt="Seedance 2.0 為什麼超強？蒂法測給你看"></a>
+
+**Tags:** `youtube` `seedance-2.0`
+
+> Seedance 2.0 為什麼超強？蒂法測給你看
+
+### Case 259: [K-pop created by Seedance 2.0 https://t.co/PTxfcimToS (Seedance 2.0)](https://x.com/Nieuw_Michael/status/2024412651162370522)（by [@Nieuw_Michael](https://x.com/Nieuw_Michael)）
+
+<a href="https://x.com/Nieuw_Michael/status/2024412651162370522"><img src="https://pbs.twimg.com/amplify_video_thumb/2024412537790324736/img/38hYjXZdO8g8Lu72.jpg" width="480" alt="K-pop created by Seedance 2.0 https://t.co/PTxfcimToS (Seedance 2.0)"></a>
+
+**Tags:** `seedance2` `showcase` `music` `k-pop`
+
+> K-pop created by Seedance 2.0 https://t.co/PTxfcimToS
+
+### Case 260: [Ei bine, a început. Deocamdată, acesta este doar un film plauzibil, realizat – … (Seedance 2.0)](https://x.com/BogdanDc/status/2024412261498966491)（by [@BogdanDc](https://x.com/BogdanDc)）
+
+<a href="https://x.com/BogdanDc/status/2024412261498966491"><img src="https://pbs.twimg.com/amplify_video_thumb/2024412152640012288/img/eHkTOAt0SdE5bwKG.jpg" width="480" alt="Ei bine, a început. Deocamdată, acesta este doar un film plauzibil, realizat – … (Seedance 2.0)"></a>
+
+**Tags:** `seedance2` `showcase` `film`
+
+> Ei bine, a început. Deocamdată, acesta este doar un film plauzibil, realizat – judecând după nivelul de detaliu al imaginii – de modelul Seedance 2.0 de la Byt…
+
+### Case 261: [Хятадын бүтээсэн хиймэл оюун болох Seedance 2.0 дээр трансформесийн хэдэн зуун … (Seedance 2.0)](https://x.com/gabigabizm/status/2024412030871212358)（by [@gabigabizm](https://x.com/gabigabizm)）
+
+<a href="https://x.com/gabigabizm/status/2024412030871212358"><img src="https://pbs.twimg.com/amplify_video_thumb/2024180977984024576/img/oXglcQsLHXQw5a6e.jpg" width="480" alt="Хятадын бүтээсэн хиймэл оюун болох Seedance 2.0 дээр трансформесийн хэдэн зуун … (Seedance 2.0)"></a>
+
+**Tags:** `seedance2` `showcase`
+
+> Хятадын бүтээсэн хиймэл оюун болох Seedance 2.0 дээр трансформесийн хэдэн зуун саяар бүтэх энэ хувирал ердөө $0.10 гэхээр л кино хийх зардал одоо байхгүй болж …
+
+### Case 262: [芦毛の怪物より速いやつ初めて見たわ。 (Seedance 2.0)](https://x.com/qhgy/status/2024408957960556893)（by [@qhgy](https://x.com/qhgy)）
+
+<a href="https://x.com/qhgy/status/2024408957960556893"><img src="https://pbs.twimg.com/amplify_video_thumb/2024408904608993280/img/-9eeba6AFLugZDTQ.jpg" width="480" alt="芦毛の怪物より速いやつ初めて見たわ。 (Seedance 2.0)"></a>
+
+**Tags:** `seedance2` `showcase`
+
+> 芦毛の怪物より速いやつ初めて見たわ。 お姫様抱っこで連れ込んでから服直して出てくるまで、ウルトラマンの3分すら持たないってどういうことだ🐱💥 ​「俺ならもっと時間かけられる」ってヤツ→いいね👇 ​#ウマ娘 #オグリキャップ #Seedance2 #AI動画 #ウルトラマン https://t.co/2TR2dyHVX9
+
+### Case 263: [Just generated this straight-out-of-The-Matrix banger with Seedance 2.0 🔥 (Seedance 2.0)](https://x.com/timxemusic/status/2024405204087529958)（by [@timxemusic](https://x.com/timxemusic)）
+
+<a href="https://x.com/timxemusic/status/2024405204087529958"><img src="https://pbs.twimg.com/amplify_video_thumb/2024403579990130688/img/LwaE4m8jIYSbu7cd.jpg" width="480" alt="Just generated this straight-out-of-The-Matrix banger with Seedance 2.0 🔥 (Seedance 2.0)"></a>
+
+**Tags:** `seedance2` `showcase` `style` `matrix`
+
+> Just generated this straight-out-of-The-Matrix banger with Seedance 2.0 🔥 Bullet time hits different, and the whole vibe is chef’s kiss. This AI is scary good.…
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
