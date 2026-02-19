@@ -2014,6 +2014,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 3分多钟的科幻短片示例，展示 Seedance 2.0 生成的电影级镜头与叙事剪辑（4K）。
 
+### Case 249: [2-minute animated short film — blue warrior vs demon (Seedance 2.0)](https://x.com/JustShankar_/status/2024366244737274292)（by [@JustShankar_](https://x.com/JustShankar_)）
+
+<a href="https://x.com/JustShankar_/status/2024366244737274292"><img src="https://pbs.twimg.com/amplify_video_thumb/2024364223837646848/img/72T7S4jfcthNe9yF.jpg" width="480" alt="2-minute animated short film — blue warrior vs demon (Seedance 2.0)"></a>
+
+**Tags:** `short-film` `animated` `battle` `creator` `seedance2`
+
+> 创作者用 Seedance 2.0 生成的 2 分钟动画短片（蓝色战士 vs 恶魔）。
+
+### Case 250: [Fashion campaign teaser made with Seedance 2.0 (Freepik)](https://x.com/freepik/status/2024363391863951782)（by [@freepik](https://x.com/freepik)）
+
+<a href="https://x.com/freepik/status/2024363391863951782"><img src="https://pbs.twimg.com/amplify_video_thumb/2024363335391858688/img/cVK8aX8kKsmy_Z5S.jpg" width="480" alt="Fashion campaign teaser made with Seedance 2.0 (Freepik)"></a>
+
+**Tags:** `commercial` `fashion` `teaser` `brand` `seedance2`
+
+> Freepik 官方账号发布 Seedance 2.0 生成的时尚广告风格短片预告。
+
+### Case 251: [Prompt-shared cinematic ending shot (Seedance 2.0)](https://x.com/huang39184/status/2024366309363110196)（by [@huang39184](https://x.com/huang39184)）
+
+<a href="https://x.com/huang39184/status/2024366309363110196"><img src="https://pbs.twimg.com/amplify_video_thumb/2024366094841237504/img/T_UJIuFRq_Q-J_WM.jpg" width="480" alt="Prompt-shared cinematic ending shot (Seedance 2.0)"></a>
+
+**Tags:** `prompt-shared` `cinematic` `shot` `ending` `seedance2`
+
+> 带完整提示词的“胜利结局”电影感镜头示例。
+
+### Case 252: [Multi-shot cinematic: child escaping a buzzing threat (Seedance 2.0)](https://x.com/eltranzcopy/status/2024361508894101748)（by [@eltranzcopy](https://x.com/eltranzcopy)）
+
+<a href="https://x.com/eltranzcopy/status/2024361508894101748"><img src="https://pbs.twimg.com/amplify_video_thumb/2024360507592101890/img/HWlzjpzA87tBgZQ9.jpg" width="480" alt="Multi-shot cinematic: child escaping a buzzing threat (Seedance 2.0)"></a>
+
+**Tags:** `multi-shot` `cinematic` `horror` `story` `seedance2`
+
+> 多镜头电影化短片段：孩子在嗡嗡威胁中逃命（偏惊悚氛围）。
+
+### Case 253: [Seedance 2.0 Variety Show — community clip compilation](https://x.com/FCG_Studio/status/2024359299720630377)（by [@FCG_Studio](https://x.com/FCG_Studio)）
+
+<a href="https://x.com/FCG_Studio/status/2024359299720630377"><img src="https://pbs.twimg.com/amplify_video_thumb/2024357949356015616/img/4AShLFJluBl7Vm63.jpg" width="480" alt="Seedance 2.0 Variety Show — community clip compilation"></a>
+
+**Tags:** `compilation` `community` `variety` `showcase` `seedance2`
+
+> FCG Studio 从社区整理的 Seedance 2.0 长视频合集（variety show）。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
