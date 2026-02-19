@@ -2006,6 +2006,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成的“自行车变形金刚”短片段，偏 VFX/变形特效展示。
 
+### Case 248: [THE COORDINATE: Gaze of the Abyss | Seedance 2.0 Short Film | 4K](https://www.youtube.com/watch?v=RjU2w_yPFPQ)（by Dream Realm）
+
+<a href="https://www.youtube.com/watch?v=RjU2w_yPFPQ"><img src="https://img.youtube.com/vi/RjU2w_yPFPQ/hqdefault.jpg" width="480" alt="THE COORDINATE: Gaze of the Abyss | Seedance 2.0 Short Film | 4K"></a>
+
+**Tags:** `short-film` `cinematic` `narrative` `sci-fi` `4K` `showcase`
+
+> 3分多钟的科幻短片示例，展示 Seedance 2.0 生成的电影级镜头与叙事剪辑（4K）。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
