@@ -2238,6 +2238,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 神话题材角色短片测试（White Knight），在 YouArtStudio 上测试 Seedance 2.0/Pro 2.0。
 
+### Case 277: [Jiren vs Fused Goku & Vegeta (Potara) – Seedance 2.0](https://www.youtube.com/watch?v=CqHB0sNlE70)（by I am Artificial）
+
+<a href="https://www.youtube.com/watch?v=CqHB0sNlE70"><img src="https://img.youtube.com/vi/CqHB0sNlE70/hqdefault.jpg" width="480" alt="Jiren vs Fused Goku & Vegeta (Potara) – Seedance 2.0"></a>
+
+**Tags:** `fight-scenes` `anime` `multi-shot` `long-form` `video`
+
+> 3 分钟左右的动漫战斗段落（Jiren vs Potara 合体），多镜头动作连贯性实测。
+
+### Case 278: [AI Film Trailer made entirely with Seedance 2.0 in CapCut](https://www.youtube.com/watch?v=rYeuidNfMJE)（by Alex Patrascu）
+
+<a href="https://www.youtube.com/watch?v=rYeuidNfMJE"><img src="https://img.youtube.com/vi/rYeuidNfMJE/hqdefault.jpg" width="480" alt="AI Film Trailer made entirely with Seedance 2.0 in CapCut"></a>
+
+**Tags:** `trailer` `workflow` `capcut` `multi-shot` `video`
+
+> CapCut 内用 Seedance 2.0 做整支电影预告片的实例（偏工作流与多段落拼接）。
+
+### Case 279: [Neon rain cyberpunk morph — Seedance 2.0](https://x.com/NaoyaCreates/status/2024586669572129166)（by [@NaoyaCreates](https://x.com/NaoyaCreates)）
+
+<a href="https://x.com/NaoyaCreates/status/2024586669572129166"><img src="assets/thumbs/seedance2-84de053f5378.svg" width="480" alt="Neon rain cyberpunk morph — Seedance 2.0"></a>
+
+**Tags:** `morph` `cyberpunk` `vfx` `transformation` `video`
+
+> 赛博武士在霓虹雨中逐帧“金属化”变形，材质变化连续性很强（Seedance 2.0 + MJ）。
+
+### Case 280: [Reference-image animation + unexpected CN dub (Seedance 2.0)](https://x.com/CNSamsonBooks/status/2024572490811687232)（by [@CNSamsonBooks](https://x.com/CNSamsonBooks)）
+
+<a href="https://x.com/CNSamsonBooks/status/2024572490811687232"><img src="assets/thumbs/seedance2-1b05eb5d5454.svg" width="480" alt="Reference-image animation + unexpected CN dub (Seedance 2.0)"></a>
+
+**Tags:** `reference-image` `animation` `lip-sync` `test` `video`
+
+> 参考图驱动的角色动画测试；提示词英文但输出像“中文配音”，适合看口型/语种一致性。
+
+### Case 281: [Yellow cat POV — Seedance 2.0](https://x.com/miilesus/status/2024587855171842297)（by [@miilesus](https://x.com/miilesus)）
+
+<a href="https://x.com/miilesus/status/2024587855171842297"><img src="assets/thumbs/seedance2-18a1a6e7c3b5.svg" width="480" alt="Yellow cat POV — Seedance 2.0"></a>
+
+**Tags:** `pov` `animal` `camera-motion` `clip` `video`
+
+> 黄猫第一视角穿行世界的短片，POV 镜头运动自然，适合看运动与视角稳定性。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
