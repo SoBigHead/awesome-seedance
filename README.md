@@ -2134,6 +2134,62 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Just generated this straight-out-of-The-Matrix banger with Seedance 2.0 🔥 Bullet time hits different, and the whole vibe is chef’s kiss. This AI is scary good.…
 
+### Case 264: [T-24 ZERO HOUR | Chicago Nuclear Countdown (SEEDANCE 2.0)](https://www.youtube.com/watch?v=bySuMvs7T_k)（by AI VIDEOS）
+
+<a href="https://www.youtube.com/watch?v=bySuMvs7T_k"><img src="https://img.youtube.com/vi/bySuMvs7T_k/hqdefault.jpg" width="480" alt="T-24 ZERO HOUR | Chicago Nuclear Countdown (SEEDANCE 2.0)"></a>
+
+**Tags:** `trailer` `cinematic` `showcase`
+
+> 用 Seedance 2.0 生成的末日核危机短片/预告片风格案例。
+
+### Case 265: [Seedance 2.0 is Awesome.. Hollywood Movies in ONE Prompt (30 Insane Examples)](https://www.youtube.com/watch?v=_2qDjW3hhdM)（by Hindi AI Gyaan）
+
+<a href="https://www.youtube.com/watch?v=_2qDjW3hhdM"><img src="https://img.youtube.com/vi/_2qDjW3hhdM/hqdefault.jpg" width="480" alt="Seedance 2.0 is Awesome.. Hollywood Movies in ONE Prompt (30 Insane Examples)"></a>
+
+**Tags:** `prompt-test` `compilation` `showcase`
+
+> 用同一条提示词生成 30 个 Seedance 2.0 电影级例子，快速看风格跨度与稳定性。
+
+### Case 266: [Seedance 2.0 v2v 风格迁移测试（纯文本引导）](https://x.com/ProperPrompter/status/2024450931715080625)（by [@ProperPrompter](https://x.com/ProperPrompter)）
+
+<a href="https://x.com/ProperPrompter/status/2024450931715080625"><img src="assets/thumbs/seedance2-787c0e357cce.svg" width="480" alt="Seedance 2.0 v2v 风格迁移测试（纯文本引导）"></a>
+
+**Tags:** `v2v` `style-transfer` `test`
+
+> v2v 风格迁移：仅用文本作为引导做 style transfer，展示可控性边界。
+
+### Case 267: [Denji & Reze 跳舞（Seedance 2.0 动画案例）](https://x.com/NACHOS2D_/status/2024452647026110770)（by [@NACHOS2D_](https://x.com/NACHOS2D_)）
+
+<a href="https://x.com/NACHOS2D_/status/2024452647026110770"><img src="assets/thumbs/seedance2-3dd497d5fd4b.svg" width="480" alt="Denji & Reze 跳舞（Seedance 2.0 动画案例）"></a>
+
+**Tags:** `anime` `dance` `character`
+
+> 用 Seedance 2.0 做角色舞蹈动画（Denji/Reze），91s 长片段，运动与一致性不错。
+
+### Case 268: [竹林猫武士写实角色短片（Seedance 2.0）](https://x.com/Noor_ul_ain43/status/2024449911044051144)（by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43)）
+
+<a href="https://x.com/Noor_ul_ain43/status/2024449911044051144"><img src="assets/thumbs/seedance2-471908ce98f9.svg" width="480" alt="竹林猫武士写实角色短片（Seedance 2.0）"></a>
+
+**Tags:** `character` `photoreal` `short`
+
+> 写实向角色短片：竹林猫武士，15s 片段看质感与细节。
+
+### Case 269: [“AI 人类被迫作战”伪纪录片（Seedance 2.0）](https://x.com/BoriyaKishan/status/2024452094045082061)（by [@BoriyaKishan](https://x.com/BoriyaKishan)）
+
+<a href="https://x.com/BoriyaKishan/status/2024452094045082061"><img src="assets/thumbs/seedance2-5533025132b5.svg" width="480" alt="“AI 人类被迫作战”伪纪录片（Seedance 2.0）"></a>
+
+**Tags:** `documentary` `narrative` `editing`
+
+> 伪纪录片叙事：用 Seedance 2.0 拼出 95s 段落，偏故事/剪辑组织能力展示。
+
+### Case 270: [Midjourney 图 → Seedance 2.0 视频 + Gemini 配乐工作流](https://x.com/liluocheng13/status/2024450317392421015)（by [@liluocheng13](https://x.com/liluocheng13)）
+
+<a href="https://x.com/liluocheng13/status/2024450317392421015"><img src="assets/thumbs/seedance2-f9c6dd004f32.svg" width="480" alt="Midjourney 图 → Seedance 2.0 视频 + Gemini 配乐工作流"></a>
+
+**Tags:** `workflow` `midjourney` `music`
+
+> 工作流示例：Midjourney 出图 → Seedance 2.0 动画 → Gemini 配乐/音轨。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
