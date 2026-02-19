@@ -2190,6 +2190,54 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 工作流示例：Midjourney 出图 → Seedance 2.0 动画 → Gemini 配乐/音轨。
 
+### Case 271: [Kling 3.0 vs Seedance 2.0, What’s New & What Changes?](https://www.youtube.com/watch?v=xY-7C-mVaRw)（by NFT TIGERS SPOTON）
+
+<a href="https://www.youtube.com/watch?v=xY-7C-mVaRw"><img src="https://img.youtube.com/vi/xY-7C-mVaRw/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0, What’s New & What Changes?"></a>
+
+**Tags:** `comparison` `benchmark` `hands-on` `video`
+
+> 对比 Kling 3.0 与 Seedance 2.0 的生成效果差异，偏实测对比。
+
+### Case 272: [Seedance 2.0 Killed Greenscreen (Full AI Workflow Tutorial)](https://www.youtube.com/watch?v=3YH67e5jtdQ)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=3YH67e5jtdQ"><img src="https://img.youtube.com/vi/3YH67e5jtdQ/hqdefault.jpg" width="480" alt="Seedance 2.0 Killed Greenscreen (Full AI Workflow Tutorial)"></a>
+
+**Tags:** `tutorial` `workflow` `greenscreen` `hands-on` `video`
+
+> 全流程工作流教程：Seedance 2.0 做绿幕/抠像替代（含实际生成输出）。
+
+### Case 273: [전세계에서 난리난 미친 성능의 Seedance 2.0, 이제 촬영 없이 혼자 영화 다 만듭니다 | 씨댄스 AI 2.0 리뷰](https://www.youtube.com/watch?v=jhOz0aiHYPE)（by 조팀장의 AI 공략집）
+
+<a href="https://www.youtube.com/watch?v=jhOz0aiHYPE"><img src="https://img.youtube.com/vi/jhOz0aiHYPE/hqdefault.jpg" width="480" alt="전세계에서 난리난 미친 성능의 Seedance 2.0, 이제 촬영 없이 혼자 영화 다 만듭니다 | 씨댄스 AI 2.0 리뷰"></a>
+
+**Tags:** `review` `hands-on` `ko` `workflow` `video`
+
+> 韩语评测：Seedance 2.0 实际演示，强调无需拍摄也能独立完成电影级片段。
+
+### Case 274: [Wolverine vs Hulk — Seedance 2.0 clip](https://x.com/BackBingers/status/2024502397222240620)（by [@BackBingers](https://x.com/BackBingers)）
+
+<a href="https://x.com/BackBingers/status/2024502397222240620"><img src="assets/thumbs/seedance2-cd833182c572.svg" width="480" alt="Wolverine vs Hulk — Seedance 2.0 clip"></a>
+
+**Tags:** `fight-scenes` `superhero` `fan` `clip` `video`
+
+> Seedance 2.0 生成的 Wolverine vs Hulk 动作片段（流行 IP 战斗场景）。
+
+### Case 275: [Porsche-style commercial clips in ~15 minutes (Seedance 2.0)](https://x.com/beiyika/status/2024503497174241684)（by [@beiyika](https://x.com/beiyika)）
+
+<a href="https://x.com/beiyika/status/2024503497174241684"><img src="assets/thumbs/seedance2-5d83db5d6d8d.svg" width="480" alt="Porsche-style commercial clips in ~15 minutes (Seedance 2.0)"></a>
+
+**Tags:** `commercial` `car` `ugc` `workflow` `video`
+
+> 商单/广告向：作者称用 Seedance 2.0 做保时捷风格短片，15 分钟左右可完成。
+
+### Case 276: [The White Knight — mythology test (Seedance 2.0)](https://x.com/RefinerMANDAP/status/2024501717203898770)（by [@RefinerMANDAP](https://x.com/RefinerMANDAP)）
+
+<a href="https://x.com/RefinerMANDAP/status/2024501717203898770"><img src="assets/thumbs/seedance2-a1b17837e146.svg" width="480" alt="The White Knight — mythology test (Seedance 2.0)"></a>
+
+**Tags:** `mythology` `character` `test` `cinematic` `video`
+
+> 神话题材角色短片测试（White Knight），在 YouArtStudio 上测试 Seedance 2.0/Pro 2.0。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
