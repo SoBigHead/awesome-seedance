@@ -1966,6 +1966,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 忍者 vs 武士居合斩，月下樱花飘落的电影级 AI 场景
 
+### Case 243: [Netflix menace Seedance 2.0 : comment l’IA s’est mis tous les géants du cinéma à dos](https://www.youtube.com/watch?v=ZMLM-5usx00)（by Le Huffington Post）
+
+<a href="https://www.youtube.com/watch?v=ZMLM-5usx00"><img src="https://img.youtube.com/vi/ZMLM-5usx00/hqdefault.jpg" width="480" alt="Netflix menace Seedance 2.0 : comment l’IA s’est mis tous les géants du cinéma à dos"></a>
+
+**Tags:** `news` `fr` `mainstream-media` `controversy` `seedance-2.0`
+
+> 法国媒体 Le Huffington Post 报导 Seedance 2.0 引发影视巨头反弹与争议，并展示相关 AI 生成视频案例。
+
+### Case 244: [seedance videos that caused an international incident, original Brad Pitt vs Tom Cruise fight etc](https://www.youtube.com/watch?v=fbVv0ZPk0fw)（by Ruairi Robinson）
+
+<a href="https://www.youtube.com/watch?v=fbVv0ZPk0fw"><img src="https://img.youtube.com/vi/fbVv0ZPk0fw/hqdefault.jpg" width="480" alt="seedance videos that caused an international incident, original Brad Pitt vs Tom Cruise fight etc"></a>
+
+**Tags:** `hands-on` `tests` `celebrity` `fight-scenes` `seedance-2.0`
+
+> 导演 Ruairi Robinson 汇总自己在短暂获得 Seedance 2.0 访问权限时做的多组测试（含 Brad Pitt vs Tom Cruise 等）。
+
+### Case 245: [A father & daughter — video-game style fight scene (Seedance 2.0)](https://x.com/Preda2005/status/2024266624057147815)（by [@Preda2005](https://x.com/Preda2005)）
+
+<a href="https://x.com/Preda2005/status/2024266624057147815"><img src="https://pbs.twimg.com/amplify_video_thumb/2024266560907726848/img/Msa5Bh72GKTRtgf8.jpg" width="480" alt="A father & daughter — video-game style fight scene (Seedance 2.0)"></a>
+
+**Tags:** `video` `showcase` `fight-scenes` `action` `seedance-2.0`
+
+> Seedance 2.0 生成的“父女打斗”游戏感动作场景片段，强调镜头调度与动作连贯性。
+
+### Case 246: [Minecraft 2 gameplay-style clip (Seedance 2.0)](https://x.com/allgameleaks/status/2024274743944151527)（by [@allgameleaks](https://x.com/allgameleaks)）
+
+<a href="https://x.com/allgameleaks/status/2024274743944151527"><img src="https://pbs.twimg.com/amplify_video_thumb/2024274603099508737/img/T0ULgpjBrU5_rsbw.jpg" width="480" alt="Minecraft 2 gameplay-style clip (Seedance 2.0)"></a>
+
+**Tags:** `video` `showcase` `gameplay` `minecraft` `seedance-2.0`
+
+> Seedance 2.0 生成的 “Minecraft 2” 游戏实机风格长视频（约 2 分钟），偏预告片/泄露片段质感。
+
+### Case 247: [Bike Transformers clip (Seedance 2.0)](https://x.com/Dheepanratnam/status/2024265128921665976)（by [@Dheepanratnam](https://x.com/Dheepanratnam)）
+
+<a href="https://x.com/Dheepanratnam/status/2024265128921665976"><img src="https://pbs.twimg.com/amplify_video_thumb/2024264987519184896/img/aAdacSHMAG_1tbD_.jpg" width="480" alt="Bike Transformers clip (Seedance 2.0)"></a>
+
+**Tags:** `video` `showcase` `vfx` `transformers` `seedance-2.0`
+
+> Seedance 2.0 生成的“自行车变形金刚”短片段，偏 VFX/变形特效展示。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
