@@ -2094,13 +2094,13 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 為什麼超強？蒂法測給你看
 
-### Case 259: [K-pop created by Seedance 2.0 https://t.co/PTxfcimToS (Seedance 2.0)](https://x.com/Nieuw_Michael/status/2024412651162370522)（by [@Nieuw_Michael](https://x.com/Nieuw_Michael)）
+### Case 259: [K-pop created by Seedance 2.0 (Seedance 2.0)](https://x.com/Nieuw_Michael/status/2024412651162370522)（by [@Nieuw_Michael](https://x.com/Nieuw_Michael)）
 
-<a href="https://x.com/Nieuw_Michael/status/2024412651162370522"><img src="https://pbs.twimg.com/amplify_video_thumb/2024412537790324736/img/38hYjXZdO8g8Lu72.jpg" width="480" alt="K-pop created by Seedance 2.0 https://t.co/PTxfcimToS (Seedance 2.0)"></a>
+<a href="https://x.com/Nieuw_Michael/status/2024412651162370522"><img src="https://pbs.twimg.com/amplify_video_thumb/2024412537790324736/img/38hYjXZdO8g8Lu72.jpg" width="480" alt="K-pop created by Seedance 2.0 (Seedance 2.0)"></a>
 
 **Tags:** `seedance2` `showcase` `music` `k-pop`
 
-> K-pop created by Seedance 2.0 https://t.co/PTxfcimToS
+> K-pop created by Seedance 2.0
 
 ### Case 260: [Ei bine, a început. Deocamdată, acesta este doar un film plauzibil, realizat – … (Seedance 2.0)](https://x.com/BogdanDc/status/2024412261498966491)（by [@BogdanDc](https://x.com/BogdanDc)）
 
@@ -2124,7 +2124,7 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 **Tags:** `seedance2` `showcase`
 
-> 芦毛の怪物より速いやつ初めて見たわ。 お姫様抱っこで連れ込んでから服直して出てくるまで、ウルトラマンの3分すら持たないってどういうことだ🐱💥 ​「俺ならもっと時間かけられる」ってヤツ→いいね👇 ​#ウマ娘 #オグリキャップ #Seedance2 #AI動画 #ウルトラマン https://t.co/2TR2dyHVX9
+> 芦毛の怪物より速いやつ初めて見たわ。 お姫様抱っこで連れ込んでから服直して出てくるまで、ウルトラマンの3分すら持たないってどういうことだ🐱💥 ​「俺ならもっと時間かけられる」ってヤツ→いいね👇 ​#ウマ娘 #オグリキャップ #Seedance2 #AI動画 #ウルトラマン
 
 ### Case 263: [Just generated this straight-out-of-The-Matrix banger with Seedance 2.0 🔥 (Seedance 2.0)](https://x.com/timxemusic/status/2024405204087529958)（by [@timxemusic](https://x.com/timxemusic)）
 
