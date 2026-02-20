@@ -2470,6 +2470,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 上手/教程（YouTube）：包含实际生成结果演示，便于快速验证能做到什么。
 
+### Case 306: [James Bond x Seedance 2.0](https://www.youtube.com/watch?v=_n4q-98A2pA)（by László Gaál）
+
+<a href="https://www.youtube.com/watch?v=_n4q-98A2pA"><img src="https://img.youtube.com/vi/_n4q-98A2pA/hqdefault.jpg" width="480" alt="James Bond x Seedance 2.0"></a>
+
+**Tags:** `showcase` `cinematic` `film` `james-bond`
+
+> James Bond 主题的 Seedance 2.0 生成短片示例，偏电影镜头/氛围展示。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
