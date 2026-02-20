@@ -2278,6 +2278,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 黄猫第一视角穿行世界的短片，POV 镜头运动自然，适合看运动与视角稳定性。
 
+### Case 282: [Seedance 2.0 BROKE The Multiverse](https://www.youtube.com/watch?v=tYdKUrbrOJo)（by Airt）
+
+<a href="https://www.youtube.com/watch?v=tYdKUrbrOJo"><img src="https://img.youtube.com/vi/tYdKUrbrOJo/hqdefault.jpg" width="480" alt="Seedance 2.0 BROKE The Multiverse"></a>
+
+**Tags:** `video` `showcase` `seedance2`
+
+> Seedance 2.0 跨宇宙混剪合集，集中展示角色融合/风格迁移的完成度与稳定性。
+
+### Case 283: [AI MAN | Made with Seedance 2.0 | AI Short Film](https://www.youtube.com/watch?v=dp4-Sv0uVzE)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=dp4-Sv0uVzE"><img src="https://img.youtube.com/vi/dp4-Sv0uVzE/hqdefault.jpg" width="480" alt="AI MAN | Made with Seedance 2.0 | AI Short Film"></a>
+
+**Tags:** `video` `showcase` `seedance2`
+
+> 用 Seedance 2.0 制作的短片《AI MAN》，展示从基图到成片的生成效果。
+
+### Case 284: [Sea Dance 2.0 Stress Test | Total Chaos](https://www.youtube.com/watch?v=regHRWyJUbA)（by Yaroflasher）
+
+<a href="https://www.youtube.com/watch?v=regHRWyJUbA"><img src="https://img.youtube.com/vi/regHRWyJUbA/hqdefault.jpg" width="480" alt="Sea Dance 2.0 Stress Test | Total Chaos"></a>
+
+**Tags:** `video` `showcase` `seedance2`
+
+> Seedance 2.0 压测：在高复杂场景（混乱/特效/唇形等）下的稳定性测试。
+
+### Case 285: [The 10 Most INSANE AI Films Created by Seedance 2.0](https://www.youtube.com/watch?v=KQIUp7H9Bkc)（by RandomAI）
+
+<a href="https://www.youtube.com/watch?v=KQIUp7H9Bkc"><img src="https://img.youtube.com/vi/KQIUp7H9Bkc/hqdefault.jpg" width="480" alt="The 10 Most INSANE AI Films Created by Seedance 2.0"></a>
+
+**Tags:** `video` `showcase` `seedance2`
+
+> Seedance 2.0 电影级案例精选 Top10，覆盖多类型叙事与镜头语言风格。
+
+### Case 286: [Created this lightning transition of a normal man to warrior with Seedance 2.0 ⚡️  I like how this was near perfect to w](https://x.com/toebreaker2/status/2024780478914650313)（by [@toebreaker2](https://x.com/toebreaker2)）
+
+<a href="https://x.com/toebreaker2/status/2024780478914650313"><img src="assets/thumbs/seedance2-c2db1b5e1da9.svg" width="480" alt="Created this lightning transition of a normal man to warrior with Seedance 2.0 ⚡️  I like how this was near perfect to w"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `transition`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作效果。
+
+### Case 287: [Seedance 2.0: Here is another great example. https://t.co/l0qigjOfi6](https://x.com/awesome_visuals/status/2024777153896759585)（by [@awesome_visuals](https://x.com/awesome_visuals)）
+
+<a href="https://x.com/awesome_visuals/status/2024777153896759585"><img src="assets/thumbs/seedance2-805db104ba48.svg" width="480" alt="Seedance 2.0: Here is another great example. https://t.co/l0qigjOfi6"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作效果。
+
+### Case 288: [「小耳👂实践」  调用了奶爸的seedance 2.0 API，在完善我的 video-skills  相对而言，故事类的视频，要注意很多的逻辑问题  还有首尾帧的需求  所以对于我的Agent Team 尤其导演有一些挑战～～  不过我也](https://x.com/xiaoerzhan/status/2024776445357400178)（by [@xiaoerzhan](https://x.com/xiaoerzhan)）
+
+<a href="https://x.com/xiaoerzhan/status/2024776445357400178"><img src="assets/thumbs/seedance2-f9f59225d22f.svg" width="480" alt="「小耳👂实践」  调用了奶爸的seedance 2.0 API，在完善我的 video-skills  相对而言，故事类的视频，要注意很多的逻辑问题  还有首尾帧的需求  所以对于我的Agent Team 尤其导演有一些挑战～～  不过我也"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作效果。
+
+### Case 289: [Generated with Seedance 2.0. One model. One prompt. Full-scale cinematic action.  Studios spend millions on VFX, massive](https://x.com/oggii_0/status/2024774881066233958)（by [@oggii_0](https://x.com/oggii_0)）
+
+<a href="https://x.com/oggii_0/status/2024774881066233958"><img src="assets/thumbs/seedance2-1f3bafde4a45.svg" width="480" alt="Generated with Seedance 2.0. One model. One prompt. Full-scale cinematic action.  Studios spend millions on VFX, massive"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `fight`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作效果。
+
+### Case 290: [Ink falls from a brush above the clouds.  The drops merge. They swirl. They become a dragon.  It spirals through the sun](https://x.com/NaoyaCreates/status/2024771224853786696)（by [@NaoyaCreates](https://x.com/NaoyaCreates)）
+
+<a href="https://x.com/NaoyaCreates/status/2024771224853786696"><img src="assets/thumbs/seedance2-2288043f6efb.svg" width="480" alt="Ink falls from a brush above the clouds.  The drops merge. They swirl. They become a dragon.  It spirals through the sun"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `dragon`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作效果。
+
+### Case 291: [@sciencegirl Experimenting with fight choreography in Seedance 2.0: https://t.co/yRq0qNd007](https://x.com/AIspiired/status/2024771507814355101)（by [@AIspiired](https://x.com/AIspiired)）
+
+<a href="https://x.com/AIspiired/status/2024771507814355101"><img src="assets/thumbs/seedance2-522eaac2abd0.svg" width="480" alt="@sciencegirl Experimenting with fight choreography in Seedance 2.0: https://t.co/yRq0qNd007"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `fight`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作效果。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
