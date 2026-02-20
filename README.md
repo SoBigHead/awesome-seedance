@@ -2478,6 +2478,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > James Bond 主题的 Seedance 2.0 生成短片示例，偏电影镜头/氛围展示。
 
+### Case 307: [Seedance 2.0 Is INSANE… But There's a Catch](https://www.youtube.com/watch?v=gDP4bkeWbUs)（by Curious Refuge）
+
+<a href="https://www.youtube.com/watch?v=gDP4bkeWbUs"><img src="https://img.youtube.com/vi/gDP4bkeWbUs/hqdefault.jpg" width="480" alt="Seedance 2.0 Is INSANE… But There's a Catch"></a>
+
+**Tags:** `seedance2` `seedance-2.0` `video-generation` `demo`
+
+> Seedance 2.0 生成视频实测/展示（含结果片段或对比）。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
