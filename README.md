@@ -2366,6 +2366,110 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成的“AI 打斗”混剪合集：动作连续性、镜头运动和物理感都很适合当稳定性对照样本。
 
+### Case 293: [春节一天天的走亲访友还真是又累又无聊，每天对着一堆人瞎聊，我也不爱打牌，觉得还是AI最好玩！Seedance2.0永远不会让你失望！ 【小姐姐热舞视频】Seedance2.0提示词👇 真人实拍风格，一位美丽的留着黑色波浪长发的少女，穿着粉色露脐装和瑜伽裤要求性感，皮肤白皙，正随着Future https://t.co/RA5QaC6drF](https://x.com/Adam38363368936/status/2024865420189241718)（by [@Adam38363368936](https://x.com/Adam38363368936)）
+
+<a href="https://x.com/Adam38363368936/status/2024865420189241718"><img src="assets/thumbs/seedance2-7185c9f564c4.svg" width="480" alt="春节一天天的走亲访友还真是又累又无聊，每天对着一堆人瞎聊，我也不爱打牌，觉得还是AI最好玩！Seedance2.0永远不会让你失望！ 【小姐姐热舞视频】Seedance2.0提示词👇 真人实拍风格，一位美丽的留着黑色波浪长发的少女，穿着粉色露脐装和瑜伽裤要求性感，皮肤白皙，正随着Future https://t.co/RA5QaC6drF"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `prompt` `dance`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 294: [Tried whip pans and dialogue. I don't think there's a model that does it better. Seedance 2.0 Prompt: ARGUMENT - WHIP PAN FOLLOWS SPEAKER 15 Seconds / Continuous Shot / Dynamic Camera SHOT DESCRIPTION: Interior. Apartment. Day. WOMAN (30s) and MAN (32) mid-argument. Camera https:](https://x.com/aimikoda/status/2024864600680776001)（by [@aimikoda](https://x.com/aimikoda)）
+
+<a href="https://x.com/aimikoda/status/2024864600680776001"><img src="assets/thumbs/seedance2-dff6f1afac84.svg" width="480" alt="Tried whip pans and dialogue. I don't think there's a model that does it better. Seedance 2.0 Prompt: ARGUMENT - WHIP PAN FOLLOWS SPEAKER 15 Seconds / Continuous Shot / Dynamic Camera SHOT DESCRIPTION: Interior. Apartment. Day. WOMAN (30s) and MAN (32) mid-argument. Camera https:"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `prompt` `dance`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 295: [This Ronaldo football kick video is 100% AI generated. 🤯 Seedance 2.0 by @ByteDance_Seed just made video studios obsolete. → Text to 2K cinematic video → Multi-participant sports scenes → Real physics simulation Every video agency should be scared. 💀 @DataChaz https://t.co/X7UxF7](https://x.com/SystemDaddyAi/status/2024864580711985215)（by [@SystemDaddyAi](https://x.com/SystemDaddyAi)）
+
+<a href="https://x.com/SystemDaddyAi/status/2024864580711985215"><img src="assets/thumbs/seedance2-2a1170d8749b.svg" width="480" alt="This Ronaldo football kick video is 100% AI generated. 🤯 Seedance 2.0 by @ByteDance_Seed just made video studios obsolete. → Text to 2K cinematic video → Multi-participant sports scenes → Real physics simulation Every video agency should be scared. 💀 @DataChaz https://t.co/X7UxF7"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `dance` `sports` `cinematic`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 296: [I think its game over for hollywood. They won't escape this Seedance 2.0 I predict all wide zoomed out overhead background cinematic shots, vfx and background greenscreen shots will be done by AI by the end of next year. Am I right or wrong? https://t.co/GM9TCLVB9g](https://x.com/Just_sharon7/status/2024864575884337585)（by [@Just_sharon7](https://x.com/Just_sharon7)）
+
+<a href="https://x.com/Just_sharon7/status/2024864575884337585"><img src="assets/thumbs/seedance2-73c4e870c95e.svg" width="480" alt="I think its game over for hollywood. They won't escape this Seedance 2.0 I predict all wide zoomed out overhead background cinematic shots, vfx and background greenscreen shots will be done by AI by the end of next year. Am I right or wrong? https://t.co/GM9TCLVB9g"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `dance` `cinematic`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 297: [It's THAT easy. Have fun testing! If you liked this Seedance 2.0 tutorial, follow me for more @Framer_X We're just getting started 🔥 https://t.co/TfmIjmUClr](https://x.com/Framer_X/status/2024864154402893836)（by [@Framer_X](https://x.com/Framer_X)）
+
+<a href="https://x.com/Framer_X/status/2024864154402893836"><img src="assets/thumbs/seedance2-29a5dc24ff69.svg" width="480" alt="It's THAT easy. Have fun testing! If you liked this Seedance 2.0 tutorial, follow me for more @Framer_X We're just getting started 🔥 https://t.co/TfmIjmUClr"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `dance`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 298: [Seedance 2.0 vid2vid feature is just insane 🔥 Restyle any video in seconds. Quick tutorial 👇 https://t.co/CUsQUvBFqy](https://x.com/Framer_X/status/2024864006469734618)（by [@Framer_X](https://x.com/Framer_X)）
+
+<a href="https://x.com/Framer_X/status/2024864006469734618"><img src="assets/thumbs/seedance2-ab2611d046a9.svg" width="480" alt="Seedance 2.0 vid2vid feature is just insane 🔥 Restyle any video in seconds. Quick tutorial 👇 https://t.co/CUsQUvBFqy"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `vid2vid` `dance`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 299: [Predator vs Terminator T800 remake in Seedance 2.0. Reimagining our childhood favorite movie moments with legendary new characters. https://t.co/t9tK8H47Xe](https://x.com/ShamsAmin56/status/2024863836139131078)（by [@ShamsAmin56](https://x.com/ShamsAmin56)）
+
+<a href="https://x.com/ShamsAmin56/status/2024863836139131078"><img src="assets/thumbs/seedance2-2109d2c28369.svg" width="480" alt="Predator vs Terminator T800 remake in Seedance 2.0. Reimagining our childhood favorite movie moments with legendary new characters. https://t.co/t9tK8H47Xe"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `comparison` `dance` `remake` `cinematic`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 300: [Seedance 2.0 is on another level. #ai https://t.co/bhHV22ludQ](https://x.com/IA_videoo/status/2024863688054677979)（by [@IA_videoo](https://x.com/IA_videoo)）
+
+<a href="https://x.com/IA_videoo/status/2024863688054677979"><img src="assets/thumbs/seedance2-351f8b273638.svg" width="480" alt="Seedance 2.0 is on another level. #ai https://t.co/bhHV22ludQ"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `dance`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 301: [Seedance 2.0’s Director Mode lets you create stunning 4K videos fast with camera paths and face lock. https://t.co/OET1YqKuwN](https://x.com/ItsAIAndy/status/2024863149975810431)（by [@ItsAIAndy](https://x.com/ItsAIAndy)）
+
+<a href="https://x.com/ItsAIAndy/status/2024863149975810431"><img src="assets/thumbs/seedance2-00b4eadf0f58.svg" width="480" alt="Seedance 2.0’s Director Mode lets you create stunning 4K videos fast with camera paths and face lock. https://t.co/OET1YqKuwN"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `dance`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 302: [𝐉𝐚𝐦𝐞𝐬 𝐁𝐨𝐧𝐝 𝐱 𝐒𝐞𝐞𝐝𝐚𝐧𝐜𝐞 𝟐.𝟎 My predition for 2026 is that solo creators will be able to create feature length movies. For 2027 is that big studios will realize the potential and change the content format itself in a way we can't even predict. #seedance2 https://t.co/TQi9lKai8D](https://x.com/laszlogaal_/status/2024861847762223480)（by [@laszlogaal_](https://x.com/laszlogaal_)）
+
+<a href="https://x.com/laszlogaal_/status/2024861847762223480"><img src="assets/thumbs/seedance2-94e55b4c26f0.svg" width="480" alt="𝐉𝐚𝐦𝐞𝐬 𝐁𝐨𝐧𝐝 𝐱 𝐒𝐞𝐞𝐝𝐚𝐧𝐜𝐞 𝟐.𝟎 My predition for 2026 is that solo creators will be able to create feature length movies. For 2027 is that big studios will realize the potential and change the content format itself in a way we can't even predict. #seedance2 https://t.co/TQi9lKai8D"></a>
+
+**Tags:** `x` `video` `showcase` `seedance2` `dance` `cinematic`
+
+> Seedance 2.0 实际生成视频片段（X），展示具体镜头/动作/风格效果。
+
+### Case 303: [100% FREE Seedance 2.0 AI Video Generator : How to Use It WORLDWIDE](https://www.youtube.com/watch?v=jkPTYD5lXo8)（by How To In 5 Minutes）
+
+<a href="https://www.youtube.com/watch?v=jkPTYD5lXo8"><img src="https://img.youtube.com/vi/jkPTYD5lXo8/hqdefault.jpg" width="480" alt="100% FREE Seedance 2.0 AI Video Generator : How to Use It WORLDWIDE"></a>
+
+**Tags:** `video` `showcase` `seedance2` `tutorial` `cinematic`
+
+> Seedance 2.0 上手/教程（YouTube）：包含实际生成结果演示，便于快速验证能做到什么。
+
+### Case 304: [SEEDANCE 2.0 Access (Only Real Way) + Kling 3.0 Comparison Example](https://www.youtube.com/watch?v=OjeSVCfpb_E)（by Creative Pad Media）
+
+<a href="https://www.youtube.com/watch?v=OjeSVCfpb_E"><img src="https://img.youtube.com/vi/OjeSVCfpb_E/hqdefault.jpg" width="480" alt="SEEDANCE 2.0 Access (Only Real Way) + Kling 3.0 Comparison Example"></a>
+
+**Tags:** `video` `showcase` `seedance2` `comparison` `tutorial`
+
+> Seedance 2.0 对比/实测视频（YouTube）：展示效果差异与可复现的输出片段。
+
+### Case 305: [The Seedance 2.0 Panic Cycle Just Started — Here’s What That Means For The AI World](https://www.youtube.com/watch?v=cY1sHWlGj4A)（by Nick Ponte）
+
+<a href="https://www.youtube.com/watch?v=cY1sHWlGj4A"><img src="https://img.youtube.com/vi/cY1sHWlGj4A/hqdefault.jpg" width="480" alt="The Seedance 2.0 Panic Cycle Just Started — Here’s What That Means For The AI World"></a>
+
+**Tags:** `video` `showcase` `seedance2` `fight` `action` `tutorial` `production` `cinematic`
+
+> Seedance 2.0 上手/教程（YouTube）：包含实际生成结果演示，便于快速验证能做到什么。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
