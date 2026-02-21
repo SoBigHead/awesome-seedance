@@ -2598,6 +2598,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用 CapCut 的 Seedance 2.0 做的短片/演示，展示生成视频的画面与运动效果。
 
+### Case 322: [seedance 2.0: one-shot AAA movie trailers 🎬](https://x.com/ProperPrompter/status/2025255510317117902)（by [@ProperPrompter](https://x.com/ProperPrompter)）
+
+<a href="https://x.com/ProperPrompter/status/2025255510317117902"><img src="assets/thumbs/seedance2-412d20f5be03.svg" width="480" alt="seedance 2.0: one-shot AAA movie trailers 🎬"></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 323: [That evolution is wild.](https://x.com/ZephyraLeigh/status/2025254262058746239)（by [@ZephyraLeigh](https://x.com/ZephyraLeigh)）
+
+<a href="https://x.com/ZephyraLeigh/status/2025254262058746239"><img src="assets/thumbs/seedance2-033a53dac765.svg" width="480" alt="That evolution is wild."></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 324: [Again... Washington vs Trump. 🥊](https://x.com/alphaixnft/status/2025254231427387414)（by [@alphaixnft](https://x.com/alphaixnft)）
+
+<a href="https://x.com/alphaixnft/status/2025254231427387414"><img src="assets/thumbs/seedance2-0c8f4415fcae.svg" width="480" alt="Again... Washington vs Trump. 🥊"></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 325: [🎬 تبغى تسوي فيديوهات بالذكاء الاصطناعي كأنها فيلم سينمائي؟](https://x.com/MOHAYA_AA/status/2025251837712957901)（by [@MOHAYA_AA](https://x.com/MOHAYA_AA)）
+
+<a href="https://x.com/MOHAYA_AA/status/2025251837712957901"><img src="assets/thumbs/seedance2-4cdbbaf373be.svg" width="480" alt="🎬 تبغى تسوي فيديوهات بالذكاء الاصطناعي كأنها فيلم سينمائي؟"></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 326: [Seedance 2.0 edit mode just transformed a fan animation into something that looks professionally produced. The upgrad...](https://x.com/NACHOS2D_/status/2025251641469837521)（by [@NACHOS2D_](https://x.com/NACHOS2D_)）
+
+<a href="https://x.com/NACHOS2D_/status/2025251641469837521"><img src="assets/thumbs/seedance2-95d1d2e7b91d.svg" width="480" alt="Seedance 2.0 edit mode just transformed a fan animation into something that looks professionally produced. The upgrad..."></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 327: [试了试Seedance，用网络上很火的文案🤣。迈巴赫为什么广告打得那么好，连不少小孩张口都是提迈巴赫😂。@MercedesBenz](https://x.com/BiliFriday33333/status/2025251491603456375)（by [@BiliFriday33333](https://x.com/BiliFriday33333)）
+
+<a href="https://x.com/BiliFriday33333/status/2025251491603456375"><img src="assets/thumbs/seedance2-5a8480e9ca7b.svg" width="480" alt="试了试Seedance，用网络上很火的文案🤣。迈巴赫为什么广告打得那么好，连不少小孩张口都是提迈巴赫😂。@MercedesBenz"></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 328: [Everyone kept saying Hollywood is cooked. I didn’t believe it… until I saw this Seedance 2.0 clip.😱 https://t.co/yIWY...](https://x.com/auqibhabib/status/2025247994262737325)（by [@auqibhabib](https://x.com/auqibhabib)）
+
+<a href="https://x.com/auqibhabib/status/2025247994262737325"><img src="assets/thumbs/seedance2-68205e417cfe.svg" width="480" alt="Everyone kept saying Hollywood is cooked. I didn’t believe it… until I saw this Seedance 2.0 clip.😱 https://t.co/yIWY..."></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 329: [Mungkinkah ini AI? Seedance 2.0 terlalu liar😱](https://x.com/Jonsart69/status/2025247877631803740)（by [@Jonsart69](https://x.com/Jonsart69)）
+
+<a href="https://x.com/Jonsart69/status/2025247877631803740"><img src="assets/thumbs/seedance2-b9c1381bd10d.svg" width="480" alt="Mungkinkah ini AI? Seedance 2.0 terlalu liar😱"></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 330: [IA's ](https://x.com/Rayo_Libertario/status/2025247708471046579)（by [@Rayo_Libertario](https://x.com/Rayo_Libertario)）
+
+<a href="https://x.com/Rayo_Libertario/status/2025247708471046579"><img src="assets/thumbs/seedance2-ca2bc7387c24.svg" width="480" alt="IA's "></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
+### Case 331: [Pushing past the limits: UI Goku vs. Legendary Super Saiyan Broly!](https://x.com/lexx_aura/status/2025246799288545628)（by [@lexx_aura](https://x.com/lexx_aura)）
+
+<a href="https://x.com/lexx_aura/status/2025246799288545628"><img src="assets/thumbs/seedance2-04030ffebf69.svg" width="480" alt="Pushing past the limits: UI Goku vs. Legendary Super Saiyan Broly!"></a>
+
+**Tags:** `seedance2` `x` `video`
+
+> Seedance 2.0 生成视频片段展示（推特原生视频）。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
