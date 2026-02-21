@@ -2590,6 +2590,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
 
+### Case 321: [Seedance 2.0: But AI Will Never Be Able To Do This | CapCut](https://www.youtube.com/watch?v=DhB8JbJJ96I)（by Alex Patrascu）
+
+<a href="https://www.youtube.com/watch?v=DhB8JbJJ96I"><img src="https://img.youtube.com/vi/DhB8JbJJ96I/hqdefault.jpg" width="480" alt="Seedance 2.0: But AI Will Never Be Able To Do This | CapCut"></a>
+
+**Tags:** `video` `seedance2` `capcut` `demo`
+
+> 用 CapCut 的 Seedance 2.0 做的短片/演示，展示生成视频的画面与运动效果。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
