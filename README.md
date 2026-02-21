@@ -2510,6 +2510,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 反应/点评向视频，包含 Seedance 2.0 生成的战斗片段剪辑，可做快速质量参考。
 
+### Case 311: [Who says sports cars can't save the world? 🏎️💥🤖 Made by our Creative Partner @EugenioFi…](https://x.com/MartiniArt_/status/2025068150354755905)（by [@MartiniArt_](https://x.com/MartiniArt_)）
+
+<a href="https://x.com/MartiniArt_/status/2025068150354755905"><img src="assets/thumbs/seedance2-7117473005bd.svg" width="480" alt="Who says sports cars can't save the world? 🏎️💥🤖 Made by our Creative Partner @EugenioFi…"></a>
+
+**Tags:** `seedance2` `video` `dance` `aivideo`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 312: [为Issey Miyake制作一支AI舞蹈影像 舞者穿着Issey Miyake 的Fluidity loop 系列服装，身体成为流动的载体，褶皱随呼吸延展与折叠，在弯曲与回…](https://x.com/dynamicwangs/status/2025067585860239719)（by [@dynamicwangs](https://x.com/dynamicwangs)）
+
+<a href="https://x.com/dynamicwangs/status/2025067585860239719"><img src="assets/thumbs/seedance2-a03062b17f68.svg" width="480" alt="为Issey Miyake制作一支AI舞蹈影像 舞者穿着Issey Miyake 的Fluidity loop 系列服装，身体成为流动的载体，褶皱随呼吸延展与折叠，在弯曲与回…"></a>
+
+**Tags:** `seedance2` `video` `dance`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 313: [Seedance 2.0 ヒント：モンキーを殴って、モンキーがパンチを返してあげよう。女の子たちに誇らしい気持ちを届けよう。 #がんばれパンチ #がんばれパンチくん #市川市…](https://x.com/longpi68/status/2025067380729376987)（by [@longpi68](https://x.com/longpi68)）
+
+<a href="https://x.com/longpi68/status/2025067380729376987"><img src="assets/thumbs/seedance2-4f1fe8ce0ad8.svg" width="480" alt="Seedance 2.0 ヒント：モンキーを殴って、モンキーがパンチを返してあげよう。女の子たちに誇らしい気持ちを届けよう。 #がんばれパンチ #がんばれパンチくん #市川市…"></a>
+
+**Tags:** `seedance2` `video` `dance`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 314: [using seedance 2.0 i was able to make a 1min battle scene for my 2 characters, amazing!](https://x.com/SloppySintax/status/2025067122930373066)（by [@SloppySintax](https://x.com/SloppySintax)）
+
+<a href="https://x.com/SloppySintax/status/2025067122930373066"><img src="assets/thumbs/seedance2-8abf04fcd039.svg" width="480" alt="using seedance 2.0 i was able to make a 1min battle scene for my 2 characters, amazing!"></a>
+
+**Tags:** `seedance2` `video` `battle` `dance`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 315: [Seedance 2.0でどこまでプロンプト追従できるか試してみた。個人的には、かなり良いところまで行っていると思う 実際のプロンプトはリプに貼ります](https://x.com/safa_dayo/status/2025067053720502690)（by [@safa_dayo](https://x.com/safa_dayo)）
+
+<a href="https://x.com/safa_dayo/status/2025067053720502690"><img src="assets/thumbs/seedance2-e925287025dd.svg" width="480" alt="Seedance 2.0でどこまでプロンプト追従できるか試してみた。個人的には、かなり良いところまで行っていると思う 実際のプロンプトはリプに貼ります"></a>
+
+**Tags:** `seedance2` `video` `dance` `prompt` `test`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 316: [@yanhua1010 I was invited to go diving and swimming…… #Seedance2](https://x.com/briankuo/status/2025064900859757028)（by [@briankuo](https://x.com/briankuo)）
+
+<a href="https://x.com/briankuo/status/2025064900859757028"><img src="assets/thumbs/seedance2-95495ac740d6.svg" width="480" alt="@yanhua1010 I was invited to go diving and swimming…… #Seedance2"></a>
+
+**Tags:** `seedance2` `video` `dance`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 317: [Made this Lego-style animated short using Seedance 2.0. Prompted in Claude, Claude tran…](https://x.com/flik_ai/status/2025064607359139941)（by [@flik_ai](https://x.com/flik_ai)）
+
+<a href="https://x.com/flik_ai/status/2025064607359139941"><img src="assets/thumbs/seedance2-671018b59d81.svg" width="480" alt="Made this Lego-style animated short using Seedance 2.0. Prompted in Claude, Claude tran…"></a>
+
+**Tags:** `seedance2` `video` `lego` `dance` `prompt` `short`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 318: [The gap between AI generation and studio animation is closing incredibly fast. This ent…](https://x.com/girish_lelouch/status/2025064022102733102)（by [@girish_lelouch](https://x.com/girish_lelouch)）
+
+<a href="https://x.com/girish_lelouch/status/2025064022102733102"><img src="assets/thumbs/seedance2-f879bff2be22.svg" width="480" alt="The gap between AI generation and studio animation is closing incredibly fast. This ent…"></a>
+
+**Tags:** `seedance2` `video` `battle` `anime` `dance`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 319: [If you want, try Seedance 2.0 with Topaz upscaling, then use @YouArtStudio — here’s a s…](https://x.com/GumVue/status/2025063825716756821)（by [@GumVue](https://x.com/GumVue)）
+
+<a href="https://x.com/GumVue/status/2025063825716756821"><img src="assets/thumbs/seedance2-62444e4fcc8f.svg" width="480" alt="If you want, try Seedance 2.0 with Topaz upscaling, then use @YouArtStudio — here’s a s…"></a>
+
+**Tags:** `seedance2` `video` `dance`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
+### Case 320: [The most iconic villain entrance in anime Recreated with AI using Seedance 2.0 💀🔥](https://x.com/deeplyaihq/status/2025063794414895353)（by [@deeplyaihq](https://x.com/deeplyaihq)）
+
+<a href="https://x.com/deeplyaihq/status/2025063794414895353"><img src="assets/thumbs/seedance2-f028d484a5bf.svg" width="480" alt="The most iconic villain entrance in anime Recreated with AI using Seedance 2.0 💀🔥"></a>
+
+**Tags:** `seedance2` `video` `anime` `dance`
+
+> X 上的 Seedance 2.0 实际视频生成输出展示（含生成结果视频）。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
