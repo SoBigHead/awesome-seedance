@@ -2486,6 +2486,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成视频实测/展示（含结果片段或对比）。
 
+### Case 308: [Seedance 2.0 - Pirate Fantasy Action - Short Film](https://www.youtube.com/watch?v=Xp5K0QeVzZA)（by OrctonAI）
+
+<a href="https://www.youtube.com/watch?v=Xp5K0QeVzZA"><img src="https://img.youtube.com/vi/Xp5K0QeVzZA/hqdefault.jpg" width="480" alt="Seedance 2.0 - Pirate Fantasy Action - Short Film"></a>
+
+**Tags:** `seedance2` `showcase` `video` `short-film` `cinematic` `pirate` `fantasy` `action`
+
+> Seedance 2.0 生成的奇幻海盗动作短片示例，镜头和动作连贯性值得参考。
+
+### Case 309: [The Best AI Fights (Seedance 2.0 Compilation) Terminator, Chucky, Hulk, Ronaldo and more](https://www.youtube.com/watch?v=ijHzyiyYmW8)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=ijHzyiyYmW8"><img src="https://img.youtube.com/vi/ijHzyiyYmW8/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation) Terminator, Chucky, Hulk, Ronaldo and more"></a>
+
+**Tags:** `seedance2` `showcase` `video` `fight` `action` `compilation`
+
+> Seedance 2.0 动作打斗片段合集示例，用来快速感受高强度动作场景的表现上限。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
