@@ -2502,6 +2502,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 动作打斗片段合集示例，用来快速感受高强度动作场景的表现上限。
 
+### Case 310: [THIS IS INSANE!!!....Seedance 2.0 Ai is TAKING OVER!](https://www.youtube.com/watch?v=-C3L17sQ5Is)（by InternetCity）
+
+<a href="https://www.youtube.com/watch?v=-C3L17sQ5Is"><img src="https://img.youtube.com/vi/-C3L17sQ5Is/hqdefault.jpg" width="480" alt="THIS IS INSANE!!!....Seedance 2.0 Ai is TAKING OVER!"></a>
+
+**Tags:** `video` `seedance2` `showcase` `reaction`
+
+> 反应/点评向视频，包含 Seedance 2.0 生成的战斗片段剪辑，可做快速质量参考。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
