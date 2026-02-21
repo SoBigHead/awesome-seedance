@@ -2678,6 +2678,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成视频片段展示（推特原生视频）。
 
+### Case 332: [Seedance 2.0 Hater vs Judge](https://www.youtube.com/watch?v=IfX8jWn5njg)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=IfX8jWn5njg"><img src="https://img.youtube.com/vi/IfX8jWn5njg/hqdefault.jpg" width="480" alt="Seedance 2.0 Hater vs Judge"></a>
+
+**Tags:** `video` `seedance2` `comparison` `kling3` `test`
+
+> Seedance 2.0 实测+对比（含 Kling 3.0），展示生成输出与差异。
+
+### Case 333: [Finally, Seedance 2.0 is Free & Unlimited for Everyone | Full Access + Kling 3.0 Comparison](https://www.youtube.com/watch?v=4nJwVzcy-aU)（by Pro Secret）
+
+<a href="https://www.youtube.com/watch?v=4nJwVzcy-aU"><img src="https://img.youtube.com/vi/4nJwVzcy-aU/hqdefault.jpg" width="480" alt="Finally, Seedance 2.0 is Free & Unlimited for Everyone | Full Access + Kling 3.0 Comparison"></a>
+
+**Tags:** `video` `seedance2` `comparison` `kling3` `test`
+
+> Seedance 2.0 实测+对比（含 Kling 3.0），展示生成输出与差异。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
