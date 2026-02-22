@@ -2710,6 +2710,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成效果展示/对比（视频内可见结果）
 
+### Case 336: [Hollywood blockbuster visual effects Made with Seedance 2.0 model. The international ve…](https://x.com/oggii_0/status/2025443215835627521)（by [@oggii_0](https://x.com/oggii_0)）
+
+<a href="https://x.com/oggii_0/status/2025443215835627521"><img src="assets/thumbs/seedance2-c30d55d2537f.svg" width="480" alt="Hollywood blockbuster visual effects Made with Seedance 2.0 model. The international ve…"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：Hollywood blockbuster visual effects Made with Seedance 2.0 。
+
+### Case 337: [Holy Shit! This whole Scene of a Dragon Flying over New york City is ENTIRELY AI Genera…](https://x.com/realarmaansidhu/status/2025446302113226866)（by [@realarmaansidhu](https://x.com/realarmaansidhu)）
+
+<a href="https://x.com/realarmaansidhu/status/2025446302113226866"><img src="assets/thumbs/seedance2-d0147993e26a.svg" width="480" alt="Holy Shit! This whole Scene of a Dragon Flying over New york City is ENTIRELY AI Genera…"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：Holy Shit! This whole Scene of a Dragon Flying over New york。
+
+### Case 338: [Street fighter movie being created using Seedance 2.0 - behind the scenes.](https://x.com/kangmaxxing/status/2025446203190632559)（by [@kangmaxxing](https://x.com/kangmaxxing)）
+
+<a href="https://x.com/kangmaxxing/status/2025446203190632559"><img src="assets/thumbs/seedance2-30a2df700d42.svg" width="480" alt="Street fighter movie being created using Seedance 2.0 - behind the scenes."></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：Street fighter movie being created using Seedance 2.0 - behi。
+
+### Case 339: [🚨 An AI-generated video showing Tom Cruise and Brad Pitt fighting on a desolate rooftop…](https://x.com/SanctumScoops/status/2025444436411645976)（by [@SanctumScoops](https://x.com/SanctumScoops)）
+
+<a href="https://x.com/SanctumScoops/status/2025444436411645976"><img src="assets/thumbs/seedance2-a79f01ada32d.svg" width="480" alt="🚨 An AI-generated video showing Tom Cruise and Brad Pitt fighting on a desolate rooftop…"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：🚨 An AI-generated video showing Tom Cruise and Brad Pitt fig。
+
+### Case 340: [Seedance 2.0 with image reference and a prompt made at](https://x.com/PaniaThong/status/2025443667645964709)（by [@PaniaThong](https://x.com/PaniaThong)）
+
+<a href="https://x.com/PaniaThong/status/2025443667645964709"><img src="assets/thumbs/seedance2-17bc00c86dc2.svg" width="480" alt="Seedance 2.0 with image reference and a prompt made at"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：Seedance 2.0 with image reference and a prompt made at。
+
+### Case 341: [A tornado drilling through a downtown skyline 🌪️⚡️ The lightning inside the funnel is t…](https://x.com/niu_fa62502/status/2025441174815949234)（by [@niu_fa62502](https://x.com/niu_fa62502)）
+
+<a href="https://x.com/niu_fa62502/status/2025441174815949234"><img src="assets/thumbs/seedance2-1ec59893a07b.svg" width="480" alt="A tornado drilling through a downtown skyline 🌪️⚡️ The lightning inside the funnel is t…"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：A tornado drilling through a downtown skyline 🌪️⚡️ The light。
+
+### Case 342: [What if you had the power of creating whatever you can imagine by just typing it in a t…](https://x.com/rasgo_ai/status/2025443357103669702)（by [@rasgo_ai](https://x.com/rasgo_ai)）
+
+<a href="https://x.com/rasgo_ai/status/2025443357103669702"><img src="assets/thumbs/seedance2-39a28e066eed.svg" width="480" alt="What if you had the power of creating whatever you can imagine by just typing it in a t…"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：What if you had the power of creating whatever you can imagi。
+
+### Case 343: [Seedance 2.0의 발전의 끝은 어딜까... 능숙히 다루는 분들이 늘어나면서 엄청난 퀄리티의 영상들이 매일 등장하는 중 예전이면 몇 년에 걸쳤을 법한 …](https://x.com/YuhooGang_KR/status/2025443489090339090)（by [@YuhooGang_KR](https://x.com/YuhooGang_KR)）
+
+<a href="https://x.com/YuhooGang_KR/status/2025443489090339090"><img src="assets/thumbs/seedance2-0ba417f60146.svg" width="480" alt="Seedance 2.0의 발전의 끝은 어딜까... 능숙히 다루는 분들이 늘어나면서 엄청난 퀄리티의 영상들이 매일 등장하는 중 예전이면 몇 년에 걸쳤을 법한 …"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：Seedance 2.0의 발전의 끝은 어딜까... 능숙히 다루는 분들이 늘어나면서 엄청난 퀄리티의 영상들이 。
+
+### Case 344: [The barrier wasn’t talent, it was budget. That wall is gone now. Seedance 2.0 evens the…](https://x.com/sanskar_pov/status/2025443348354662452)（by [@sanskar_pov](https://x.com/sanskar_pov)）
+
+<a href="https://x.com/sanskar_pov/status/2025443348354662452"><img src="assets/thumbs/seedance2-f6820369a843.svg" width="480" alt="The barrier wasn’t talent, it was budget. That wall is gone now. Seedance 2.0 evens the…"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：The barrier wasn’t talent, it was budget. That wall is gone 。
+
+### Case 345: [视频中的动态光效人工智能做不到这一点。 Seedance 2.0 做不到这一点。大家确信么](https://x.com/Williampunk23/status/2025441510150603242)（by [@Williampunk23](https://x.com/Williampunk23)）
+
+<a href="https://x.com/Williampunk23/status/2025441510150603242"><img src="assets/thumbs/seedance2-841e28f7a483.svg" width="480" alt="视频中的动态光效人工智能做不到这一点。 Seedance 2.0 做不到这一点。大家确信么"></a>
+
+**Tags:** `seedance2` `seedance 2.0` `x` `video` `showcase`
+
+> Seedance 2.0 视频输出展示：视频中的动态光效人工智能做不到这一点。 Seedance 2.0 做不到这一点。大家确信么。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
