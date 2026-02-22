@@ -2822,6 +2822,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > TopviewAI 制作的 Seedance 2.0 生成视频合集，展示最新 AI 视频能力
 
+### Case 350: [Seedance 2.0 Scenes That Look Like Movies | New AI Model Is Changing Everything](https://www.youtube.com/watch?v=VDY1EJBh2zY)（by Mikkel Lassalle）
+
+<a href="https://www.youtube.com/watch?v=VDY1EJBh2zY"><img src="https://img.youtube.com/vi/VDY1EJBh2zY/hqdefault.jpg" width="480" alt="Seedance 2.0 Scenes That Look Like Movies | New AI Model Is Changing Everything"></a>
+
+**Tags:** `cinematic` `showcase` `prompting` `vfx`
+
+> Mikkel Lassalle 展示 Seedance 2.0 生成的电影级场景，附带 Master Prompt 技巧分享
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
