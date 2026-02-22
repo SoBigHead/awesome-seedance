@@ -2830,6 +2830,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Mikkel Lassalle 展示 Seedance 2.0 生成的电影级场景，附带 Master Prompt 技巧分享
 
+### Case 351: [Seedance 2.0 Just Changed AI UGC Forever (DON'T Miss Out)](https://www.youtube.com/watch?v=IL9mJUQQckM)（by Miko）
+
+<a href="https://www.youtube.com/watch?v=IL9mJUQQckM"><img src="https://img.youtube.com/vi/IL9mJUQQckM/hqdefault.jpg" width="480" alt="Seedance 2.0 Just Changed AI UGC Forever (DON'T Miss Out)"></a>
+
+**Tags:** `ugc` `workflow` `tutorial`
+
+> 展示 Seedance 2.0 在 UGC 内容创作中的实际生成效果
+
+### Case 352: [Seedance 2.0 Could Get Your Channel TERMINATED](https://www.youtube.com/watch?v=9J7U0oAkLwY)（by Geekbot AI）
+
+<a href="https://www.youtube.com/watch?v=9J7U0oAkLwY"><img src="https://img.youtube.com/vi/9J7U0oAkLwY/hqdefault.jpg" width="480" alt="Seedance 2.0 Could Get Your Channel TERMINATED"></a>
+
+**Tags:** `analysis` `risk` `showcase`
+
+> 分析 Seedance 2.0 生成能力及频道风险讨论，含实际生成示例
+
+### Case 353: [Black Widow vs Captain China fight scene](https://x.com/afiqnymous/status/2025630823765205072)（by [@afiqnymous](https://x.com/afiqnymous)）
+
+<a href="https://x.com/afiqnymous/status/2025630823765205072"><img src="assets/thumbs/seedance2-9df09fbd6b9f.svg" width="480" alt="Black Widow vs Captain China fight scene"></a>
+
+**Tags:** `fight` `action` `character`
+
+> 用 Seedance 2.0 生成的流畅格斗场景
+
+### Case 354: [Seedance 2.0 复刻色彩缤纷的卡通动画](https://x.com/GothicOrnate/status/2025630582684705196)（by [@GothicOrnate](https://x.com/GothicOrnate)）
+
+<a href="https://x.com/GothicOrnate/status/2025630582684705196"><img src="assets/thumbs/seedance2-075463336767.svg" width="480" alt="Seedance 2.0 复刻色彩缤纷的卡通动画"></a>
+
+**Tags:** `cartoon` `animation` `style`
+
+> 用 Seedance 2.0 复刻色彩缤纷的卡通动画风格
+
+### Case 355: [Insane Seedance 2.0 generation result](https://x.com/GMC_Reviews/status/2025630190727020866)（by [@GMC_Reviews](https://x.com/GMC_Reviews)）
+
+<a href="https://x.com/GMC_Reviews/status/2025630190727020866"><img src="assets/thumbs/seedance2-89ffa8b837d3.svg" width="480" alt="Insane Seedance 2.0 generation result"></a>
+
+**Tags:** `showcase` `generation`
+
+> 展示 Seedance 2.0 令人惊叹的视频生成效果
+
+### Case 356: [Luigi and Mario vs Sonic fight - million-dollar production quality](https://x.com/NACHOS2D_/status/2025630169411539242)（by [@NACHOS2D_](https://x.com/NACHOS2D_)）
+
+<a href="https://x.com/NACHOS2D_/status/2025630169411539242"><img src="assets/thumbs/seedance2-73b4a624f98c.svg" width="480" alt="Luigi and Mario vs Sonic fight - million-dollar production quality"></a>
+
+**Tags:** `gaming` `fight` `cinematic`
+
+> 用 Seedance 2.0 生成马里奥兄弟 vs 索尼克的电影级格斗
+
+### Case 357: [No originality needed - Seedance 2.0 powered generation](https://x.com/GMC_Reviews/status/2025628325666853272)（by [@GMC_Reviews](https://x.com/GMC_Reviews)）
+
+<a href="https://x.com/GMC_Reviews/status/2025628325666853272"><img src="assets/thumbs/seedance2-0884e37205d6.svg" width="480" alt="No originality needed - Seedance 2.0 powered generation"></a>
+
+**Tags:** `showcase` `generation`
+
+> 又一个 Seedance 2.0 视频生成演示
+
+### Case 358: [Seedance 2.0 film industry disruption showcase](https://x.com/kaan_alper/status/2025627455277736183)（by [@kaan_alper](https://x.com/kaan_alper)）
+
+<a href="https://x.com/kaan_alper/status/2025627455277736183"><img src="assets/thumbs/seedance2-ea86d6c2dff3.svg" width="480" alt="Seedance 2.0 film industry disruption showcase"></a>
+
+**Tags:** `film` `cinematic` `turkish`
+
+> 土耳其创作者展示 Seedance 2.0 电影级生成效果
+
+### Case 359: [Hulk vs T-Rex brought to life by Seedance 2.0](https://x.com/Fujimoto_hina/status/2025625928609734952)（by [@Fujimoto_hina](https://x.com/Fujimoto_hina)）
+
+<a href="https://x.com/Fujimoto_hina/status/2025625928609734952"><img src="assets/thumbs/seedance2-9f01febe7ee1.svg" width="480" alt="Hulk vs T-Rex brought to life by Seedance 2.0"></a>
+
+**Tags:** `action` `character` `vfx`
+
+> 用 Seedance 2.0 生成绿巨人 vs 霸王龙的动作场景
+
+### Case 360: [Seedance 2.0 insane video AI showcase](https://x.com/Retrodayli/status/2025625895000797332)（by [@Retrodayli](https://x.com/Retrodayli)）
+
+<a href="https://x.com/Retrodayli/status/2025625895000797332"><img src="assets/thumbs/seedance2-007000a6f66c.svg" width="480" alt="Seedance 2.0 insane video AI showcase"></a>
+
+**Tags:** `showcase` `ai-video`
+
+> 展示 Seedance 2.0 新一波 AI 视频生成浪潮
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
