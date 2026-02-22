@@ -2910,6 +2910,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 展示 Seedance 2.0 新一波 AI 视频生成浪潮
 
+### Case 361: [SeeDance 2.0 - Sci-fi Story - The Neural Nexus - Act 1 The Sacrifice](https://www.youtube.com/watch?v=tC0fIQk_9zQ)（by Benji's AI Playground）
+
+<a href="https://www.youtube.com/watch?v=tC0fIQk_9zQ"><img src="https://img.youtube.com/vi/tC0fIQk_9zQ/hqdefault.jpg" width="480" alt="SeeDance 2.0 - Sci-fi Story - The Neural Nexus - Act 1 The Sacrifice"></a>
+
+**Tags:** `seedance-2.0` `ai-video`
+
+> Sci-fi short story created with Seedance 2.0, cinematic AI-generated narrative.
+
+### Case 362: [SEEDANCE 2.0 – The Most Insane AI Battles Ever Created](https://www.youtube.com/watch?v=vTG3dvK3cHQ)（by Isabella IA & Tech News）
+
+<a href="https://www.youtube.com/watch?v=vTG3dvK3cHQ"><img src="https://img.youtube.com/vi/vTG3dvK3cHQ/hqdefault.jpg" width="480" alt="SEEDANCE 2.0 – The Most Insane AI Battles Ever Created"></a>
+
+**Tags:** `seedance-2.0` `ai-video`
+
+> Multiple AI combat sequences generated with Seedance 2.0, showcasing cinematic choreography and VFX.
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
