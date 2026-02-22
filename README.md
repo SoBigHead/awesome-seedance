@@ -2814,6 +2814,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 全球访问指南及从入门到进阶的多场景对比测试
 
+### Case 349: [Seedance 2.0 Is Taking Over AI Video](https://www.youtube.com/watch?v=-g0gp8xqv8c)（by TopviewAI）
+
+<a href="https://www.youtube.com/watch?v=-g0gp8xqv8c"><img src="https://img.youtube.com/vi/-g0gp8xqv8c/hqdefault.jpg" width="480" alt="Seedance 2.0 Is Taking Over AI Video"></a>
+
+**Tags:** `showcase` `montage` `compilation`
+
+> TopviewAI 制作的 Seedance 2.0 生成视频合集，展示最新 AI 视频能力
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
