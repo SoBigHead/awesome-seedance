@@ -2790,6 +2790,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 视频输出展示：视频中的动态光效人工智能做不到这一点。 Seedance 2.0 做不到这一点。大家确信么。
 
+### Case 346: [Fighting my Favorite Heroes with Seedance 2.0](https://www.youtube.com/watch?v=cbuwOmFUVo8)（by Digitalista 4D）
+
+<a href="https://www.youtube.com/watch?v=cbuwOmFUVo8"><img src="https://img.youtube.com/vi/cbuwOmFUVo8/hqdefault.jpg" width="480" alt="Fighting my Favorite Heroes with Seedance 2.0"></a>
+
+**Tags:** `fight-scene` `cinematic` `character`
+
+> 用 Seedance 2.0 生成的超级英雄电影级打斗场景
+
+### Case 347: [Seedance 2.0 Destroyed Kling 3, Sora 2 & VEO 3.1 | Ultimate Test](https://www.youtube.com/watch?v=7QgRK4_1Wp8)（by Digital Assets）
+
+<a href="https://www.youtube.com/watch?v=7QgRK4_1Wp8"><img src="https://img.youtube.com/vi/7QgRK4_1Wp8/hqdefault.jpg" width="480" alt="Seedance 2.0 Destroyed Kling 3, Sora 2 & VEO 3.1 | Ultimate Test"></a>
+
+**Tags:** `comparison` `benchmark` `kling` `sora` `veo`
+
+> Seedance 2.0 与 Kling 3/Sora 2/VEO 3.1 的极限对比测试
+
+### Case 348: [Seedance 2.0 is Finally Here! How to Access Globally?](https://www.youtube.com/watch?v=a1W3xQ6j55M)（by Somrat Dutta）
+
+<a href="https://www.youtube.com/watch?v=a1W3xQ6j55M"><img src="https://img.youtube.com/vi/a1W3xQ6j55M/hqdefault.jpg" width="480" alt="Seedance 2.0 is Finally Here! How to Access Globally?"></a>
+
+**Tags:** `tutorial` `comparison` `global-access`
+
+> 全球访问指南及从入门到进阶的多场景对比测试
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
