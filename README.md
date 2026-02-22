@@ -2694,6 +2694,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 实测+对比（含 Kling 3.0），展示生成输出与差异。
 
+### Case 334: [Kling3、Sora2、Seedance 2.0：どのAIツールが最強なのか？](https://www.youtube.com/watch?v=jgqt-taUn7M)（by RKJ VIDEO）
+
+<a href="https://www.youtube.com/watch?v=jgqt-taUn7M"><img src="https://img.youtube.com/vi/jgqt-taUn7M/hqdefault.jpg" width="480" alt="Kling3、Sora2、Seedance 2.0：どのAIツールが最強なのか？"></a>
+
+**Tags:** `seedance2` `seedance-2.0` `video` `case`
+
+> Seedance 2.0 生成效果展示/对比（视频内可见结果）
+
+### Case 335: [The Best AI Fights (Seedance 2.0 Compilation) Homelander, Superman, Spider-Man Tobey, Trump and more](https://www.youtube.com/watch?v=GCMqAZUtPsU)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=GCMqAZUtPsU"><img src="https://img.youtube.com/vi/GCMqAZUtPsU/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation) Homelander, Superman, Spider-Man Tobey, Trump and more"></a>
+
+**Tags:** `seedance2` `seedance-2.0` `video` `case`
+
+> Seedance 2.0 生成效果展示/对比（视频内可见结果）
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
