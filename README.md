@@ -3038,6 +3038,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 展示Seedance 2.0多模态参考、角色一致性和电影级输出
 
+### Case 377: [SEEDANCE 2.0 + Nano Banana Pro | Create Entire Film With Single Text Prompt](https://www.youtube.com/watch?v=wpkrIfowwMo)（by Ai Lockup）
+
+<a href="https://www.youtube.com/watch?v=wpkrIfowwMo"><img src="https://img.youtube.com/vi/wpkrIfowwMo/hqdefault.jpg" width="480" alt="SEEDANCE 2.0 + Nano Banana Pro | Create Entire Film With Single Text Prompt"></a>
+
+**Tags:** `workflow` `text-to-video` `image-to-video` `short-film` `nano-banana-pro`
+
+> 用 Seedance 2.0 + Nano Banana Pro 从单条文本提示生成完整短片，展示 text-to-image + image-to-video 全流程
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
