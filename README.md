@@ -2926,6 +2926,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Multiple AI combat sequences generated with Seedance 2.0, showcasing cinematic choreography and VFX.
 
+### Case 363: [Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=F1kWxdfiBNE)（by AI Filmmaking Academy）
+
+<a href="https://www.youtube.com/watch?v=F1kWxdfiBNE"><img src="https://img.youtube.com/vi/F1kWxdfiBNE/hqdefault.jpg" width="480" alt="Seedance 2.0 Claims the AI Video Throne!"></a>
+
+**Tags:** `vfx` `filmmaking` `comparison` `showcase`
+
+> 展示 Seedance 2.0 接近 CGI 级别的视觉特效镜头，具备导演级时间控制能力。
+
+### Case 364: [Seedance 2.0 INSANE Scenes Going Viral](https://www.youtube.com/watch?v=Sfa_WUHfbbk)（by Airt）
+
+<a href="https://www.youtube.com/watch?v=Sfa_WUHfbbk"><img src="https://img.youtube.com/vi/Sfa_WUHfbbk/hqdefault.jpg" width="480" alt="Seedance 2.0 INSANE Scenes Going Viral"></a>
+
+**Tags:** `compilation` `viral` `cinematic` `showcase`
+
+> 病毒式传播的 Seedance 2.0 片段合集：电影级动作镜头与超写实 AI 生成画面。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
