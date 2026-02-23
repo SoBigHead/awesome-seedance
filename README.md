@@ -2942,6 +2942,102 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 病毒式传播的 Seedance 2.0 片段合集：电影级动作镜头与超写实 AI 生成画面。
 
+### Case 365: [Seedance 2.0 保姆级教程！10 个案例实测](https://www.youtube.com/watch?v=lQwbzEgpHmM)（by 零度解说）
+
+<a href="https://www.youtube.com/watch?v=lQwbzEgpHmM"><img src="https://img.youtube.com/vi/lQwbzEgpHmM/hqdefault.jpg" width="480" alt="Seedance 2.0 保姆级教程！10 个案例实测"></a>
+
+**Tags:** `tutorial` `multi-case` `character-consistency`
+
+> 10个实测案例覆盖电影短剧、角色一致性、AI数字人等场景
+
+### Case 366: [Seedance 2.0 AI Animation Test is Bonkers](https://www.youtube.com/watch?v=LYC-7k3I66s)（by AI Director Dave Clark）
+
+<a href="https://www.youtube.com/watch?v=LYC-7k3I66s"><img src="https://img.youtube.com/vi/LYC-7k3I66s/hqdefault.jpg" width="480" alt="Seedance 2.0 AI Animation Test is Bonkers"></a>
+
+**Tags:** `animation` `test` `short-film`
+
+> 动画风格测试，两段15秒生成拼接，效果惊艳
+
+### Case 367: [Umineko EP5 DLA DEATH anime by seedance2](https://x.com/bdsqlsz/status/2025955723721785606)（by [@bdsqlsz](https://x.com/bdsqlsz)）
+
+<a href="https://x.com/bdsqlsz/status/2025955723721785606"><img src="assets/thumbs/seedance2-c391d6666cc9.svg" width="480" alt="Umineko EP5 DLA DEATH anime by seedance2"></a>
+
+**Tags:** `anime` `umineko` `character`
+
+> 用Seedance2制作海猫鸣泣之时EP5动画片段
+
+### Case 368: [Seedance 2.0 is absolutely insane, next level amazing](https://x.com/sammychrise/status/2025955701210632501)（by [@sammychrise](https://x.com/sammychrise)）
+
+<a href="https://x.com/sammychrise/status/2025955701210632501"><img src="assets/thumbs/seedance2-5dc1717dfeaa.svg" width="480" alt="Seedance 2.0 is absolutely insane, next level amazing"></a>
+
+**Tags:** `showcase`
+
+> Seedance 2.0生成效果展示
+
+### Case 369: [Seedance 2.0 VS Kling 3.0 comparison](https://x.com/olegcl/status/2025955440207475135)（by [@olegcl](https://x.com/olegcl)）
+
+<a href="https://x.com/olegcl/status/2025955440207475135"><img src="assets/thumbs/seedance2-a47852c267a3.svg" width="480" alt="Seedance 2.0 VS Kling 3.0 comparison"></a>
+
+**Tags:** `comparison` `kling` `benchmark`
+
+> Seedance 2.0与Kling 3.0对比：运动/镜头更强 vs 对话/唇形更真实
+
+### Case 370: [用seedance2.0生成梦境视频](https://x.com/melmanzone/status/2025955439599579531)（by [@melmanzone](https://x.com/melmanzone)）
+
+<a href="https://x.com/melmanzone/status/2025955439599579531"><img src="assets/thumbs/seedance2-e1b66378e674.svg" width="480" alt="用seedance2.0生成梦境视频"></a>
+
+**Tags:** `dream` `creative`
+
+> 用Seedance 2.0生成梦境场景视频
+
+### Case 371: [100% AI generated F1 racing by Seedance 2.0](https://x.com/Dheepanratnam/status/2025955435312816242)（by [@Dheepanratnam](https://x.com/Dheepanratnam)）
+
+<a href="https://x.com/Dheepanratnam/status/2025955435312816242"><img src="assets/thumbs/seedance2-c859fd5d4f07.svg" width="480" alt="100% AI generated F1 racing by Seedance 2.0"></a>
+
+**Tags:** `racing` `cinematic` `audio`
+
+> 纯AI生成F1赛车场景，含降档、轮胎尖叫等音效
+
+### Case 372: [大話西游 Seedance2 生成](https://x.com/hunt74828/status/2025955025609269440)（by [@hunt74828](https://x.com/hunt74828)）
+
+<a href="https://x.com/hunt74828/status/2025955025609269440"><img src="assets/thumbs/seedance2-6ad8c2a4f79f.svg" width="480" alt="大話西游 Seedance2 生成"></a>
+
+**Tags:** `movie-recreation` `chinese-odyssey`
+
+> 用Seedance2复刻大话西游经典场景
+
+### Case 373: [Seedance 2.0 复刻周星驰大话西游经典情感戏](https://x.com/anson7956/status/2025954754518733097)（by [@anson7956](https://x.com/anson7956)）
+
+<a href="https://x.com/anson7956/status/2025954754518733097"><img src="assets/thumbs/seedance2-2ff5122af0fe.svg" width="480" alt="Seedance 2.0 复刻周星驰大话西游经典情感戏"></a>
+
+**Tags:** `movie-recreation` `chinese-odyssey` `expression`
+
+> 复刻大话西游经典情感戏片段，表情到位
+
+### Case 374: [两大高手对决 Seedance2](https://x.com/GB_Kidding/status/2025954262287823282)（by [@GB_Kidding](https://x.com/GB_Kidding)）
+
+<a href="https://x.com/GB_Kidding/status/2025954262287823282"><img src="assets/thumbs/seedance2-b9d409bca13c.svg" width="480" alt="两大高手对决 Seedance2"></a>
+
+**Tags:** `action` `fight`
+
+> 两位高手对决的动作场景生成
+
+### Case 375: [Seedance 2.0 showcase](https://x.com/Mrpinecone888/status/2025953335698661497)（by [@Mrpinecone888](https://x.com/Mrpinecone888)）
+
+<a href="https://x.com/Mrpinecone888/status/2025953335698661497"><img src="assets/thumbs/seedance2-4942ed44c943.svg" width="480" alt="Seedance 2.0 showcase"></a>
+
+**Tags:** `showcase`
+
+> Seedance 2.0视频生成展示
+
+### Case 376: [Seedance 2.0 cinema-grade multimodal output](https://x.com/lovart_ai/status/2025950981305909586)（by [@lovart_ai](https://x.com/lovart_ai)）
+
+<a href="https://x.com/lovart_ai/status/2025950981305909586"><img src="assets/thumbs/seedance2-087ac498f8d8.svg" width="480" alt="Seedance 2.0 cinema-grade multimodal output"></a>
+
+**Tags:** `cinematic` `multimodal` `character-consistency`
+
+> 展示Seedance 2.0多模态参考、角色一致性和电影级输出
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
