@@ -3110,6 +3110,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成视频展示
 
+### Case 386: [Seedance 2.0 Fight Scenes Test | Elemental, Sword & Gun Combat](https://www.youtube.com/watch?v=1F8O0x4N-jE)（by Heydin）
+
+<a href="https://www.youtube.com/watch?v=1F8O0x4N-jE"><img src="https://img.youtube.com/vi/1F8O0x4N-jE/hqdefault.jpg" width="480" alt="Seedance 2.0 Fight Scenes Test | Elemental, Sword & Gun Combat"></a>
+
+**Tags:** `fight-scene` `action` `elemental` `sword` `gun` `midjourney` `beta-test`
+
+> 使用 Seedance 2.0 测试多种战斗风格：元素魔法、剑术、枪战，角色由 Midjourney 生成
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
