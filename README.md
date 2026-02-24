@@ -3118,6 +3118,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 使用 Seedance 2.0 测试多种战斗风格：元素魔法、剑术、枪战，角色由 Midjourney 生成
 
+### Case 387: [Higgsfield Cinema Studio 2.0 - Will Seedance 2.0 Boost the Quality Even Further?](https://www.youtube.com/watch?v=WLdRee4EFsU)（by Eigi and AI）
+
+<a href="https://www.youtube.com/watch?v=WLdRee4EFsU"><img src="https://img.youtube.com/vi/WLdRee4EFsU/hqdefault.jpg" width="480" alt="Higgsfield Cinema Studio 2.0 - Will Seedance 2.0 Boost the Quality Even Further?"></a>
+
+**Tags:** `review` `higgsfield` `cinema-studio` `quality-test`
+
+> Higgsfield Cinema Studio 2.0 评测，测试 Seedance 2.0 引擎在电影级场景中的画质提升
+
+### Case 388: [GROUND ZERO | The Fall of Washington D.C. POV (SEEDANCE 2.0)](https://www.youtube.com/watch?v=HkE_g9xBgIU)（by AI VIDEOS）
+
+<a href="https://www.youtube.com/watch?v=HkE_g9xBgIU"><img src="https://img.youtube.com/vi/HkE_g9xBgIU/hqdefault.jpg" width="480" alt="GROUND ZERO | The Fall of Washington D.C. POV (SEEDANCE 2.0)"></a>
+
+**Tags:** `short-film` `found-footage` `apocalyptic` `pov` `creative`
+
+> 用 Seedance 2.0 生成的华盛顿特区末日 POV 短片，found footage 风格
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
