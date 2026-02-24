@@ -3222,6 +3222,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 在 BigMotion 平台上的电影级展示
 
+### Case 400: [Kling 3.0 vs Seedance 2.0 — The Difference Shocked Me (Part 2)](https://www.youtube.com/watch?v=J8Okuhe5BKI)（by Aivoxy）
+
+<a href="https://www.youtube.com/watch?v=J8Okuhe5BKI"><img src="https://img.youtube.com/vi/J8Okuhe5BKI/hqdefault.jpg" width="480" alt="Kling 3.0 vs Seedance 2.0 — The Difference Shocked Me (Part 2)"></a>
+
+**Tags:** `comparison` `kling` `benchmark`
+
+> 使用相同提示词对比 Kling 3.0 与 Seedance 2.0，测试运动精度、光影和真实感。
+
+### Case 401: [SEEDANCE 2.0: We Pushed This AI Too Far](https://www.youtube.com/watch?v=OLxEK3L00-Q)（by Isabella IA & Tech News）
+
+<a href="https://www.youtube.com/watch?v=OLxEK3L00-Q"><img src="https://img.youtube.com/vi/OLxEK3L00-Q/hqdefault.jpg" width="480" alt="SEEDANCE 2.0: We Pushed This AI Too Far"></a>
+
+**Tags:** `showcase` `cinematic` `superhero` `stress-test`
+
+> 电影级展示，用超级英雄对决场景（超人 vs 灭霸）测试 Seedance 2.0 极限。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
