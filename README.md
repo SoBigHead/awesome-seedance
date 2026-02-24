@@ -3142,6 +3142,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 与虚幻引擎 5 的视觉效果对比测试
 
+### Case 390: [Hollywood VFX budget will never be the same - Seedance 2.0](https://x.com/minchoi/status/2026331290509688955)（by [@minchoi](https://x.com/minchoi)）
+
+<a href="https://x.com/minchoi/status/2026331290509688955"><img src="assets/thumbs/seedance2-42ebaedd938c.svg" width="480" alt="Hollywood VFX budget will never be the same - Seedance 2.0"></a>
+
+**Tags:** `vfx` `cinematic`
+
+> 展示 Seedance 2.0 好莱坞级视觉特效的电影级 VFX 案例
+
+### Case 391: [Ordinary daily life by Seedance 2.0](https://x.com/awesome_visuals/status/2026332370144510339)（by [@awesome_visuals](https://x.com/awesome_visuals)）
+
+<a href="https://x.com/awesome_visuals/status/2026332370144510339"><img src="assets/thumbs/seedance2-b7c6a84192c7.svg" width="480" alt="Ordinary daily life by Seedance 2.0"></a>
+
+**Tags:** `daily-life` `slice-of-life`
+
+> Seedance 2.0 生成的日常生活场景
+
+### Case 392: [Woman Vs Mech Monster - Seedance 2.0 Early Access CapCut CPP](https://x.com/OrctonAI/status/2026331858640749063)（by [@OrctonAI](https://x.com/OrctonAI)）
+
+<a href="https://x.com/OrctonAI/status/2026331858640749063"><img src="assets/thumbs/seedance2-365f6418e0c5.svg" width="480" alt="Woman Vs Mech Monster - Seedance 2.0 Early Access CapCut CPP"></a>
+
+**Tags:** `action` `mech` `capcut`
+
+> 女性对战机甲怪物的动作场景，使用 CapCut 接入 Seedance 2.0
+
+### Case 393: [Superwoman VS Wonder Woman - Seedance 2.0](https://x.com/KeorUnreal/status/2026330548134613479)（by [@KeorUnreal](https://x.com/KeorUnreal)）
+
+<a href="https://x.com/KeorUnreal/status/2026330548134613479"><img src="assets/thumbs/seedance2-78971b7e5631.svg" width="480" alt="Superwoman VS Wonder Woman - Seedance 2.0"></a>
+
+**Tags:** `superhero` `comparison` `action`
+
+> Seedance 2.0 生成的超级女侠 vs 神奇女侠超级英雄对战
+
+### Case 394: [Seedance 2.0 Dragon Ball behind-the-scenes directing](https://x.com/GothicOrnate/status/2026329650864042444)（by [@GothicOrnate](https://x.com/GothicOrnate)）
+
+<a href="https://x.com/GothicOrnate/status/2026329650864042444"><img src="assets/thumbs/seedance2-1478f725b890.svg" width="480" alt="Seedance 2.0 Dragon Ball behind-the-scenes directing"></a>
+
+**Tags:** `anime` `dragon-ball` `behind-the-scenes`
+
+> Seedance 2.0 生成的《龙珠》拍摄现场导演讲戏场景
+
+### Case 395: [One Piece - Enel Lands on the Moon via Seedance 2.0](https://x.com/FotachuARGUY/status/2026328372549161256)（by [@FotachuARGUY](https://x.com/FotachuARGUY)）
+
+<a href="https://x.com/FotachuARGUY/status/2026328372549161256"><img src="assets/thumbs/seedance2-83c0abec4975.svg" width="480" alt="One Piece - Enel Lands on the Moon via Seedance 2.0"></a>
+
+**Tags:** `anime` `one-piece` `unsora`
+
+> 通过 Unsora 使用 Seedance 2.0 生成的海贼王艾尼路登月场景
+
+### Case 396: [Leon vs Dante showdown - Seedance 2.0 AI generation](https://x.com/DigitaleAnimeEN/status/2026329251658555795)（by [@DigitaleAnimeEN](https://x.com/DigitaleAnimeEN)）
+
+<a href="https://x.com/DigitaleAnimeEN/status/2026329251658555795"><img src="assets/thumbs/seedance2-f71c9965cebe.svg" width="480" alt="Leon vs Dante showdown - Seedance 2.0 AI generation"></a>
+
+**Tags:** `gaming` `resident-evil` `devil-may-cry` `action`
+
+> Seedance 2.0 生成的里昂 vs 但丁对决场景，画质接近原作
+
+### Case 397: [Seedance 2.0 vs Grok realism comparison](https://x.com/kane_120/status/2026327090107208134)（by [@kane_120](https://x.com/kane_120)）
+
+<a href="https://x.com/kane_120/status/2026327090107208134"><img src="assets/thumbs/seedance2-16073ea9b2c6.svg" width="480" alt="Seedance 2.0 vs Grok realism comparison"></a>
+
+**Tags:** `comparison` `realism` `grok`
+
+> Seedance 2.0 与 Grok 视频生成的真实感对比
+
+### Case 398: [AISA Radio ALPS promo movie made with Seedance 2.0](https://x.com/koheii/status/2026332952305832319)（by [@koheii](https://x.com/koheii)）
+
+<a href="https://x.com/koheii/status/2026332952305832319"><img src="assets/thumbs/seedance2-cacc871598d0.svg" width="480" alt="AISA Radio ALPS promo movie made with Seedance 2.0"></a>
+
+**Tags:** `promo` `music` `japanese`
+
+> 使用 Seedance 2.0 制作的 AISA Radio ALPS 宣传片
+
+### Case 399: [Seedance 2.0 on BigMotion cinematic showcase](https://x.com/VraserX/status/2026332819304169904)（by [@VraserX](https://x.com/VraserX)）
+
+<a href="https://x.com/VraserX/status/2026332819304169904"><img src="assets/thumbs/seedance2-1e46915f11dc.svg" width="480" alt="Seedance 2.0 on BigMotion cinematic showcase"></a>
+
+**Tags:** `cinematic` `bigmotion`
+
+> Seedance 2.0 在 BigMotion 平台上的电影级展示
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
