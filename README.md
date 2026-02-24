@@ -3046,6 +3046,70 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用 Seedance 2.0 + Nano Banana Pro 从单条文本提示生成完整短片，展示 text-to-image + image-to-video 全流程
 
+### Case 378: [Seedance 2.0 Mega Showcase | CapCut](https://www.youtube.com/watch?v=g_kHV96VWy4)（by Alex Patrascu）
+
+<a href="https://www.youtube.com/watch?v=g_kHV96VWy4"><img src="https://img.youtube.com/vi/g_kHV96VWy4/hqdefault.jpg" width="480" alt="Seedance 2.0 Mega Showcase | CapCut"></a>
+
+**Tags:** `showcase` `compilation` `capcut`
+
+> Seedance 2.0 最大规模作品合集展示，涵盖多种风格场景
+
+### Case 379: [The Best AI Fights (Seedance 2.0 Compilation)](https://www.youtube.com/watch?v=Smm0wcON9Gw)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=Smm0wcON9Gw"><img src="https://img.youtube.com/vi/Smm0wcON9Gw/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation)"></a>
+
+**Tags:** `fights` `compilation` `characters` `action`
+
+> Seedance 2.0 生成的超逼真 AI 格斗场景合集，含多个知名角色
+
+### Case 380: [New Silicon Valley with Seedance 2.0](https://x.com/rohanpaul_ai/status/2026145691677126797)（by [@rohanpaul_ai](https://x.com/rohanpaul_ai)）
+
+<a href="https://x.com/rohanpaul_ai/status/2026145691677126797"><img src="assets/thumbs/seedance2-336b590757b7.svg" width="480" alt="New Silicon Valley with Seedance 2.0"></a>
+
+**Tags:** `creative` `silicon-valley` `prompt`
+
+> 用 Seedance 2.0 生成硅谷主题创意短片，展示 AI 独立制片潜力
+
+### Case 381: [Seedance 2.0 生成林黛玉倒拔垂杨柳](https://x.com/liyue_ai/status/2026145699486916623)（by [@liyue_ai](https://x.com/liyue_ai)）
+
+<a href="https://x.com/liyue_ai/status/2026145699486916623"><img src="assets/thumbs/seedance2-619aab31e327.svg" width="480" alt="Seedance 2.0 生成林黛玉倒拔垂杨柳"></a>
+
+**Tags:** `chinese-culture` `creative` `prompt-shared`
+
+> 用 Seedance 2.0 生成林黛玉倒拔垂杨柳的创意视频，附提示词
+
+### Case 382: [Seedance 2.0 + Evangelion](https://x.com/txt2mtxt/status/2026143267243647370)（by [@txt2mtxt](https://x.com/txt2mtxt)）
+
+<a href="https://x.com/txt2mtxt/status/2026143267243647370"><img src="assets/thumbs/seedance2-a6304b1d60fc.svg" width="480" alt="Seedance 2.0 + Evangelion"></a>
+
+**Tags:** `evangelion` `anime` `crossover`
+
+> Seedance 2.0 生成新世纪福音战士风格视频
+
+### Case 383: [IKEA Sword Fight - Seedance 2.0](https://x.com/shaolynsteez/status/2026141613341175979)（by [@shaolynsteez](https://x.com/shaolynsteez)）
+
+<a href="https://x.com/shaolynsteez/status/2026141613341175979"><img src="assets/thumbs/seedance2-1a8d5ff8cec5.svg" width="480" alt="IKEA Sword Fight - Seedance 2.0"></a>
+
+**Tags:** `creative` `action` `humor`
+
+> 用 Seedance 2.0 生成宜家内剑斗创意场景
+
+### Case 384: [Seedance 2.0 showcase](https://x.com/infinitysim33/status/2026145328106279280)（by [@infinitysim33](https://x.com/infinitysim33)）
+
+<a href="https://x.com/infinitysim33/status/2026145328106279280"><img src="assets/thumbs/seedance2-5a0321b96bbd.svg" width="480" alt="Seedance 2.0 showcase"></a>
+
+**Tags:** `showcase`
+
+> Seedance 2.0 视频生成效果展示
+
+### Case 385: [SEEDANCE 2.0 video](https://x.com/MazuranDomagoj/status/2026143784506171843)（by [@MazuranDomagoj](https://x.com/MazuranDomagoj)）
+
+<a href="https://x.com/MazuranDomagoj/status/2026143784506171843"><img src="assets/thumbs/seedance2-d6d39070f352.svg" width="480" alt="SEEDANCE 2.0 video"></a>
+
+**Tags:** `showcase`
+
+> Seedance 2.0 生成视频展示
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
