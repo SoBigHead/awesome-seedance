@@ -108,14 +108,17 @@
 
   function getThumb(item) {
     const p = item.preview || {};
-    if (p.poster) {
-      return `<img src="${esc(p.poster)}" alt="" loading="lazy"><span class="play-badge">▶</span>`;
-    }
-    if (p.ok && p.url) {
+    const poster = p.poster || '';
+    const isSvgPlaceholder = poster.endsWith('.svg');
+    // Prefer real preview URL over SVG placeholders
+    if (p.ok && p.url && (isSvgPlaceholder || !poster)) {
       if (p.kind === 'video') {
-        return `<video src="${esc(p.url)}" muted preload="metadata"></video><span class="play-badge">▶</span>`;
+        return `<img src="${esc(p.url)}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<div class=\\'placeholder-thumb\\'>🎬</div>'"><span class="play-badge">▶</span>`;
       }
-      return `<img src="${esc(p.url)}" alt="" loading="lazy">`;
+      return `<img src="${esc(p.url)}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<div class=\\'placeholder-thumb\\'>🎬</div>'">`;
+    }
+    if (poster && !isSvgPlaceholder) {
+      return `<img src="${esc(poster)}" alt="" loading="lazy"><span class="play-badge">▶</span>`;
     }
     return `<div class="placeholder-thumb">🎬</div>`;
   }
