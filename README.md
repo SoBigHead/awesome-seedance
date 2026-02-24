@@ -3134,6 +3134,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用 Seedance 2.0 生成的华盛顿特区末日 POV 短片，found footage 风格
 
+### Case 389: [Seedance 2.0 vs Unreal Engine 5](https://www.youtube.com/watch?v=k6K-wt5DmfY)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=k6K-wt5DmfY"><img src="https://img.youtube.com/vi/k6K-wt5DmfY/hqdefault.jpg" width="480" alt="Seedance 2.0 vs Unreal Engine 5"></a>
+
+**Tags:** `comparison` `unreal-engine` `visual-quality`
+
+> Seedance 2.0 与虚幻引擎 5 的视觉效果对比测试
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
