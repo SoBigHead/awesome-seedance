@@ -3294,6 +3294,86 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 完整教程演示 Seedance 2.0 文本生成视频功能，含示例输出和访问方式。
 
+### Case 409: [One Piece: Garp vs Teach AI fight scene](https://x.com/NACHOS2D_/status/2026794954354278781)（by [@NACHOS2D_](https://x.com/NACHOS2D_)）
+
+<a href="https://x.com/NACHOS2D_/status/2026794954354278781"><img src="assets/thumbs/seedance2-8ccefe6c63f9.svg" width="480" alt="One Piece: Garp vs Teach AI fight scene"></a>
+
+**Tags:** `anime` `one-piece` `fight-scene` `character-consistency`
+
+> 用 Seedance 2.0 生成的海贼王卡普 vs 黑胡子战斗场景，接近动画工作室水准
+
+### Case 410: [BIOLANDS series test with Seedance 2.0](https://x.com/AzeAlter/status/2026793041164632184)（by [@AzeAlter](https://x.com/AzeAlter)）
+
+<a href="https://x.com/AzeAlter/status/2026793041164632184"><img src="assets/thumbs/seedance2-06782fb282f6.svg" width="480" alt="BIOLANDS series test with Seedance 2.0"></a>
+
+**Tags:** `sci-fi` `series` `original-ip` `worldbuilding`
+
+> 用 Seedance 2.0 为原创科幻系列 BIOLANDS 制作测试片段
+
+### Case 411: [Seedance 2.0 in CapCut quick comparison test](https://x.com/ibexdream/status/2026793748089213183)（by [@ibexdream](https://x.com/ibexdream)）
+
+<a href="https://x.com/ibexdream/status/2026793748089213183"><img src="assets/thumbs/seedance2-65585575b25b.svg" width="480" alt="Seedance 2.0 in CapCut quick comparison test"></a>
+
+**Tags:** `capcut` `comparison` `test`
+
+> 通过 CapCut 集成对 Seedance 2.0 进行快速对比测试
+
+### Case 412: [What if Monster Hunter had a fully AI generated game](https://x.com/RealOmegaShenny/status/2026795368084607389)（by [@RealOmegaShenny](https://x.com/RealOmegaShenny)）
+
+<a href="https://x.com/RealOmegaShenny/status/2026795368084607389"><img src="assets/thumbs/seedance2-bd6f0d035820.svg" width="480" alt="What if Monster Hunter had a fully AI generated game"></a>
+
+**Tags:** `game-concept` `monster-hunter` `multi-tool` `creative`
+
+> 用 Seedance 2.0 + Genie 3 + Veo 3.1 + Suno 生成怪物猎人游戏概念视频
+
+### Case 413: [Sora 2 vs Seedance 2.0 comparison](https://x.com/DreamsHor1zon/status/2026791945826120045)（by [@DreamsHor1zon](https://x.com/DreamsHor1zon)）
+
+<a href="https://x.com/DreamsHor1zon/status/2026791945826120045"><img src="assets/thumbs/seedance2-b92f1e5d8623.svg" width="480" alt="Sora 2 vs Seedance 2.0 comparison"></a>
+
+**Tags:** `comparison` `sora` `benchmark`
+
+> Sora 2 与 Seedance 2.0 生成效果对比测试
+
+### Case 414: [Seedance 2.0 concept test via CapCut](https://x.com/S1K3_SIKE/status/2026792029133353461)（by [@S1K3_SIKE](https://x.com/S1K3_SIKE)）
+
+<a href="https://x.com/S1K3_SIKE/status/2026792029133353461"><img src="assets/thumbs/seedance2-925d65886e01.svg" width="480" alt="Seedance 2.0 concept test via CapCut"></a>
+
+**Tags:** `capcut` `concept-art` `test`
+
+> 通过 CapCut 使用 Seedance 2.0 进行概念测试
+
+### Case 415: [Seedance 2.0 AI anime prompt engineering tips](https://x.com/pan_soramame_da/status/2026795342466003450)（by [@pan_soramame_da](https://x.com/pan_soramame_da)）
+
+<a href="https://x.com/pan_soramame_da/status/2026795342466003450"><img src="assets/thumbs/seedance2-e2a434b57a51.svg" width="480" alt="Seedance 2.0 AI anime prompt engineering tips"></a>
+
+**Tags:** `anime` `prompt-engineering` `tips` `japanese`
+
+> Seedance 2.0 AI 动画生成测试及 prompt 技巧分享
+
+### Case 416: [Seedance 2.0 first/end frame test](https://x.com/pauloalonso/status/2026789806055866654)（by [@pauloalonso](https://x.com/pauloalonso)）
+
+<a href="https://x.com/pauloalonso/status/2026789806055866654"><img src="assets/thumbs/seedance2-d793e027526f.svg" width="480" alt="Seedance 2.0 first/end frame test"></a>
+
+**Tags:** `first-end-frame` `no-prompt` `cinematography`
+
+> 仅用首尾帧（无 prompt）测试 Seedance 2.0，场景构图和运镜令人印象深刻
+
+### Case 417: [Seedance 2.0 概念破车多场景展示](https://x.com/Junglex18/status/2026798264520232961)（by [@Junglex18](https://x.com/Junglex18)）
+
+<a href="https://x.com/Junglex18/status/2026798264520232961"><img src="assets/thumbs/seedance2-41c924251eca.svg" width="480" alt="Seedance 2.0 概念破车多场景展示"></a>
+
+**Tags:** `car` `multi-scene` `chinese`
+
+> 用 Seedance 2.0 在不同场景中展示概念破车
+
+### Case 418: [CapCut Pro Seedance 2.0 first generation](https://x.com/tebasaki3D/status/2026788667629646041)（by [@tebasaki3D](https://x.com/tebasaki3D)）
+
+<a href="https://x.com/tebasaki3D/status/2026788667629646041"><img src="assets/thumbs/seedance2-f7398fb1f022.svg" width="480" alt="CapCut Pro Seedance 2.0 first generation"></a>
+
+**Tags:** `capcut` `first-try` `japanese`
+
+> 通过 CapCut Pro 订阅首次使用 Seedance 2.0 生成视频
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
