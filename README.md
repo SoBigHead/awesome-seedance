@@ -3254,6 +3254,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用 Seedance 2.0 生成的第一人称僵尸生存视频。
 
+### Case 404: [Seedance 2.0 Capcut Tutorial](https://www.youtube.com/watch?v=tjet44bKnSk)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=tjet44bKnSk"><img src="https://img.youtube.com/vi/tjet44bKnSk/hqdefault.jpg" width="480" alt="Seedance 2.0 Capcut Tutorial"></a>
+
+**Tags:** `tutorial` `capcut` `workflow`
+
+> CapCut 剪辑教程，演示如何编辑和增强 Seedance 2.0 生成的片段。
+
+### Case 405: [Seedance 2.0 Out Now](https://www.youtube.com/watch?v=ndla500uCDU)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=ndla500uCDU"><img src="https://img.youtube.com/vi/ndla500uCDU/hqdefault.jpg" width="480" alt="Seedance 2.0 Out Now"></a>
+
+**Tags:** `showcase` `release`
+
+> Seedance 2.0 公开发布后的快速生成效果展示。
+
+### Case 406: [Seedance 2.0 Changes Filmmaking Forever | New Original Series](https://www.youtube.com/watch?v=kJ0NAVmd4f4)（by Rogue Cell Pictures）
+
+<a href="https://www.youtube.com/watch?v=kJ0NAVmd4f4"><img src="https://img.youtube.com/vi/kJ0NAVmd4f4/hqdefault.jpg" width="480" alt="Seedance 2.0 Changes Filmmaking Forever | New Original Series"></a>
+
+**Tags:** `short-film` `cinematic` `original-series` `narrative`
+
+> 用 Seedance 2.0 制作的吸血鬼主题原创 AI 短剧，展示电影级运动、光影和叙事连贯性。
+
+### Case 407: [The Best AI Fights (Seedance 2.0 Compilation) Hulk, Mr. Bean, Wanda, Peter Griffin, Zeus and more](https://www.youtube.com/watch?v=gdL3ERMxt0Y)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=gdL3ERMxt0Y"><img src="https://img.youtube.com/vi/gdL3ERMxt0Y/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation) Hulk, Mr. Bean, Wanda, Peter Griffin, Zeus and more"></a>
+
+**Tags:** `compilation` `fight-scene` `pop-culture` `viral`
+
+> 精选 Seedance 2.0 生成的最佳 AI 格斗场景合集，涵盖多个流行文化角色。
+
+### Case 408: [How To Use Seedance 2.0 Full AI Video Generator Tutorial + Free Access Guide](https://www.youtube.com/watch?v=FP8TaJSFohs)（by Chem Beast）
+
+<a href="https://www.youtube.com/watch?v=FP8TaJSFohs"><img src="https://img.youtube.com/vi/FP8TaJSFohs/hqdefault.jpg" width="480" alt="How To Use Seedance 2.0 Full AI Video Generator Tutorial + Free Access Guide"></a>
+
+**Tags:** `tutorial` `text-to-video` `guide`
+
+> 完整教程演示 Seedance 2.0 文本生成视频功能，含示例输出和访问方式。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
