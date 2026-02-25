@@ -3238,6 +3238,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 电影级展示，用超级英雄对决场景（超人 vs 灭霸）测试 Seedance 2.0 极限。
 
+### Case 402: [Madara vs Shinobi alliance live action | Seedance 2.0](https://www.youtube.com/watch?v=-umcObDG_8E)（by Nessy AI）
+
+<a href="https://www.youtube.com/watch?v=-umcObDG_8E"><img src="https://img.youtube.com/vi/-umcObDG_8E/hqdefault.jpg" width="480" alt="Madara vs Shinobi alliance live action | Seedance 2.0"></a>
+
+**Tags:** `anime` `live-action` `naruto` `fight-scene`
+
+> 用 Seedance 2.0 制作的火影忍者斑 vs 忍者联军实拍风格短片。
+
+### Case 403: [Seedance 2.0 First Person Zombies](https://www.youtube.com/watch?v=SW0xrRb7gaU)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=SW0xrRb7gaU"><img src="https://img.youtube.com/vi/SW0xrRb7gaU/hqdefault.jpg" width="480" alt="Seedance 2.0 First Person Zombies"></a>
+
+**Tags:** `fps` `zombie` `horror` `game-style`
+
+> 用 Seedance 2.0 生成的第一人称僵尸生存视频。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
