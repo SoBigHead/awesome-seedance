@@ -3374,6 +3374,14 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 通过 CapCut Pro 订阅首次使用 Seedance 2.0 生成视频
 
+### Case 419: [Seedance 2.0 INSANE Animated Fight Scenes](https://www.youtube.com/watch?v=Y1k6WeFSH7I)（by Airt）
+
+<a href="https://www.youtube.com/watch?v=Y1k6WeFSH7I"><img src="https://img.youtube.com/vi/Y1k6WeFSH7I/hqdefault.jpg" width="480" alt="Seedance 2.0 INSANE Animated Fight Scenes"></a>
+
+**Tags:** `animation` `fight-scene` `compilation` `showcase`
+
+> Seedance 2.0 生成的动画格斗场景合集，涵盖元素、剑术和枪战等多种战斗风格
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
