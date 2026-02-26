@@ -3382,6 +3382,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Seedance 2.0 生成的动画格斗场景合集，涵盖元素、剑术和枪战等多种战斗风格
 
+### Case 420: [The Best AI Fights (Seedance 2.0 Compilation) Thor, Wanda, Kim Jong Un, Naruto and more](https://www.youtube.com/watch?v=FNif44846Ek)（by Esenpauk）
+
+<a href="https://www.youtube.com/watch?v=FNif44846Ek"><img src="https://img.youtube.com/vi/FNif44846Ek/hqdefault.jpg" width="480" alt="The Best AI Fights (Seedance 2.0 Compilation) Thor, Wanda, Kim Jong Un, Naruto and more"></a>
+
+**Tags:** `compilation` `fight-scene` `character` `action`
+
+> Seedance 2.0 生成的 AI 格斗场景合集，涵盖多个流行文化角色，展示逼真物理和精细编排。
+
+### Case 421: [I Spent WEEKS Testing Seedance 2.0 - It's Insane](https://www.youtube.com/watch?v=OvAyKctgNE4)（by David Star）
+
+<a href="https://www.youtube.com/watch?v=OvAyKctgNE4"><img src="https://img.youtube.com/vi/OvAyKctgNE4/hqdefault.jpg" width="480" alt="I Spent WEEKS Testing Seedance 2.0 - It's Insane"></a>
+
+**Tags:** `review` `comprehensive-test` `multi-mode` `tutorial`
+
+> 为期两周的 Seedance 2.0 全模式深度测试，涵盖文生视频、首尾帧生成等多种模式的实际输出。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
