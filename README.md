@@ -3502,6 +3502,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 用 Seedance 2.0 制作《今夜无人入睡》歌剧主题 AI 视频
 
+### Case 435: [The BEST Seedance 2.0 AI Transformations!](https://www.youtube.com/watch?v=Ac6CdLqYC_4)（by Crypto Spaces）
+
+<a href="https://www.youtube.com/watch?v=Ac6CdLqYC_4"><img src="https://img.youtube.com/vi/Ac6CdLqYC_4/hqdefault.jpg" width="480" alt="The BEST Seedance 2.0 AI Transformations!"></a>
+
+**Tags:** `compilation` `transformation` `cinematic` `anime`
+
+> Seedance 2.0 AI变身效果合集，包含格斗和动漫风格变形片段。
+
+### Case 436: [These Seedance 2.0 Fight Scenes Are Insane 🤯](https://www.youtube.com/watch?v=6JqWPpYc-04)（by Voixai）
+
+<a href="https://www.youtube.com/watch?v=6JqWPpYc-04"><img src="https://img.youtube.com/vi/6JqWPpYc-04/hqdefault.jpg" width="480" alt="These Seedance 2.0 Fight Scenes Are Insane 🤯"></a>
+
+**Tags:** `fight-scene` `showcase` `cinematic` `viral`
+
+> 展示12个病毒式传播的Seedance 2.0格斗场景生成，分析运动质量和电影级真实感。
+
+### Case 437: [Seedance 2.0 New Videos are Breaking the Internet 🤯](https://www.youtube.com/watch?v=TM14D6HZiHE)（by Voixai）
+
+<a href="https://www.youtube.com/watch?v=TM14D6HZiHE"><img src="https://img.youtube.com/vi/TM14D6HZiHE/hqdefault.jpg" width="480" alt="Seedance 2.0 New Videos are Breaking the Internet 🤯"></a>
+
+**Tags:** `showcase` `viral` `cinematic` `compilation`
+
+> 精选展示12个最新病毒式传播的Seedance 2.0生成视频，突出运动合成和角色一致性。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
