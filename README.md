@@ -3414,6 +3414,94 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 展示 5 部用 Seedance 2 制作的 AI 短片，体现模型的电影叙事能力。
 
+### Case 424: [Seedance 2.0 Fight Scenes Are Next Level — Is Hollywood in Trouble?](https://www.youtube.com/watch?v=Y__ppvZUCMI)（by This is AIrt）
+
+<a href="https://www.youtube.com/watch?v=Y__ppvZUCMI"><img src="https://img.youtube.com/vi/Y__ppvZUCMI/hqdefault.jpg" width="480" alt="Seedance 2.0 Fight Scenes Are Next Level — Is Hollywood in Trouble?"></a>
+
+**Tags:** `fight-scene` `compilation` `crossover` `cinematic`
+
+> Seedance 2.0 生成的跨宇宙角色打斗合集，展示电影级动作场景能力
+
+### Case 425: [Seedance 2.0 少女感场景提示词分享](https://x.com/Steffenzfl/status/2027032791494611263)（by [@Steffenzfl](https://x.com/Steffenzfl)）
+
+<a href="https://x.com/Steffenzfl/status/2027032791494611263"><img src="assets/thumbs/seedance2-94814c94a970.svg" width="480" alt="Seedance 2.0 少女感场景提示词分享"></a>
+
+**Tags:** `prompt-sharing` `character`
+
+> 分享 Seedance 2.0 少女感卧室场景提示词及生成效果
+
+### Case 426: [Seedance 2.0 × CapCut 夜桜提灯シーン](https://x.com/xc5_/status/2027032333354684622)（by [@xc5_](https://x.com/xc5_)）
+
+<a href="https://x.com/xc5_/status/2027032333354684622"><img src="assets/thumbs/seedance2-ac0139c10b78.svg" width="480" alt="Seedance 2.0 × CapCut 夜桜提灯シーン"></a>
+
+**Tags:** `capcut` `anime` `japanese`
+
+> 日本用户用 Seedance 2.0 + CapCut 生成夜桜提灯动画场景
+
+### Case 427: [首次使用 Seedance 2.0 回眸一瞬](https://x.com/shawa2011_john/status/2027032246205792476)（by [@shawa2011_john](https://x.com/shawa2011_john)）
+
+<a href="https://x.com/shawa2011_john/status/2027032246205792476"><img src="assets/thumbs/seedance2-8cd59f8396d0.svg" width="480" alt="首次使用 Seedance 2.0 回眸一瞬"></a>
+
+**Tags:** `first-impression` `character`
+
+> 首次使用 Seedance 2.0 生成回头一刹那的恍惚效果，惊叹质量
+
+### Case 428: [O Folclore do Sertão — Seedance 2.0 巴西民间传说](https://x.com/bruno_lattes/status/2027031032193487324)（by [@bruno_lattes](https://x.com/bruno_lattes)）
+
+<a href="https://x.com/bruno_lattes/status/2027031032193487324"><img src="assets/thumbs/seedance2-c1b2b39f69d6.svg" width="480" alt="O Folclore do Sertão — Seedance 2.0 巴西民间传说"></a>
+
+**Tags:** `folklore` `cultural` `artistic`
+
+> 用 Seedance 2.0 生成巴西东北部民间传说主题视频，融合宗教图像与原始风格
+
+### Case 429: [Seedance 2.0 is crashing the animation industry](https://x.com/jaynwabueze/status/2027029803015061794)（by [@jaynwabueze](https://x.com/jaynwabueze)）
+
+<a href="https://x.com/jaynwabueze/status/2027029803015061794"><img src="assets/thumbs/seedance2-b3f2f896c686.svg" width="480" alt="Seedance 2.0 is crashing the animation industry"></a>
+
+**Tags:** `animation` `industry-impact`
+
+> 展示 Seedance 2.0 动画生成能力，称其正在冲击动画行业
+
+### Case 430: [Hulk vs Wolverine — Seedance 2.0 AI Fight](https://x.com/Yousaf_340/status/2027029652536197408)（by [@Yousaf_340](https://x.com/Yousaf_340)）
+
+<a href="https://x.com/Yousaf_340/status/2027029652536197408"><img src="assets/thumbs/seedance2-de3b6e92fdd3.svg" width="480" alt="Hulk vs Wolverine — Seedance 2.0 AI Fight"></a>
+
+**Tags:** `fight-scene` `crossover` `marvel`
+
+> 用 Seedance 2.0 生成绿巨人 vs 金刚狼 15 秒打斗场景
+
+### Case 431: [静寂の微光 — Seedance 2.0 音乐短片](https://x.com/xinolia_/status/2027029375133290561)（by [@xinolia_](https://x.com/xinolia_)）
+
+<a href="https://x.com/xinolia_/status/2027029375133290561"><img src="assets/thumbs/seedance2-9afa33572b12.svg" width="480" alt="静寂の微光 — Seedance 2.0 音乐短片"></a>
+
+**Tags:** `artistic` `music-video` `japanese`
+
+> 用 Seedance 2.0 制作的日系音乐短片，世界背景噪音中听见你的声音
+
+### Case 432: [豆包 × Seedance 2.0 AI 短剧实验](https://x.com/Adam38363368936/status/2027027728474714531)（by [@Adam38363368936](https://x.com/Adam38363368936)）
+
+<a href="https://x.com/Adam38363368936/status/2027027728474714531"><img src="assets/thumbs/seedance2-e3f5f021ed97.svg" width="480" alt="豆包 × Seedance 2.0 AI 短剧实验"></a>
+
+**Tags:** `short-drama` `doubao` `experiment`
+
+> 用豆包 + Seedance 2.0 生成 AI 短剧，节奏快但有爽剧感
+
+### Case 433: [Seedance 2.0 仙侠大战神奇女侠](https://x.com/GothicOrnate/status/2027024906311860564)（by [@GothicOrnate](https://x.com/GothicOrnate)）
+
+<a href="https://x.com/GothicOrnate/status/2027024906311860564"><img src="assets/thumbs/seedance2-f457ef3009d7.svg" width="480" alt="Seedance 2.0 仙侠大战神奇女侠"></a>
+
+**Tags:** `fight-scene` `xianxia` `crossover`
+
+> 用 Seedance 2.0 生成仙侠风格 vs 神奇女侠的跨界打斗
+
+### Case 434: [Nessun dorma — Seedance 2.0 歌剧主题视频](https://x.com/KanaWorks_AI/status/2027023479523148092)（by [@KanaWorks_AI](https://x.com/KanaWorks_AI)）
+
+<a href="https://x.com/KanaWorks_AI/status/2027023479523148092"><img src="assets/thumbs/seedance2-f32120cc9a1b.svg" width="480" alt="Nessun dorma — Seedance 2.0 歌剧主题视频"></a>
+
+**Tags:** `opera` `music-video` `artistic`
+
+> 用 Seedance 2.0 制作《今夜无人入睡》歌剧主题 AI 视频
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
