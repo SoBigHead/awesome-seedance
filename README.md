@@ -3398,6 +3398,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 为期两周的 Seedance 2.0 全模式深度测试，涵盖文生视频、首尾帧生成等多种模式的实际输出。
 
+### Case 422: [Seedance 2.0 Fight Scenes Are INSANE — Marvel Is Officially COOKED](https://www.youtube.com/watch?v=agOWFm8Vy8w)（by This is AIrt）
+
+<a href="https://www.youtube.com/watch?v=agOWFm8Vy8w"><img src="https://img.youtube.com/vi/agOWFm8Vy8w/hqdefault.jpg" width="480" alt="Seedance 2.0 Fight Scenes Are INSANE — Marvel Is Officially COOKED"></a>
+
+**Tags:** `fight-scene` `compilation` `crossover` `cinematic`
+
+> Seedance 2.0 生成的跨宇宙格斗场景合集，展示模型的电影级运动能力和角色混搭效果。
+
+### Case 423: [The 5 most INSANE new AI films Created with Seedance 2](https://www.youtube.com/watch?v=y7y0JvOYhe0)（by RandomAI）
+
+<a href="https://www.youtube.com/watch?v=y7y0JvOYhe0"><img src="https://img.youtube.com/vi/y7y0JvOYhe0/hqdefault.jpg" width="480" alt="The 5 most INSANE new AI films Created with Seedance 2"></a>
+
+**Tags:** `short-film` `showcase` `cinematic` `storytelling`
+
+> 展示 5 部用 Seedance 2 制作的 AI 短片，体现模型的电影叙事能力。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
