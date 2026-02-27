@@ -3526,6 +3526,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 精选展示12个最新病毒式传播的Seedance 2.0生成视频，突出运动合成和角色一致性。
 
+### Case 438: [Seedance 2.0 Just Recreated James Bond in Vietnam — This Is Wild!!](https://www.youtube.com/watch?v=aDjblCBPNpY)（by This is AIrt）
+
+<a href="https://www.youtube.com/watch?v=aDjblCBPNpY"><img src="https://img.youtube.com/vi/aDjblCBPNpY/hqdefault.jpg" width="480" alt="Seedance 2.0 Just Recreated James Bond in Vietnam — This Is Wild!!"></a>
+
+**Tags:** `action` `parody` `cinematic` `james-bond`
+
+> 用 Seedance 2.0 生成的越南版 007 恶搞短片，含电影级动作场景
+
+### Case 439: [Seedance 2.0 Mixed With Real Shot Footage Action Movie](https://www.youtube.com/watch?v=3cpvus6b87Y)（by Blake Ridder）
+
+<a href="https://www.youtube.com/watch?v=3cpvus6b87Y"><img src="https://img.youtube.com/vi/3cpvus6b87Y/hqdefault.jpg" width="480" alt="Seedance 2.0 Mixed With Real Shot Footage Action Movie"></a>
+
+**Tags:** `live-action-mix` `filmmaking` `action` `cinematic`
+
+> 电影人 Blake Ridder 将 Seedance 2.0 生成画面与实拍动作片素材混剪
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
