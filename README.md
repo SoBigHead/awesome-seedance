@@ -3606,6 +3606,22 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 一句话提示词即可生成有剧情、分镜和反转的完整视频
 
+### Case 448: [Seedance 2.0 The Ant's Dream – Cinematic AI Short Film](https://www.youtube.com/watch?v=_hn1UI8WErI)（by This is AIrt）
+
+<a href="https://www.youtube.com/watch?v=_hn1UI8WErI"><img src="https://img.youtube.com/vi/_hn1UI8WErI/hqdefault.jpg" width="480" alt="Seedance 2.0 The Ant's Dream – Cinematic AI Short Film"></a>
+
+**Tags:** `short-film` `cinematic` `character-consistency` `live-action`
+
+> 用 Seedance 2.0 将动画电影《Nobody》重新诠释为真人风格 AI 短片，展示角色一致性和电影级运动能力
+
+### Case 449: [Seedance 2.0 is going to change the advertising game forever](https://x.com/freepik/status/2025208966784184486)（by [@freepik](https://x.com/freepik)）
+
+<a href="https://x.com/freepik/status/2025208966784184486"><img src="assets/thumbs/seedance2-6081f4eb9c48.svg" width="480" alt="Seedance 2.0 is going to change the advertising game forever"></a>
+
+**Tags:** `advertising` `commercial` `platform-integration`
+
+> Freepik 展示 Seedance 2.0 在广告领域的生成能力，附带实际视频输出
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
