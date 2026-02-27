@@ -3542,6 +3542,30 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 电影人 Blake Ridder 将 Seedance 2.0 生成画面与实拍动作片素材混剪
 
+### Case 440: [Seedance 2.0 Is FINALLY in CapCut | + Tutorial](https://www.youtube.com/watch?v=fgslO8bDCI8)（by OSE FILMS）
+
+<a href="https://www.youtube.com/watch?v=fgslO8bDCI8"><img src="https://img.youtube.com/vi/fgslO8bDCI8/hqdefault.jpg" width="480" alt="Seedance 2.0 Is FINALLY in CapCut | + Tutorial"></a>
+
+**Tags:** `tutorial` `capcut` `integration` `generation-demo`
+
+> 演示 Seedance 2.0 在 CapCut 中的集成，包含实际 AI 视频生成效果和最佳设置。
+
+### Case 441: [Seedance 2.0 EARLY ACCESS (100% Real) + Global Launch Updates](https://www.youtube.com/watch?v=QQlXwWhQjhA)（by Creative Pad Media）
+
+<a href="https://www.youtube.com/watch?v=QQlXwWhQjhA"><img src="https://img.youtube.com/vi/QQlXwWhQjhA/hqdefault.jpg" width="480" alt="Seedance 2.0 EARLY ACCESS (100% Real) + Global Launch Updates"></a>
+
+**Tags:** `early-access` `youart` `generation-demo` `launch-update`
+
+> 通过 YouArt 获取早期访问的完整演示，含实际生成输出和全球发布进展。
+
+### Case 442: [Create 30 Minutes LONG Cinematic Videos With SEEDANCE 2.0 AI Video Generator](https://www.youtube.com/watch?v=mt3tNtx0lF4)（by Ai Lockup）
+
+<a href="https://www.youtube.com/watch?v=mt3tNtx0lF4"><img src="https://img.youtube.com/vi/mt3tNtx0lF4/hqdefault.jpg" width="480" alt="Create 30 Minutes LONG Cinematic Videos With SEEDANCE 2.0 AI Video Generator"></a>
+
+**Tags:** `long-form` `cinematic` `text-to-video` `image-to-video`
+
+> 演示使用 Seedance 2.0 的文生视频和图生视频功能创建长篇电影级 AI 视频。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
