@@ -3566,6 +3566,46 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > 演示使用 Seedance 2.0 的文生视频和图生视频功能创建长篇电影级 AI 视频。
 
+### Case 443: [Seedance 2.0 雨中打斗效果](https://x.com/GothicOrnate/status/2027267207231598790)（by [@GothicOrnate](https://x.com/GothicOrnate)）
+
+<a href="https://x.com/GothicOrnate/status/2027267207231598790"><img src="assets/thumbs/seedance2-c6852b4e5c8c.svg" width="480" alt="Seedance 2.0 雨中打斗效果"></a>
+
+**Tags:** `fight-scene` `rain` `atmosphere` `action`
+
+> Seedance 2.0 生成的雨中打斗场景，动作流畅、氛围感强
+
+### Case 444: [Seedance 2.0 画风直接爱了](https://x.com/sodawhite_dev/status/2027269791808172346)（by [@sodawhite_dev](https://x.com/sodawhite_dev)）
+
+<a href="https://x.com/sodawhite_dev/status/2027269791808172346"><img src="assets/thumbs/seedance2-d8c19a7afa18.svg" width="480" alt="Seedance 2.0 画风直接爱了"></a>
+
+**Tags:** `style` `visual-quality`
+
+> 展示 Seedance 2.0 独特画风的生成视频
+
+### Case 445: [Seedance 2.0 自制汽车广告片](https://x.com/Etudecn/status/2027268541666468335)（by [@Etudecn](https://x.com/Etudecn)）
+
+<a href="https://x.com/Etudecn/status/2027268541666468335"><img src="assets/thumbs/seedance2-0f150454e800.svg" width="480" alt="Seedance 2.0 自制汽车广告片"></a>
+
+**Tags:** `commercial` `car-ad` `prompt-sharing` `monetization`
+
+> 用 Seedance 2.0 自制的汽车广告片，附提示词，有商业变现参考价值
+
+### Case 446: [S&D teaser - powered by Seedance 2.0](https://x.com/Amaru_Zeas_3D/status/2027264888083472830)（by [@Amaru_Zeas_3D](https://x.com/Amaru_Zeas_3D)）
+
+<a href="https://x.com/Amaru_Zeas_3D/status/2027264888083472830"><img src="assets/thumbs/seedance2-0d35e01774a8.svg" width="480" alt="S&D teaser - powered by Seedance 2.0"></a>
+
+**Tags:** `teaser` `short-film` `creative`
+
+> 用 Seedance 2.0 制作的 S&D 预告片
+
+### Case 447: [seedance2 一句话提示词生成有剧情有分镜有反转的视频](https://x.com/lljunsoftware/status/2027266384603037934)（by [@lljunsoftware](https://x.com/lljunsoftware)）
+
+<a href="https://x.com/lljunsoftware/status/2027266384603037934"><img src="assets/thumbs/seedance2-ff13b0799fe6.svg" width="480" alt="seedance2 一句话提示词生成有剧情有分镜有反转的视频"></a>
+
+**Tags:** `one-prompt` `narrative` `storyboard`
+
+> 一句话提示词即可生成有剧情、分镜和反转的完整视频
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
