@@ -1,7 +1,6 @@
-name: Hourly Candidate Scan
+name: Hourly Candidate Scan (paused)
+
 on:
-  schedule:
-    - cron: '15 * * * *'  # hourly (GitHub schedule has jitter)
   workflow_dispatch: {}
 
 permissions:
