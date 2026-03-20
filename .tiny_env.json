@@ -1,0 +1,10 @@
+{
+  "python3": "/opt/homebrew/opt/python@3.13/libexec/bin/python3",
+  "yt_dlp": "/opt/homebrew/bin/yt-dlp",
+  "jq": "/usr/bin/jq",
+  "git": "/usr/bin/git",
+  "rapidapi_key": false,
+  "twitter_api_sh": true,
+  "parse_tweets_py": true,
+  "rapidapi_hours_since": 509.89
+}

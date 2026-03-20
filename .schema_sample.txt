@@ -1,0 +1,7 @@
+TOTAL 449
+YT 281
+X 158
+LATEST_YOUTUBE
+{"id": "seedance2-cf001f3864d2", "type": "video", "title": "Seedance 2.0 The Ant's Dream – Cinematic AI Short Film", "url": "https://www.youtube.com/watch?v=_hn1UI8WErI", "author": "This is AIrt", "platform": "youtube", "lang": "en", "summary_zh": "用 Seedance 2.0 将动画电影《Nobody》重新诠释为真人风格 AI 短片，展示角色一致性和电影级运动能力", "summary_en": "Live-action AI reinterpretation of animated film Nobody using Seedance 2.0, showcasing character consistency and cinematic motion", "metrics": {"views": 195, "likes": 19}, "tags": ["short-film", "cinematic", "character-consistency", "live-action"], "preview": {"ok": true, "kind": "image", "url": "https://img.youtube.com/vi/_hn1UI8WErI/hqdefault.jpg", "note": "YouTube platform thumbnail", "poster": "assets/thumbs/seedance2-cf001f3864d2.svg"}}
+LATEST_X-TWITTER
+{"id": "seedance2-6081f4eb9c48", "type": "video", "title": "Seedance 2.0 is going to change the advertising game forever", "url": "https://x.com/freepik/status/2025208966784184486", "author": "freepik", "platform": "x-twitter", "lang": "en", "summary_zh": "Freepik 展示 Seedance 2.0 在广告领域的生成能力，附带实际视频输出", "summary_en": "Freepik showcases Seedance 2.0 video generation for advertising use cases with actual output", "metrics": {}, "tags": ["advertising", "commercial", "platform-integration"], "preview": {"ok": false, "kind": "none", "url": null, "note": "X hotlink protection - no embed", "poster": "assets/thumbs/seedance2-6081f4eb9c48.svg"}}
