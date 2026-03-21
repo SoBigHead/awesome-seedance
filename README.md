@@ -3622,6 +3622,70 @@ https://github.com/user-attachments/assets/1014fc9f-bcd5-4cb8-9f6f-096a1cfc0eb2
 
 > Freepik 展示 Seedance 2.0 在广告领域的生成能力，附带实际视频输出
 
+### Case 450: [Why Seedance 2.0 is Delayed and will be NERFED - Comparison vs Sora 2 & Kling 3.0](https://www.youtube.com/watch?v=swW5UTvLKcE)（by Dan Kieft）
+
+<a href="https://www.youtube.com/watch?v=swW5UTvLKcE"><img src="https://img.youtube.com/vi/swW5UTvLKcE/hqdefault.jpg" width="480" alt="Why Seedance 2.0 is Delayed and will be NERFED - Comparison vs Sora 2 & Kling 3.0"></a>
+
+**Tags:** `commercial`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
+### Case 451: [I Tested 10 BRUTAL Viral Seedance 2.0 Prompts! (Full Showcase & Where to Access)](https://www.youtube.com/watch?v=KnyrIp9qRuU)（by Dom the AI Tutor | Tech Tutor Zones）
+
+<a href="https://www.youtube.com/watch?v=KnyrIp9qRuU"><img src="https://img.youtube.com/vi/KnyrIp9qRuU/hqdefault.jpg" width="480" alt="I Tested 10 BRUTAL Viral Seedance 2.0 Prompts! (Full Showcase & Where to Access)"></a>
+
+**Tags:** `fight-scene` `cinematic` `transformation` `animation`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
+### Case 452: [The TRUTH about Seedance 2.0 - REAL TEST vs Kling 3.0](https://www.youtube.com/watch?v=RMiFT5RRXbY)（by Joseph Martin）
+
+<a href="https://www.youtube.com/watch?v=RMiFT5RRXbY"><img src="https://img.youtube.com/vi/RMiFT5RRXbY/hqdefault.jpg" width="480" alt="The TRUTH about Seedance 2.0 - REAL TEST vs Kling 3.0"></a>
+
+**Tags:** `cinematic` `commercial` `music-video` `animation`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
+### Case 453: [Seedance 2.0 compilation — 25 AI Videos That Shouldn't Be Possible Part 6](https://www.youtube.com/watch?v=YjvE_ao0QEk)（by AI Motion Studio）
+
+<a href="https://www.youtube.com/watch?v=YjvE_ao0QEk"><img src="https://img.youtube.com/vi/YjvE_ao0QEk/hqdefault.jpg" width="480" alt="Seedance 2.0 compilation — 25 AI Videos That Shouldn't Be Possible Part 6"></a>
+
+**Tags:** `cinematic` `commercial` `animation`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
+### Case 454: [This Is Why Your AI Dialogue Sounds Fake (Seedance 2.0 Quick Tip #1)](https://www.youtube.com/watch?v=TR6_LmPujlM)（by JSFILMZ）
+
+<a href="https://www.youtube.com/watch?v=TR6_LmPujlM"><img src="https://img.youtube.com/vi/TR6_LmPujlM/hqdefault.jpg" width="480" alt="This Is Why Your AI Dialogue Sounds Fake (Seedance 2.0 Quick Tip #1)"></a>
+
+**Tags:** `cinematic` `commercial`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
+### Case 455: [Seedance 2.0 Changed How I Make Films (Full Breakdown)](https://www.youtube.com/watch?v=7gFp-AoeTl4)（by Higgsfield AI）
+
+<a href="https://www.youtube.com/watch?v=7gFp-AoeTl4"><img src="https://img.youtube.com/vi/7gFp-AoeTl4/hqdefault.jpg" width="480" alt="Seedance 2.0 Changed How I Make Films (Full Breakdown)"></a>
+
+**Tags:** `cinematic` `commercial` `short-film` `showcase`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
+### Case 456: [The Secret Reason Seedance 2.0 is So Realistic!](https://www.youtube.com/watch?v=Bb2KxODYfeg)（by AI Samson）
+
+<a href="https://www.youtube.com/watch?v=Bb2KxODYfeg"><img src="https://img.youtube.com/vi/Bb2KxODYfeg/hqdefault.jpg" width="480" alt="The Secret Reason Seedance 2.0 is So Realistic!"></a>
+
+**Tags:** `cinematic` `commercial` `tutorial`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
+### Case 457: [Seedance 2.0 Is FINALLY Here!](https://www.youtube.com/watch?v=vlGyKELBgVQ)（by WealthWise）
+
+<a href="https://www.youtube.com/watch?v=vlGyKELBgVQ"><img src="https://img.youtube.com/vi/vlGyKELBgVQ/hqdefault.jpg" width="480" alt="Seedance 2.0 Is FINALLY Here!"></a>
+
+**Tags:** `cinematic` `animation` `tutorial`
+
+> 展示 Seedance 2.0 实际生成视频输出的 YouTube 案例。
+
 ## 🤝 Contributing
 
 Found an amazing Seedance 2.0 video? [Submit a Case](../../issues/new?template=submit-case.yml)!
